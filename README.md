@@ -64,7 +64,14 @@ $PY scripts/compare_finance_ths_vs_004.py
 
 # ⑥ 23 指标覆盖率 + 除权除息对拍
 $PY scripts/compare_xdxr_and_coverage.py --n 60
+
+# ⑦ ★每日数据校验（已挂进 004 管线，同步完自动触发）
+$PY scripts/daily_dump_verify.py            # 发现问题推微信告警，退出码=1
+$PY scripts/daily_dump_verify.py --selftest # 注入历史事故，验证能否捕获
 ```
+
+> **注意**：生产版在 `004_sequoia-x/scripts/daily_dump_verify.py`（由 004 管线调用）。
+> 本目录保留开发版，两者逻辑相同。
 
 ---
 
