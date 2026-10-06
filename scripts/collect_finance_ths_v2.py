@@ -120,7 +120,40 @@ def ms(y, m, d):
     return int(dt.datetime(y, m, d).timestamp() * 1000)
 
 
-# ── 采集：三表 ──
+def _rep_key(rep):
+    """'2025-3' → (2025, 3)，用于比较报告期先后。"""
+    y, q = rep.split("-")
+    return (int(y), int(q))
+
+
+def _rep_ge(a, b):
+    return _rep_key(a) >= _rep_key(b)
+
+
+def shift_report(rep, back):
+    """把报告期往前推 back 个季度：('2026-2', 1) → '2026-1'"""
+    y, q = _rep_key(rep)
+    n = y * 4 + (q - 1) - back
+    return f"{n // 4}-{n % 4 + 1}"
+
+
+def merge_refresh(old, new, keys):
+    """增量合并：新数据覆盖同键旧数据（财报会修订，新版为准）。"""
+    if new is None or not len(new):
+        return old
+    if old is None or not len(old):
+        return new
+    # 列可能不同（新股/接口新增字段）→ outer 对齐
+    for k in keys:
+        if k not in old.columns:
+            old[k] = None
+        if k not in new.columns:
+            new[k] = None
+    df = pd.concat([old, new], ignore_index=True)
+    return df.drop_duplicates(subset=keys, keep="last").reset_index(drop=True)
+
+
+# ── 采集：三表（全量：3 段 range 覆盖 2000→今）──
 def fetch_statement(code, sub):
     frames = []
     for (y0, y1) in YEAR_CHUNKS:
@@ -141,10 +174,28 @@ def fetch_statement(code, sub):
     return df
 
 
+# ── 采集：三表（增量：最近 N 期，1 次调用）──
+def fetch_statement_recent(code, sub, limit=6):
+    j = req(f"/api/a-share/financials/{STATEMENTS[sub]}",
+            {"thscode": thscode(code), "period": "quarterly", "limit": limit})
+    if j.get("code") != 0:
+        return None
+    it = j.get("data", {}).get("item", [])
+    if not it:
+        return None
+    df = pd.DataFrame(it)
+    df["code"] = code
+    return df.drop_duplicates(subset=["fiscal_year", "fiscal_period"])
+
+
 # ── 采集：23 指标 ──
-def fetch_indicators(code, start_year):
+def fetch_indicators(code, start_year, min_report=None):
+    """min_report 形如 '2025-3'；给了就只从该期往后取（增量模式）。"""
+    reps = quarter_list(start_year, IND_END_YEAR)
+    if min_report:
+        reps = [r for r in reps if _rep_ge(r, min_report)]
     rows = []
-    for rep in quarter_list(start_year, IND_END_YEAR):
+    for rep in reps:
         j = req("/api/a-share/financials/indicators",
                 {"thscode": thscode(code), "report": rep})
         if j.get("code") != 0:
@@ -196,7 +247,16 @@ def main():
                     help="全局每请求最小间隔(秒)，决定总速率上限")
     ap.add_argument("--limit", type=int, default=0, help="只跑前 N 只（试跑）")
     ap.add_argument("--ind-start", type=int, default=IND_START_YEAR)
+    ap.add_argument("--refresh", action="store_true",
+                    help="增量模式：只拉比已有数据更新的报告期，合并回写（月度同步用）")
+    ap.add_argument("--refresh-periods", type=int, default=4,
+                    help="增量时回看几期（防财报修订/漏采），默认 4")
+    ap.add_argument("--out", default=None, help="覆盖输出目录（测试用沙箱）")
     args = ap.parse_args()
+
+    global OUT
+    if args.out:
+        OUT = args.out
 
     if len(KEY) < 8:
         sys.exit("❌ 缺 HITHINK_FINANCE_API_KEY")
@@ -218,24 +278,50 @@ def main():
 
     log("=" * 78)
     log(f"同花顺财务采集 → {OUT}")
-    log(f"  子集={subs}  股票={len(codes)}  并发达={args.workers}  "
-        f"间隔={args.interval}s  指标起始={args.ind_start}")
+    log(f"  模式={'★增量 REFRESH（只拉新报告期并合并）' if args.refresh else '全量'}  "
+        f"子集={subs}  股票={len(codes)}  并发达={args.workers}")
+    log(f"  间隔={args.interval}s  指标起始={args.ind_start}  "
+        f"增量回看={args.refresh_periods}期")
     log(f"  全局速率上限≈{1/max(args.interval,0.001):.0f} req/s（受全局限速器约束）")
     log("=" * 78)
 
     for sub in subs:
-        todo = [c for c in codes
-                if not os.path.exists(os.path.join(OUT, sub, f"{c}.parquet"))]
-        log(f"\n【{sub}】待采 {len(todo)} / {len(codes)} 只（其余已完成，跳过）")
+        path_of = lambda c: os.path.join(OUT, sub, f"{c}.parquet")
+        if args.refresh:
+            # 增量：已有文件是「基准」，全部股票都要处理（无文件的走全量补齐）
+            todo = list(codes)
+            have = sum(1 for c in codes if os.path.exists(path_of(c)))
+            log(f"\n【{sub}】增量模式：{have} 只有基准文件，"
+                f"{len(codes)-have} 只缺失将走全量补齐")
+        else:
+            todo = [c for c in codes if not os.path.exists(path_of(c))]
+            log(f"\n【{sub}】待采 {len(todo)} / {len(codes)} 只（其余已完成，跳过）")
         if not todo:
             continue
 
         failed = []
         t0 = time.time()
         done = [0]
+        n_add = [0]
 
         def work(code):
+            old = None
+            if args.refresh and os.path.exists(path_of(code)):
+                try:
+                    old = pd.read_parquet(path_of(code))
+                except Exception:
+                    old = None
+
             def _do():
+                if old is not None and len(old):
+                    # ── 增量分支：只取更新的期 ──
+                    if sub == "indicators":
+                        mr = str(old["report"].max())
+                        mr = shift_report(mr, args.refresh_periods - 1)
+                        return fetch_indicators(code, args.ind_start, min_report=mr)
+                    return fetch_statement_recent(
+                        code, sub, limit=max(args.refresh_periods, 4))
+                # ── 全量分支 ──
                 if sub == "indicators":
                     st = args.ind_start
                     ld = listed.get(code)
@@ -246,9 +332,17 @@ def main():
                             pass
                     return fetch_indicators(code, st)
                 return fetch_statement(code, sub)
-            df = _do()
-            ok, note = self_check(df, sub)
-            return code, df, ok, note
+
+            new = _do()
+            if old is not None and len(old):
+                keys = ["report"] if sub == "indicators" else ["fiscal_year", "fiscal_period"]
+                before = len(old)
+                df = merge_refresh(old, new, keys)
+                n_add[0] += max(0, len(df) - before)
+                ok, note = self_check(df, sub)
+                return code, df, ok, note + f"(+{len(df)-before}期)"
+            ok, note = self_check(new, sub)
+            return code, new, ok, note
 
         with ThreadPoolExecutor(max_workers=args.workers) as ex:
             futs = {ex.submit(work, c): c for c in todo}
@@ -261,7 +355,19 @@ def main():
                     log(f"   ✗ {code} 异常 {str(e)[:60]}")
                     continue
                 if ok:
-                    df.to_parquet(os.path.join(OUT, sub, f"{code}.parquet"), index=False)
+                    # ★原子写入：先写临时文件再改名。refresh 模式会覆盖已有文件，
+                    # 直接写若中途崩溃会丢历史数据；os.replace 是原子操作，不会写坏。
+                    fp_ = os.path.join(OUT, sub, f"{code}.parquet")
+                    tmp = fp_ + ".tmp"
+                    try:
+                        df.to_parquet(tmp, index=False)
+                        os.replace(tmp, fp_)
+                    except Exception as e:
+                        if os.path.exists(tmp):
+                            os.remove(tmp)
+                        failed.append(code)
+                        log(f"   ✗ {code} 写盘失败 {str(e)[:50]}")
+                        continue
                     with _stat_lock:
                         _stat["ok"] += 1
                         _stat["rows"] += len(df)
@@ -282,13 +388,15 @@ def main():
         fp = os.path.join(OUT, f"failed_{sub}.txt")
         with open(fp, "w") as f:
             f.write("\n".join(failed))
-        log(f"【{sub}】完成：成功 {len(todo)-len(failed)} / {len(todo)}，"
+        extra = f"，新增 {n_add[0]:,} 期" if args.refresh else ""
+        log(f"【{sub}】完成：成功 {len(todo)-len(failed)} / {len(todo)}{extra}，"
             f"失败 {len(failed)} 只 → {fp}")
 
     with _stat_lock:
         log(f"\n总计：成功 {_stat['ok']} 只 / {_stat['rows']:,} 行 / "
             f"请求 {_stat['req']:,} 次 / 耗时 {(time.time()-_stat['t0'])/60:.1f}min")
     man = {"updated": str(datetime.now()), "out": OUT, "subsets": subs,
+           "mode": "refresh" if args.refresh else "full",
            "n_codes": len(codes), "workers": args.workers,
            "ind_start": args.ind_start, **{k: _stat[k] for k in ("ok", "fail", "rows", "req")}}
     json.dump(man, open(os.path.join(OUT, "manifest.json"), "w"),
