@@ -23,10 +23,32 @@ ts() { date '+%Y-%m-%d %H:%M:%S'; }
 echo "[$(ts)] ══ V6-A 自动接力启动 ══"
 echo "  等待重建进程 PID=$WAIT_PID 结束…"
 
-# ── 1. 等重建结束（PID 存活检测，天然无自匹配问题）──
-while kill -0 "$WAIT_PID" 2>/dev/null; do
+# ── 1. 等重建结束 ──
+# 用「PID 存活 + 进程身份」双重判据，并加 6 小时硬上限：
+#   ① 只用 kill -0 有 **PID 复用** 风险：若目标进程已死、而系统把该 PID 分配给
+#      别的进程，kill -0 仍返回成功 → 接力会**永远等下去** → 整晚白等。
+#   ② 故再核一次进程名（args 含 run_v6a_rebuild）确认身份。
+#   ③ 再加 MAX_WAIT 兜底：无论什么原因，6 小时后一定往下走，绝不无限等。
+MAX_WAIT=$((6 * 3600))
+waited=0
+while [ "$waited" -lt "$MAX_WAIT" ]; do
+  if ! kill -0 "$WAIT_PID" 2>/dev/null; then
+    echo "[$(ts)] PID $WAIT_PID 已消失（等待 ${waited}s）"
+    break
+  fi
+  if ! ps -p "$WAIT_PID" -o args= 2>/dev/null | grep -q "run_v6a_rebuild"; then
+    echo "[$(ts)] ⚠️ PID $WAIT_PID 仍在，但已不是重建进程（疑似 PID 复用）→ 视为已结束"
+    break
+  fi
   sleep 60
+  waited=$((waited + 60))
+  if [ $((waited % 1800)) -eq 0 ]; then
+    echo "[$(ts)]   仍在等重建… 已等 $((waited/60))min"
+  fi
 done
+if [ "$waited" -ge "$MAX_WAIT" ]; then
+  echo "[$(ts)] ⚠️ 等待超过 ${MAX_WAIT}s 上限 → 强制继续（请人工确认重建是否真的完成）"
+fi
 sleep 20   # 留缓冲，确保子进程也写完文件
 
 echo "[$(ts)] 重建进程已结束。检查产物…"
