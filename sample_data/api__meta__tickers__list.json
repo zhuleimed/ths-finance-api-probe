@@ -1,0 +1,72 @@
+{
+ "path": "/api/meta/tickers/list",
+ "params": {
+  "asset_type": "a-share",
+  "limit": 5
+ },
+ "data": {
+  "timestamp": 1791244821215,
+  "item": [
+   {
+    "thscode": "600000.SH",
+    "ticker": "600000",
+    "name": "浦发银行",
+    "exchange": "SH",
+    "asset_type": "a-share",
+    "currency": "CNY",
+    "list_date": "1999-11-10",
+    "end_date": null,
+    "last_trade_date": null,
+    "last_delivery_date": null
+   },
+   {
+    "thscode": "600004.SH",
+    "ticker": "600004",
+    "name": "白云机场",
+    "exchange": "SH",
+    "asset_type": "a-share",
+    "currency": "CNY",
+    "list_date": "2003-04-28",
+    "end_date": null,
+    "last_trade_date": null,
+    "last_delivery_date": null
+   },
+   {
+    "thscode": "600006.SH",
+    "ticker": "600006",
+    "name": "东风股份",
+    "exchange": "SH",
+    "asset_type": "a-share",
+    "currency": "CNY",
+    "list_date": "1999-07-27",
+    "end_date": null,
+    "last_trade_date": null,
+    "last_delivery_date": null
+   },
+   {
+    "thscode": "600007.SH",
+    "ticker": "600007",
+    "name": "中国国贸",
+    "exchange": "SH",
+    "asset_type": "a-share",
+    "currency": "CNY",
+    "list_date": "1999-03-12",
+    "end_date": null,
+    "last_trade_date": null,
+    "last_delivery_date": null
+   },
+   {
+    "thscode": "600008.SH",
+    "ticker": "600008",
+    "name": "首创环保",
+    "exchange": "SH",
+    "asset_type": "a-share",
+    "currency": "CNY",
+    "list_date": "2000-04-27",
+    "end_date": null,
+    "last_trade_date": null,
+    "last_delivery_date": null
+   }
+  ]
+ }
+}

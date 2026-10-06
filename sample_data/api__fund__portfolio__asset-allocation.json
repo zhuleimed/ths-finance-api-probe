@@ -1,0 +1,46 @@
+{
+ "path": "/api/fund/portfolio/asset-allocation",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1791247967271,
+  "item": [
+   {
+    "report_date_ms": null,
+    "stock_ratio_pct": 98.13,
+    "bond_ratio_pct": 0,
+    "deposit_ratio_pct": 1.72,
+    "other_ratio_pct": 0.15
+   },
+   {
+    "report_date_ms": null,
+    "stock_ratio_pct": 0,
+    "bond_ratio_pct": 0,
+    "deposit_ratio_pct": 0,
+    "other_ratio_pct": 0.34
+   },
+   {
+    "report_date_ms": null,
+    "stock_ratio_pct": 98.76,
+    "bond_ratio_pct": 0,
+    "deposit_ratio_pct": 1.11,
+    "other_ratio_pct": 0.13
+   },
+   {
+    "report_date_ms": null,
+    "stock_ratio_pct": 98.6,
+    "bond_ratio_pct": 0,
+    "deposit_ratio_pct": 1.25,
+    "other_ratio_pct": 0.15
+   },
+   {
+    "report_date_ms": null,
+    "stock_ratio_pct": 95.11,
+    "bond_ratio_pct": 0,
+    "deposit_ratio_pct": 4.01,
+    "other_ratio_pct": 0.88
+   }
+  ]
+ }
+}

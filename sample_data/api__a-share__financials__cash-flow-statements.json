@@ -1,0 +1,77 @@
+{
+ "path": "/api/a-share/financials/cash-flow-statements",
+ "params": {
+  "thscode": "600519.SH",
+  "period": "quarterly",
+  "limit": 4
+ },
+ "data": {
+  "timestamp": 1782748800000,
+  "item": [
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "period": "quarterly",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "report_date_ms": 1786723200000,
+    "period_end_ms": 1782748800000,
+    "currency": "CNY",
+    "act_cash_flow_net": 70690750119.06,
+    "invest_cash_flow_net": 25640543520.6,
+    "financing_cash_flow_net": -37944297802.12,
+    "pay_fixed_assets_etc_cash": 832142752.28,
+    "pay_dividends_profits_interest_cash": 35044145842.75,
+    "cash_equivalents_net_addition": 58385486034.9
+   },
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "period": "quarterly",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q1",
+    "report_date_ms": 1777046400000,
+    "period_end_ms": 1774886400000,
+    "currency": "CNY",
+    "act_cash_flow_net": 26909891269.13,
+    "invest_cash_flow_net": 25638946497.35,
+    "financing_cash_flow_net": -1005514179.59,
+    "pay_fixed_assets_etc_cash": 604791583.89,
+    "pay_dividends_profits_interest_cash": null,
+    "cash_equivalents_net_addition": 51542617676.63
+   },
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "period": "quarterly",
+    "fiscal_year": 2025,
+    "fiscal_period": "Q4",
+    "report_date_ms": 1776355200000,
+    "period_end_ms": 1767110400000,
+    "currency": "CNY",
+    "act_cash_flow_net": 61522204989.35,
+    "invest_cash_flow_net": -31641898948.89,
+    "financing_cash_flow_net": -73427081208.87,
+    "pay_fixed_assets_etc_cash": 3127594916.41,
+    "pay_dividends_profits_interest_cash": 67241733345.45,
+    "cash_equivalents_net_addition": -43544479810.11
+   },
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "period": "quarterly",
+    "fiscal_year": 2025,
+    "fiscal_period": "Q3",
+    "report_date_ms": 1761753600000,
+    "period_end_ms": 1759161600000,
+    "currency": "CNY",
+    "act_cash_flow_net": 38196802155.27,
+    "invest_cash_flow_net": -5423368095.74,
+    "financing_cash_flow_net": -43243803506.28,
+    "pay_fixed_assets_etc_cash": 2282862269.89,
+    "pay_dividends_profits_interest_cash": 37212595804.69,
+    "cash_equivalents_net_addition": -10467626915.55
+   }
+  ]
+ }
+}

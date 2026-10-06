@@ -1,0 +1,177 @@
+{
+ "path": "/api/fund/performance/indicators-historical",
+ "params": {
+  "thscode": "510300.SH",
+  "start": 1756656000000,
+  "end": 1759247999000
+ },
+ "data": {
+  "timestamp": 1759161600000,
+  "item": [
+   {
+    "date_ms": 1756656000000,
+    "rsi_pct": 81.84,
+    "donchian_channel": 10.6,
+    "track_index_pe_ttm_five_year_percentile": 88.5
+   },
+   {
+    "date_ms": 1756742400000,
+    "rsi_pct": 77.53,
+    "donchian_channel": 8.43,
+    "track_index_pe_ttm_five_year_percentile": 88.72
+   },
+   {
+    "date_ms": 1756828800000,
+    "rsi_pct": 72.33,
+    "donchian_channel": 6.982,
+    "track_index_pe_ttm_five_year_percentile": 85.76
+   },
+   {
+    "date_ms": 1756915200000,
+    "rsi_pct": 60.13,
+    "donchian_channel": 2.536,
+    "track_index_pe_ttm_five_year_percentile": 82.04
+   },
+   {
+    "date_ms": 1757001600000,
+    "rsi_pct": 66.71,
+    "donchian_channel": 6.904,
+    "track_index_pe_ttm_five_year_percentile": 85.05
+   },
+   {
+    "date_ms": 1757088000000,
+    "track_index_pe_ttm_five_year_percentile": 85.05
+   },
+   {
+    "date_ms": 1757174400000,
+    "track_index_pe_ttm_five_year_percentile": 85.05
+   },
+   {
+    "date_ms": 1757260800000,
+    "rsi_pct": 64.68,
+    "donchian_channel": 7.108,
+    "track_index_pe_ttm_five_year_percentile": 85.32
+   },
+   {
+    "date_ms": 1757347200000,
+    "rsi_pct": 60.94,
+    "donchian_channel": 5.106,
+    "track_index_pe_ttm_five_year_percentile": 82.86
+   },
+   {
+    "date_ms": 1757433600000,
+    "rsi_pct": 55.75,
+    "donchian_channel": 5.634,
+    "track_index_pe_ttm_five_year_percentile": 83.79
+   },
+   {
+    "date_ms": 1757520000000,
+    "rsi_pct": 56.54,
+    "donchian_channel": 10.56,
+    "track_index_pe_ttm_five_year_percentile": 89.43
+   },
+   {
+    "date_ms": 1757606400000,
+    "rsi_pct": 55.74,
+    "donchian_channel": 8.458,
+    "track_index_pe_ttm_five_year_percentile": 87.79
+   },
+   {
+    "date_ms": 1757692800000,
+    "track_index_pe_ttm_five_year_percentile": 87.79
+   },
+   {
+    "date_ms": 1757779200000,
+    "track_index_pe_ttm_five_year_percentile": 87.79
+   },
+   {
+    "date_ms": 1757865600000,
+    "rsi_pct": 62.88,
+    "donchian_channel": 9.106,
+    "track_index_pe_ttm_five_year_percentile": 87.95
+   },
+   {
+    "date_ms": 1757952000000,
+    "rsi_pct": 56.19,
+    "donchian_channel": 8.328,
+    "track_index_pe_ttm_five_year_percentile": 87.57
+   },
+   {
+    "date_ms": 1758038400000,
+    "rsi_pct": 55.65,
+    "donchian_channel": 10.11,
+    "track_index_pe_ttm_five_year_percentile": 89.1
+   },
+   {
+    "date_ms": 1758124800000,
+    "rsi_pct": 47.85,
+    "donchian_channel": 4.382,
+    "track_index_pe_ttm_five_year_percentile": 84.34
+   },
+   {
+    "date_ms": 1758211200000,
+    "rsi_pct": 51.43,
+    "donchian_channel": 4.79,
+    "track_index_pe_ttm_five_year_percentile": 84.12
+   },
+   {
+    "date_ms": 1758297600000,
+    "track_index_pe_ttm_five_year_percentile": 84.17
+   },
+   {
+    "date_ms": 1758384000000,
+    "track_index_pe_ttm_five_year_percentile": 84.17
+   },
+   {
+    "date_ms": 1758470400000,
+    "rsi_pct": 56.7,
+    "donchian_channel": 6.988,
+    "track_index_pe_ttm_five_year_percentile": 84.94
+   },
+   {
+    "date_ms": 1758556800000,
+    "rsi_pct": 69.62,
+    "donchian_channel": 6.648,
+    "track_index_pe_ttm_five_year_percentile": 85.82
+   },
+   {
+    "date_ms": 1758643200000,
+    "rsi_pct": 65.41,
+    "donchian_channel": 10.33,
+    "track_index_pe_ttm_five_year_percentile": 87.62
+   },
+   {
+    "date_ms": 1758729600000,
+    "rsi_pct": 67.34,
+    "donchian_channel": 10.61,
+    "track_index_pe_ttm_five_year_percentile": 88.44
+   },
+   {
+    "date_ms": 1758816000000,
+    "rsi_pct": 65.28,
+    "donchian_channel": 6.294,
+    "track_index_pe_ttm_five_year_percentile": 86.47
+   },
+   {
+    "date_ms": 1758902400000,
+    "track_index_pe_ttm_five_year_percentile": 86.53
+   },
+   {
+    "date_ms": 1758988800000,
+    "track_index_pe_ttm_five_year_percentile": 86.53
+   },
+   {
+    "date_ms": 1759075200000,
+    "rsi_pct": 70.0,
+    "donchian_channel": 10.59,
+    "track_index_pe_ttm_five_year_percentile": 89.92
+   },
+   {
+    "date_ms": 1759161600000,
+    "rsi_pct": 63.27,
+    "donchian_channel": 10.46,
+    "track_index_pe_ttm_five_year_percentile": 81.05
+   }
+  ]
+ }
+}

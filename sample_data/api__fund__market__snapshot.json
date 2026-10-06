@@ -1,0 +1,26 @@
+{
+ "path": "/api/fund/market/snapshot",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1791247962000,
+  "item": [
+   {
+    "thscode": "510300.SH",
+    "ticker": "510300",
+    "last_price": 4.432,
+    "open_price": 4.421,
+    "high_price": 4.444,
+    "low_price": 4.415,
+    "prev_price": 4.416,
+    "price_change_ratio_pct": 0.362319,
+    "price_change": 0.016,
+    "price_amplitude_ratio_pct": 0.656703,
+    "volume": 495854380,
+    "turnover": 2196229000,
+    "turnover_ratio_pct": 2.055816
+   }
+  ]
+ }
+}

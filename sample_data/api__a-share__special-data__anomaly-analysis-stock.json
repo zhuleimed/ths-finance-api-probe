@@ -1,0 +1,12 @@
+{
+ "path": "/api/a-share/special-data/anomaly-analysis-stock",
+ "params": {
+  "thscodes": "600519.SH",
+  "start_date": "20250901",
+  "end_date": "20250930"
+ },
+ "data": {
+  "timestamp": 1791247921781,
+  "item": []
+ }
+}

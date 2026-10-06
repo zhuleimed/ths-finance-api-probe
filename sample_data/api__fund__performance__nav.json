@@ -1,0 +1,16 @@
+{
+ "path": "/api/fund/performance/nav",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1790697600000,
+  "item": [
+   {
+    "nav_date": 1790697600000,
+    "unit_nav": 4.4312,
+    "adj_nav": 2.0822
+   }
+  ]
+ }
+}

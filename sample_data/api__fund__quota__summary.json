@@ -1,0 +1,15 @@
+{
+ "path": "/api/fund/quota/summary",
+ "params": {
+  "tab": "[\"nazhi100\"]"
+ },
+ "data": [
+  {
+   "name": "nazhi100",
+   "unlimited": "0",
+   "total_limit": "155.00",
+   "total": "27",
+   "buy": "18"
+  }
+ ]
+}

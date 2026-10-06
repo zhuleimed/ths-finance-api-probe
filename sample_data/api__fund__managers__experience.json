@@ -1,0 +1,16 @@
+{
+ "path": "/api/fund/managers/experience",
+ "params": {
+  "manager_id": "30000000"
+ },
+ "data": {
+  "timestamp": 1791247968891,
+  "item": [
+   {
+    "awards": null,
+    "heavy_assets": null,
+    "investment_history": null
+   }
+  ]
+ }
+}

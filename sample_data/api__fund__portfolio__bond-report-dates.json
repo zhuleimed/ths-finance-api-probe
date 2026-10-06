@@ -1,0 +1,89 @@
+{
+ "path": "/api/fund/portfolio/bond-report-dates",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1791247966440,
+  "item": [
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1735660800000,
+    "end_date_ms": 1743350400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1656604800000,
+    "end_date_ms": 1664467200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1648742400000,
+    "end_date_ms": 1656518400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1640966400000,
+    "end_date_ms": 1648656000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1617206400000,
+    "end_date_ms": 1624982400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1609430400000,
+    "end_date_ms": 1617120000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1601481600000,
+    "end_date_ms": 1609344000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1585670400000,
+    "end_date_ms": 1593446400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1577808000000,
+    "end_date_ms": 1585584000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1546272000000,
+    "end_date_ms": 1553961600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1514736000000,
+    "end_date_ms": 1522425600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1483200000000,
+    "end_date_ms": 1490889600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1404144000000,
+    "end_date_ms": 1412006400000
+   }
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "window": [
+  "2026-04-09",
+  "2026-09-30"
+ ],
+ "n_codes": 200,
+ "n_matched": 23940,
+ "fields": {
+  "open_price": {
+   "exact_pct": 99.9582,
+   "within_tol_pct": 99.9582,
+   "gt1pct_pct": 0.0418,
+   "median_rel_err": 0.0
+  },
+  "high_price": {
+   "exact_pct": 99.9582,
+   "within_tol_pct": 99.9582,
+   "gt1pct_pct": 0.0418,
+   "median_rel_err": 0.0
+  },
+  "low_price": {
+   "exact_pct": 99.9582,
+   "within_tol_pct": 99.9582,
+   "gt1pct_pct": 0.0418,
+   "median_rel_err": 0.0
+  },
+  "close_price": {
+   "exact_pct": 99.9582,
+   "within_tol_pct": 99.9582,
+   "gt1pct_pct": 0.0418,
+   "median_rel_err": 0.0
+  },
+  "volume_ths": {
+   "exact_pct": 85.4428,
+   "within_tol_pct": 99.6366,
+   "gt1pct_pct": 0.3634,
+   "median_rel_err": 0.0
+  },
+  "turnover_ths": {
+   "exact_pct": 0.0,
+   "within_tol_pct": 0.0,
+   "gt1pct_pct": 10.8521,
+   "median_rel_err": 0.9999999876735477
+  }
+ },
+ "volume_ratio_median": 1.0,
+ "turnover_ratio_median": 81127600.18747774
+}

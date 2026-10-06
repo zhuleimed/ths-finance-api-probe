@@ -1,0 +1,389 @@
+{
+ "path": "/api/fund/offerings/list",
+ "params": {
+  "subscribe": "active"
+ },
+ "data": {
+  "timestamp": 1791248092938,
+  "item": [
+   {
+    "thscode": "026920.OF",
+    "ticker": "026920",
+    "subscription_start_ms": 1787587200000,
+    "subscription_end_ms": 1795158000000
+   },
+   {
+    "thscode": "026921.OF",
+    "ticker": "026921",
+    "subscription_start_ms": 1787587200000,
+    "subscription_end_ms": 1795158000000
+   },
+   {
+    "thscode": "027975.OF",
+    "ticker": "027975",
+    "subscription_start_ms": 1787500800000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "027976.OF",
+    "ticker": "027976",
+    "subscription_start_ms": 1787500800000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "561270.SH",
+    "ticker": "561270",
+    "subscription_start_ms": 1787500800000,
+    "subscription_end_ms": 1795158000000
+   },
+   {
+    "thscode": "560430.SH",
+    "ticker": "560430",
+    "subscription_start_ms": 1787673600000,
+    "subscription_end_ms": 1795590000000
+   },
+   {
+    "thscode": "159047.SZ",
+    "ticker": "159047",
+    "subscription_start_ms": 1788105600000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "028828.OF",
+    "ticker": "028828",
+    "subscription_start_ms": 1788278400000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "028829.OF",
+    "ticker": "028829",
+    "subscription_start_ms": 1788278400000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "026952.OF",
+    "ticker": "026952",
+    "subscription_start_ms": 1788105600000,
+    "subscription_end_ms": 1796022000000
+   },
+   {
+    "thscode": "026953.OF",
+    "ticker": "026953",
+    "subscription_start_ms": 1788105600000,
+    "subscription_end_ms": 1796022000000
+   },
+   {
+    "thscode": "526020.SH",
+    "ticker": "526020",
+    "subscription_start_ms": 1788192000000,
+    "subscription_end_ms": 1796022000000
+   },
+   {
+    "thscode": "026966.OF",
+    "ticker": "026966",
+    "subscription_start_ms": 1788105600000,
+    "subscription_end_ms": 1796022000000
+   },
+   {
+    "thscode": "026967.OF",
+    "ticker": "026967",
+    "subscription_start_ms": 1788105600000,
+    "subscription_end_ms": 1796022000000
+   },
+   {
+    "thscode": "028824.OF",
+    "ticker": "028824",
+    "subscription_start_ms": 1788192000000,
+    "subscription_end_ms": 1791529200000
+   },
+   {
+    "thscode": "028825.OF",
+    "ticker": "028825",
+    "subscription_start_ms": 1788192000000,
+    "subscription_end_ms": 1791529200000
+   },
+   {
+    "thscode": "589450.SH",
+    "ticker": "589450",
+    "subscription_start_ms": 1788192000000,
+    "subscription_end_ms": 1793343600000
+   },
+   {
+    "thscode": "028560.OF",
+    "ticker": "028560",
+    "subscription_start_ms": 1788192000000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "028734.OF",
+    "ticker": "028734",
+    "subscription_start_ms": 1788105600000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "028735.OF",
+    "ticker": "028735",
+    "subscription_start_ms": 1788105600000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "028770.OF",
+    "ticker": "028770",
+    "subscription_start_ms": 1789315200000,
+    "subscription_end_ms": 1791529200000
+   },
+   {
+    "thscode": "028771.OF",
+    "ticker": "028771",
+    "subscription_start_ms": 1789315200000,
+    "subscription_end_ms": 1791529200000
+   },
+   {
+    "thscode": "028558.OF",
+    "ticker": "028558",
+    "subscription_start_ms": 1788105600000,
+    "subscription_end_ms": 1791442800000
+   },
+   {
+    "thscode": "028559.OF",
+    "ticker": "028559",
+    "subscription_start_ms": 1788105600000,
+    "subscription_end_ms": 1791442800000
+   },
+   {
+    "thscode": "028919.OF",
+    "ticker": "028919",
+    "subscription_start_ms": 1788710400000,
+    "subscription_end_ms": 1793343600000
+   },
+   {
+    "thscode": "028920.OF",
+    "ticker": "028920",
+    "subscription_start_ms": 1788710400000,
+    "subscription_end_ms": 1793343600000
+   },
+   {
+    "thscode": "028926.OF",
+    "ticker": "028926",
+    "subscription_start_ms": 1788451200000,
+    "subscription_end_ms": 1791788400000
+   },
+   {
+    "thscode": "028927.OF",
+    "ticker": "028927",
+    "subscription_start_ms": 1788451200000,
+    "subscription_end_ms": 1791788400000
+   },
+   {
+    "thscode": "028376.OF",
+    "ticker": "028376",
+    "subscription_start_ms": 1789315200000,
+    "subscription_end_ms": 1791788400000
+   },
+   {
+    "thscode": "028377.OF",
+    "ticker": "028377",
+    "subscription_start_ms": 1789315200000,
+    "subscription_end_ms": 1791788400000
+   },
+   {
+    "thscode": "028982.OF",
+    "ticker": "028982",
+    "subscription_start_ms": 1788710400000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "028983.OF",
+    "ticker": "028983",
+    "subscription_start_ms": 1788710400000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "028832.OF",
+    "ticker": "028832",
+    "subscription_start_ms": 1789315200000,
+    "subscription_end_ms": 1791529200000
+   },
+   {
+    "thscode": "028833.OF",
+    "ticker": "028833",
+    "subscription_start_ms": 1789315200000,
+    "subscription_end_ms": 1791529200000
+   },
+   {
+    "thscode": "027391.OF",
+    "ticker": "027391",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1792566000000
+   },
+   {
+    "thscode": "027392.OF",
+    "ticker": "027392",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1792566000000
+   },
+   {
+    "thscode": "028764.OF",
+    "ticker": "028764",
+    "subscription_start_ms": 1789315200000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "028765.OF",
+    "ticker": "028765",
+    "subscription_start_ms": 1789315200000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "588490.SH",
+    "ticker": "588490",
+    "subscription_start_ms": 1789056000000,
+    "subscription_end_ms": 1796713200000
+   },
+   {
+    "thscode": "027907.OF",
+    "ticker": "027907",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "027908.OF",
+    "ticker": "027908",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "028930.OF",
+    "ticker": "028930",
+    "subscription_start_ms": 1789488000000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "028931.OF",
+    "ticker": "028931",
+    "subscription_start_ms": 1789488000000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "158036.SZ",
+    "ticker": "158036",
+    "subscription_start_ms": 1789574400000,
+    "subscription_end_ms": 1791788400000
+   },
+   {
+    "thscode": "028845.OF",
+    "ticker": "028845",
+    "subscription_start_ms": 1789920000000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "028846.OF",
+    "ticker": "028846",
+    "subscription_start_ms": 1789920000000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "028985.OF",
+    "ticker": "028985",
+    "subscription_start_ms": 1789920000000,
+    "subscription_end_ms": 1792652400000
+   },
+   {
+    "thscode": "028986.OF",
+    "ticker": "028986",
+    "subscription_start_ms": 1789920000000,
+    "subscription_end_ms": 1792652400000
+   },
+   {
+    "thscode": "029214.OF",
+    "ticker": "029214",
+    "subscription_start_ms": 1789920000000,
+    "subscription_end_ms": 1797577200000
+   },
+   {
+    "thscode": "029213.OF",
+    "ticker": "029213",
+    "subscription_start_ms": 1789920000000,
+    "subscription_end_ms": 1797577200000
+   },
+   {
+    "thscode": "562630.SH",
+    "ticker": "562630",
+    "subscription_start_ms": 1790179200000,
+    "subscription_end_ms": 1792566000000
+   },
+   {
+    "thscode": "029229.OF",
+    "ticker": "029229",
+    "subscription_start_ms": 1790006400000,
+    "subscription_end_ms": 1793343600000
+   },
+   {
+    "thscode": "027195.OF",
+    "ticker": "027195",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1793343600000
+   },
+   {
+    "thscode": "027196.OF",
+    "ticker": "027196",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1793343600000
+   },
+   {
+    "thscode": "029243.OF",
+    "ticker": "029243",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1792998000000
+   },
+   {
+    "thscode": "029244.OF",
+    "ticker": "029244",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1792998000000
+   },
+   {
+    "thscode": "158078.SZ",
+    "ticker": "158078",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1792134000000
+   },
+   {
+    "thscode": "027227.OF",
+    "ticker": "027227",
+    "subscription_start_ms": 1790697600000,
+    "subscription_end_ms": 1798527600000
+   },
+   {
+    "thscode": "027228.OF",
+    "ticker": "027228",
+    "subscription_start_ms": 1790697600000,
+    "subscription_end_ms": 1798527600000
+   },
+   {
+    "thscode": "027179.OF",
+    "ticker": "027179",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "027180.OF",
+    "ticker": "027180",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1792738800000
+   },
+   {
+    "thscode": "027265.OF",
+    "ticker": "027265",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1798182000000
+   },
+   {
+    "thscode": "027266.OF",
+    "ticker": "027266",
+    "subscription_start_ms": 1790524800000,
+    "subscription_end_ms": 1798182000000
+   }
+  ]
+ }
+}

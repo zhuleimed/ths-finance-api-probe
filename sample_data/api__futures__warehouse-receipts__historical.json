@@ -1,0 +1,145 @@
+{
+ "path": "/api/futures/warehouse-receipts/historical",
+ "params": {
+  "thscode": "A2611.DCE",
+  "start_date": "2025-09-01",
+  "end_date": "2025-09-30"
+ },
+ "data": {
+  "timestamp": 1791248095981,
+  "item": [
+   {
+    "date": "2025-09-01",
+    "amount": 8825.0,
+    "amount_change": -165.0,
+    "equivalent_lots": 8825.0
+   },
+   {
+    "date": "2025-09-02",
+    "amount": 8559.0,
+    "amount_change": -266.0,
+    "equivalent_lots": 8559.0
+   },
+   {
+    "date": "2025-09-03",
+    "amount": 8574.0,
+    "amount_change": 15.0,
+    "equivalent_lots": 8574.0
+   },
+   {
+    "date": "2025-09-04",
+    "amount": 8510.0,
+    "amount_change": -64.0,
+    "equivalent_lots": 8510.0
+   },
+   {
+    "date": "2025-09-05",
+    "amount": 8460.0,
+    "amount_change": -50.0,
+    "equivalent_lots": 8460.0
+   },
+   {
+    "date": "2025-09-08",
+    "amount": 7996.0,
+    "amount_change": -464.0,
+    "equivalent_lots": 7996.0
+   },
+   {
+    "date": "2025-09-09",
+    "amount": 7817.0,
+    "amount_change": -179.0,
+    "equivalent_lots": 7817.0
+   },
+   {
+    "date": "2025-09-10",
+    "amount": 7807.0,
+    "amount_change": -10.0,
+    "equivalent_lots": 7807.0
+   },
+   {
+    "date": "2025-09-11",
+    "amount": 7967.0,
+    "amount_change": 160.0,
+    "equivalent_lots": 7967.0
+   },
+   {
+    "date": "2025-09-12",
+    "amount": 7952.0,
+    "amount_change": -15.0,
+    "equivalent_lots": 7952.0
+   },
+   {
+    "date": "2025-09-15",
+    "amount": 7952.0,
+    "amount_change": 0.0,
+    "equivalent_lots": 7952.0
+   },
+   {
+    "date": "2025-09-16",
+    "amount": 7952.0,
+    "amount_change": 0.0,
+    "equivalent_lots": 7952.0
+   },
+   {
+    "date": "2025-09-17",
+    "amount": 7922.0,
+    "amount_change": -30.0,
+    "equivalent_lots": 7922.0
+   },
+   {
+    "date": "2025-09-18",
+    "amount": 7878.0,
+    "amount_change": -44.0,
+    "equivalent_lots": 7878.0
+   },
+   {
+    "date": "2025-09-19",
+    "amount": 7628.0,
+    "amount_change": -250.0,
+    "equivalent_lots": 7628.0
+   },
+   {
+    "date": "2025-09-22",
+    "amount": 7628.0,
+    "amount_change": 0.0,
+    "equivalent_lots": 7628.0
+   },
+   {
+    "date": "2025-09-23",
+    "amount": 7606.0,
+    "amount_change": -22.0,
+    "equivalent_lots": 7606.0
+   },
+   {
+    "date": "2025-09-24",
+    "amount": 7606.0,
+    "amount_change": 0.0,
+    "equivalent_lots": 7606.0
+   },
+   {
+    "date": "2025-09-25",
+    "amount": 7578.0,
+    "amount_change": -28.0,
+    "equivalent_lots": 7578.0
+   },
+   {
+    "date": "2025-09-26",
+    "amount": 7578.0,
+    "amount_change": 0.0,
+    "equivalent_lots": 7578.0
+   },
+   {
+    "date": "2025-09-29",
+    "amount": 7290.0,
+    "amount_change": -288.0,
+    "equivalent_lots": 7290.0
+   },
+   {
+    "date": "2025-09-30",
+    "amount": 7290.0,
+    "amount_change": 0.0,
+    "equivalent_lots": 7290.0
+   }
+  ]
+ }
+}

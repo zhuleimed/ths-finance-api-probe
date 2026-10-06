@@ -1,0 +1,25 @@
+{
+ "path": "/api/options/contracts/detail",
+ "params": {
+  "thscode": "10011425.SH"
+ },
+ "data": {
+  "timestamp": 1791248097703,
+  "thscode": "10011425.SH",
+  "ticker": "510050C2612M02800",
+  "display_code": "10011425",
+  "name": "50ETF购12月2800",
+  "variety_code": "510050O",
+  "pinyin": "50ETFZ12Y2800",
+  "list_date": "2026-04-23",
+  "end_date": "2026-12-24",
+  "last_trade_date": "2026-12-23",
+  "last_delivery_date": "2026-12-23",
+  "margin_rate": 12.0,
+  "underlying_code": "510050",
+  "strike_price": 2.8,
+  "exercise_style": "european",
+  "option_type": "call",
+  "trade_amount": 10000.0
+ }
+}

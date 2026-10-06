@@ -1,0 +1,279 @@
+{
+ "path": "/api/a-share/special-data/hot-stock-list",
+ "params": {},
+ "data": {
+  "timestamp": 1791247930188,
+  "item": [
+   {
+    "thscode": "300308.SZ",
+    "ticker": "300308",
+    "name": "中际旭创",
+    "rank": 1,
+    "heat": "7413590",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "001246.SZ",
+    "ticker": "001246",
+    "name": "力勤资源",
+    "rank": 2,
+    "heat": "5012850",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "601127.SH",
+    "ticker": "601127",
+    "name": "赛力斯",
+    "rank": 3,
+    "heat": "3851958",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "000002.SZ",
+    "ticker": "000002",
+    "name": "万科A",
+    "rank": 4,
+    "heat": "3717746",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "603083.SH",
+    "ticker": "603083",
+    "name": "剑桥科技",
+    "rank": 5,
+    "heat": "3688575",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "002242.SZ",
+    "ticker": "002242",
+    "name": "九阳股份",
+    "rank": 6,
+    "heat": "3205291",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "002487.SZ",
+    "ticker": "002487",
+    "name": "大金重工",
+    "rank": 7,
+    "heat": "3103659",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "603259.SH",
+    "ticker": "603259",
+    "name": "药明康德",
+    "rank": 8,
+    "heat": "2717616",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "603986.SH",
+    "ticker": "603986",
+    "name": "兆易创新",
+    "rank": 9,
+    "heat": "2587499",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "000678.SZ",
+    "ticker": "000678",
+    "name": "襄阳轴承",
+    "rank": 10,
+    "heat": "2473211",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "600825.SH",
+    "ticker": "600825",
+    "name": "新华传媒",
+    "rank": 11,
+    "heat": "2472762",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "300476.SZ",
+    "ticker": "300476",
+    "name": "胜宏科技",
+    "rank": 12,
+    "heat": "2222267",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "300750.SZ",
+    "ticker": "300750",
+    "name": "宁德时代",
+    "rank": 13,
+    "heat": "2194436",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "600418.SH",
+    "ticker": "600418",
+    "name": "江淮汽车",
+    "rank": 14,
+    "heat": "1910429",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "688836.SH",
+    "ticker": "688836",
+    "name": "宇树科技",
+    "rank": 15,
+    "heat": "1796421",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "600127.SH",
+    "ticker": "600127",
+    "name": "金健米业",
+    "rank": 16,
+    "heat": "1755958",
+    "rank_change": 1,
+    "rank_trend": "up"
+   },
+   {
+    "thscode": "601091.SH",
+    "ticker": "601091",
+    "name": "沈鼓集团",
+    "rank": 17,
+    "heat": "1751639",
+    "rank_change": -1,
+    "rank_trend": "down"
+   },
+   {
+    "thscode": "688008.SH",
+    "ticker": "688008",
+    "name": "澜起科技",
+    "rank": 18,
+    "heat": "1645754",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "600664.SH",
+    "ticker": "600664",
+    "name": "哈药股份",
+    "rank": 19,
+    "heat": "1644785",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "600276.SH",
+    "ticker": "600276",
+    "name": "恒瑞医药",
+    "rank": 20,
+    "heat": "1585041",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "name": "贵州茅台",
+    "rank": 21,
+    "heat": "1478633",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "603228.SH",
+    "ticker": "603228",
+    "name": "景旺电子",
+    "rank": 22,
+    "heat": "1470288",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "601869.SH",
+    "ticker": "601869",
+    "name": "长飞光纤",
+    "rank": 23,
+    "heat": "1428685",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "601899.SH",
+    "ticker": "601899",
+    "name": "紫金矿业",
+    "rank": 24,
+    "heat": "1401563",
+    "rank_change": 0,
+    "rank_trend": "flat"
+   },
+   {
+    "thscode": "688825.SH",
+    "ticker": "688825",
+    "name": "长鑫科技",
+    "rank": 25,
+    "heat": "1350293",
+    "rank_change": 1,
+    "rank_trend": "up"
+   },
+   {
+    "thscode": "301190.SZ",
+    "ticker": "301190",
+    "name": "善水科技",
+    "rank": 26,
+    "heat": "1337490",
+    "rank_change": 1,
+    "rank_trend": "up"
+   },
+   {
+    "thscode": "000011.SZ",
+    "ticker": "000011",
+    "name": "深物业A",
+    "rank": 27,
+    "heat": "1334668",
+    "rank_change": -2,
+    "rank_trend": "down"
+   },
+   {
+    "thscode": "603200.SH",
+    "ticker": "603200",
+    "name": "上海洗霸",
+    "rank": 28,
+    "heat": "1317825",
+    "rank_change": 1,
+    "rank_trend": "up"
+   },
+   {
+    "thscode": "002074.SZ",
+    "ticker": "002074",
+    "name": "国轩高科",
+    "rank": 29,
+    "heat": "1317607",
+    "rank_change": -1,
+    "rank_trend": "down"
+   },
+   {
+    "thscode": "603127.SH",
+    "ticker": "603127",
+    "name": "昭衍新药",
+    "rank": 30,
+    "heat": "1300794",
+    "rank_change": 1,
+    "rank_trend": "up"
+   }
+  ]
+ }
+}

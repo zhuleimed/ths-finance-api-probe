@@ -1,0 +1,19 @@
+{
+ "path": "/api/fund/companies/detail",
+ "params": {
+  "company_id": "80000226"
+ },
+ "data": {
+  "timestamp": 1791247970122,
+  "item": [
+   {
+    "company_id": null,
+    "company_name": null,
+    "company_type": null,
+    "established_date_ms": null,
+    "fund_count": null,
+    "scale": null
+   }
+  ]
+ }
+}

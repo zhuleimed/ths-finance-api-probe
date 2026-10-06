@@ -1,0 +1,31 @@
+{
+ "path": "/api/a-share/auction/snapshot",
+ "params": {
+  "thscodes": "600519.SH"
+ },
+ "data": {
+  "timestamp": 1791247953038,
+  "auction_phase": "closed",
+  "data_status": "not_ready",
+  "total": 1,
+  "item": [
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "name": "贵州茅台",
+    "auction_price": 1239.53,
+    "auction_pct": 0.3197,
+    "auction_volume": 161.0,
+    "auction_amount": 19956433,
+    "auction_unmatched": 4.0,
+    "auction_turnover_pct": 0.0013,
+    "auction_yesterday_ratio_pct": 0.6106,
+    "auction_volume_ratio": 0.5172,
+    "pre_close_price": 1235.58,
+    "open_price": 1239.53,
+    "last_price": 1258.62,
+    "float_market_cap": 1573377704650.6199
+   }
+  ]
+ }
+}

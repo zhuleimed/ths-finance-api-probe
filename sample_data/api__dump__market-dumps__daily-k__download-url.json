@@ -1,0 +1,9 @@
+{
+ "path": "/api/dump/market-dumps/daily-k/download-url",
+ "params": {},
+ "data": {
+  "presigned_url": "https://o.thsi.cn/fuyao-financial-api.fuyao-a-share-prices-market-dump/market-dump/daily_k/releases/20261005/a_share_daily_k_1d_none_10y_20261005.parquet?AWSAccessKeyId=ZMBJOFJ6H96WBMTOZM20&Expires=1791248260&Signature=sk4V1eI0VR6vvwYhdyDxYmb5jFE%3D",
+  "presigned_url_expires_at": "2026-10-06T08:57:40.688494436+08:00",
+  "expires_in_seconds": 300
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "path": "/api/fund/backtest/indicators",
+ "params": {},
+ "data": [
+  {
+   "id": 1,
+   "indicator_name": "净值波动",
+   "indicator_code": "rsi_pct",
+   "type": 0,
+   "value_kind": 0,
+   "support_operation": ">,<",
+   "unit": null,
+   "description": null,
+   "state_rules": null,
+   "create_time": "2026-05-27T16:57:32",
+   "update_time": "2026-05-27T16:57:32"
+  },
+  {
+   "id": 2,
+   "indicator_name": "趋势强弱",
+   "indicator_code": "donchianChannel",
+   "type": 0,
+   "value_kind": 1,
+   "support_operation": "=",
+   "unit": null,
+   "description": null,
+   "state_rules": "[{\"max\": 10, \"min\": 0, \"name\": \"走强\", \"maxInclusive\": false, \"minInclusive\": false}, {\"max\": 0, \"min\": -10, \"name\": \"走弱\", \"maxInclusive\": false, \"minInclusive\": false}, {\"min\": 10, \"name\": \"创新高\", \"maxInclusive\": false, \"minInclusive\": true}, {\"max\": -10, \"name\": \"创新低\", \"maxInclusive\": true, \"minInclusive\": false}]",
+   "create_time": "2026-05-27T16:59:24",
+   "update_time": "2026-05-27T16:59:24"
+  },
+  {
+   "id": 3,
+   "indicator_name": "持仓收益率",
+   "indicator_code": "positionGain",
+   "type": 1,
+   "value_kind": 0,
+   "support_operation": ">,<",
+   "unit": null,
+   "description": null,
+   "state_rules": null,
+   "create_time": "2026-05-27T17:00:11",
+   "update_time": "2026-05-27T17:00:11"
+  },
+  {
+   "id": 4,
+   "indicator_name": "跟踪指数估值百分位",
+   "indicator_code": "track_index_pettm_fyear_pct",
+   "type": 0,
+   "value_kind": 0,
+   "support_operation": ">,<",
+   "unit": null,
+   "description": null,
+   "state_rules": null,
+   "create_time": "2026-05-27T17:00:48",
+   "update_time": "2026-05-27T17:00:48"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "path": "/api/a-share/financials/balance-sheets",
+ "params": {
+  "thscode": "600519.SH",
+  "period": "quarterly",
+  "limit": 4
+ },
+ "data": {
+  "timestamp": 1782748800000,
+  "item": [
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "period": "quarterly",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "report_date_ms": 1786723200000,
+    "period_end_ms": 1782748800000,
+    "currency": "CNY",
+    "assets_total": 309050784569.31,
+    "total_current_assets": 260724668103.4,
+    "non_current_nets_total": 48326116465.91,
+    "cash": 53518798979.08,
+    "accounts_receivable": 570895.04,
+    "total_debt": 46954432394.95,
+    "holder_equity_total": 262096352174.36
+   },
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "period": "quarterly",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q1",
+    "report_date_ms": 1777046400000,
+    "period_end_ms": 1774886400000,
+    "currency": "CNY",
+    "assets_total": 319918844905.58,
+    "total_current_assets": 271524528742.4,
+    "non_current_nets_total": 48394316163.18,
+    "cash": 48786691397.55,
+    "accounts_receivable": 32344588.37,
+    "total_debt": 38782958469.89,
+    "holder_equity_total": 281135886435.69
+   },
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "period": "quarterly",
+    "fiscal_year": 2025,
+    "fiscal_period": "Q4",
+    "report_date_ms": 1786723200000,
+    "period_end_ms": 1767110400000,
+    "currency": "CNY",
+    "assets_total": 303834844021.44,
+    "total_current_assets": 252518662398.57,
+    "non_current_nets_total": 51316181622.87,
+    "cash": 51690610946.5,
+    "accounts_receivable": 2609048.49,
+    "total_debt": 49875590112.37,
+    "holder_equity_total": 253959253909.07
+   },
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "period": "quarterly",
+    "fiscal_year": 2025,
+    "fiscal_period": "Q3",
+    "report_date_ms": 1761753600000,
+    "period_end_ms": 1759161600000,
+    "currency": "CNY",
+    "assets_total": 304738184929.86,
+    "total_current_assets": 256587161700.86,
+    "non_current_nets_total": 48151023229,
+    "cash": 51753057846.45,
+    "accounts_receivable": 25531737.62,
+    "total_debt": 39033160057.01,
+    "holder_equity_total": 265705024872.85
+   }
+  ]
+ }
+}

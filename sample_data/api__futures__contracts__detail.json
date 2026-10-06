@@ -1,0 +1,19 @@
+{
+ "path": "/api/futures/contracts/detail",
+ "params": {
+  "thscode": "A2611.DCE"
+ },
+ "data": {
+  "timestamp": 1791248093780,
+  "thscode": "A2611.DCE",
+  "ticker": "A2611",
+  "name": "豆一2611",
+  "variety_code": "A",
+  "variety_name": "豆一",
+  "exchange_code": "DCE",
+  "list_date": "2025-11-17",
+  "end_date": "2026-11-16",
+  "last_trade_date": "2026-11-13",
+  "last_delivery_date": "2026-11-18"
+ }
+}

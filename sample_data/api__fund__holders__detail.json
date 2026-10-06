@@ -1,0 +1,20 @@
+{
+ "path": "/api/fund/holders/detail",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1782748800000,
+  "item": [
+   {
+    "merge_scope": "separate",
+    "report_date_ms": 1782748800000,
+    "ins_position": 67.05,
+    "holder_amount": 511881,
+    "avg_holder_share": 36951.73,
+    "psnl_rate": 32.95,
+    "mgmt_staff_hold_rate": 0.0
+   }
+  ]
+ }
+}

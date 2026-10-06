@@ -1,0 +1,47 @@
+{
+ "path": "/api/fund/performance/returns",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 0,
+  "item": [
+   {
+    "return_week": -3.47,
+    "return_month": -5.23,
+    "return_tmonth": -11.65,
+    "return_hyear": -1.56,
+    "return_year": -4.16,
+    "return_twoyear": 13.34,
+    "return_tyear": 26.25,
+    "return_fyear": -0.91,
+    "return_nowyear": -4.36,
+    "return_now": 106.77,
+    "peer_average_week": -3.2374,
+    "peer_average_month": -4.7839,
+    "peer_average_tmonth": -8.7191,
+    "peer_average_hyear": -3.6838,
+    "peer_average_year": -5.4796,
+    "peer_average_twoyear": 15.8163,
+    "peer_average_tyear": 21.7312,
+    "peer_average_fyear": 13.341,
+    "rank_week": 2433,
+    "rank_month": 2313,
+    "rank_tmonth": 2601,
+    "rank_hyear": 1863,
+    "rank_year": 2734,
+    "rank_twoyear": 2604,
+    "rank_tyear": 1903,
+    "rank_fyear": 3189,
+    "rank_total_week": 4645,
+    "rank_total_month": 4645,
+    "rank_total_tmonth": 4645,
+    "rank_total_hyear": 4645,
+    "rank_total_year": 4645,
+    "rank_total_twoyear": 4645,
+    "rank_total_tyear": 4645,
+    "rank_total_fyear": 4645
+   }
+  ]
+ }
+}

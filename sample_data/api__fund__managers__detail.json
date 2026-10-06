@@ -1,0 +1,46 @@
+{
+ "path": "/api/fund/managers/detail",
+ "params": {
+  "manager_id": "30000000"
+ },
+ "data": {
+  "timestamp": 1791247968485,
+  "item": [
+   {
+    "manager_id": "30000000",
+    "manager_name": null,
+    "sex": null,
+    "degree": null,
+    "company_id": null,
+    "company_name": null,
+    "resume": null,
+    "photo_url": null,
+    "annual_return_pct": null,
+    "maximum_return_pct": null,
+    "radar_comparison": [
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {}
+    ]
+   }
+  ]
+ }
+}

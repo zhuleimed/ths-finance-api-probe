@@ -1,0 +1,30 @@
+{
+ "path": "/api/fund/indicators/line",
+ "params": {
+  "indexes": "[{\"thscodes\": [\"000001.OF\"], \"index_info\": [{\"index_id\": \"rsi_pct\"}]}]",
+  "time_range": "{\"time_type\": \"DAY_1\"}"
+ },
+ "data": {
+  "time_range": [],
+  "indexes": [
+   {
+    "index_id": "rsi_pct",
+    "value_type": null,
+    "timestamp": null,
+    "time_type": null,
+    "attribute": null
+   }
+  ],
+  "data": [
+   {
+    "thscode": "000001.OF",
+    "values": [
+     {
+      "idx": 0,
+      "values": []
+     }
+    ]
+   }
+  ]
+ }
+}

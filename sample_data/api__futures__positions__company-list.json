@@ -1,0 +1,589 @@
+{
+ "path": "/api/futures/positions/company-list",
+ "params": {},
+ "data": {
+  "timestamp": 1791247980239,
+  "item": [
+   {
+    "company_id": "T000035678",
+    "company_name": "瑞奇期货"
+   },
+   {
+    "company_id": "T000035677",
+    "company_name": "长安期货"
+   },
+   {
+    "company_id": "T000035679",
+    "company_name": "云晨期货"
+   },
+   {
+    "company_id": "03150109",
+    "company_name": "信达期货"
+   },
+   {
+    "company_id": "T000026961",
+    "company_name": "渤海期货"
+   },
+   {
+    "company_id": "03141757",
+    "company_name": "迈科期货"
+   },
+   {
+    "company_id": "T000026046",
+    "company_name": "宁证期货"
+   },
+   {
+    "company_id": "03146640",
+    "company_name": "江海汇鑫期货"
+   },
+   {
+    "company_id": "T000028585",
+    "company_name": "正信期货"
+   },
+   {
+    "company_id": "T000028981",
+    "company_name": "中泰期货"
+   },
+   {
+    "company_id": "T000026049",
+    "company_name": "东海期货"
+   },
+   {
+    "company_id": "T000026169",
+    "company_name": "国信期货"
+   },
+   {
+    "company_id": "T000026839",
+    "company_name": "华闻期货"
+   },
+   {
+    "company_id": "T000028617",
+    "company_name": "大有期货"
+   },
+   {
+    "company_id": "T000035681",
+    "company_name": "盛达期货"
+   },
+   {
+    "company_id": "T000035680",
+    "company_name": "广州期货"
+   },
+   {
+    "company_id": "T000035683",
+    "company_name": "先融期货"
+   },
+   {
+    "company_id": "T000035685",
+    "company_name": "中金岭南期货"
+   },
+   {
+    "company_id": "T000035684",
+    "company_name": "道通期货"
+   },
+   {
+    "company_id": "T000035687",
+    "company_name": "财信期货"
+   },
+   {
+    "company_id": "T000035686",
+    "company_name": "东方汇金期货"
+   },
+   {
+    "company_id": "T000035667",
+    "company_name": "中原期货"
+   },
+   {
+    "company_id": "T000035700",
+    "company_name": "上海中期"
+   },
+   {
+    "company_id": "T000035669",
+    "company_name": "佛山金控期货"
+   },
+   {
+    "company_id": "T000035702",
+    "company_name": "大陆期货"
+   },
+   {
+    "company_id": "T000035701",
+    "company_name": "前海期货"
+   },
+   {
+    "company_id": "T000035704",
+    "company_name": "中盛期货"
+   },
+   {
+    "company_id": "T000027027",
+    "company_name": "融达期货(郑州)"
+   },
+   {
+    "company_id": "T000026853",
+    "company_name": "金石期货"
+   },
+   {
+    "company_id": "T000026210",
+    "company_name": "申银万国期货"
+   },
+   {
+    "company_id": "T000028239",
+    "company_name": "中银期货"
+   },
+   {
+    "company_id": "T000028999",
+    "company_name": "格林大华期货"
+   },
+   {
+    "company_id": "T000028235",
+    "company_name": "福能期货"
+   },
+   {
+    "company_id": "T000028510",
+    "company_name": "国贸期货"
+   },
+   {
+    "company_id": "T000028236",
+    "company_name": "金元期货"
+   },
+   {
+    "company_id": "T000028627",
+    "company_name": "兴证期货"
+   },
+   {
+    "company_id": "T000035670",
+    "company_name": "中天期货"
+   },
+   {
+    "company_id": "T000035672",
+    "company_name": "高盛期货"
+   },
+   {
+    "company_id": "T000035671",
+    "company_name": "神华期货"
+   },
+   {
+    "company_id": "T000035673",
+    "company_name": "国新国证期货"
+   },
+   {
+    "company_id": "T000035676",
+    "company_name": "红塔期货"
+   },
+   {
+    "company_id": "T000035675",
+    "company_name": "华西期货"
+   },
+   {
+    "company_id": "T000035612",
+    "company_name": "中衍期货"
+   },
+   {
+    "company_id": "T000035611",
+    "company_name": "首创京都期货"
+   },
+   {
+    "company_id": "T000035699",
+    "company_name": "通惠期货"
+   },
+   {
+    "company_id": "T000028242",
+    "company_name": "长城期货"
+   },
+   {
+    "company_id": "T000035614",
+    "company_name": "华金期货"
+   },
+   {
+    "company_id": "T000035613",
+    "company_name": "华宝期货"
+   },
+   {
+    "company_id": "T000035616",
+    "company_name": "国泰君安期货"
+   },
+   {
+    "company_id": "T000035615",
+    "company_name": "财达期货"
+   },
+   {
+    "company_id": "T000035618",
+    "company_name": "和融期货"
+   },
+   {
+    "company_id": "T000032989",
+    "company_name": "混沌天成"
+   },
+   {
+    "company_id": "T000035617",
+    "company_name": "山金期货"
+   },
+   {
+    "company_id": "T000035619",
+    "company_name": "恒银期货"
+   },
+   {
+    "company_id": "03146786",
+    "company_name": "中辉期货"
+   },
+   {
+    "company_id": "00003415",
+    "company_name": "华龙期货"
+   },
+   {
+    "company_id": "T000027433",
+    "company_name": "东吴期货"
+   },
+   {
+    "company_id": "00064967",
+    "company_name": "金瑞期货"
+   },
+   {
+    "company_id": "Q124655B86",
+    "company_name": "摩根士丹利期货"
+   },
+   {
+    "company_id": "03132494",
+    "company_name": "东华期货"
+   },
+   {
+    "company_id": "T000035620",
+    "company_name": "民生期货"
+   },
+   {
+    "company_id": "T000035688",
+    "company_name": "平安期货"
+   },
+   {
+    "company_id": "T000028892",
+    "company_name": "华泰期货"
+   },
+   {
+    "company_id": "00213405",
+    "company_name": "海证期货"
+   },
+   {
+    "company_id": "T000035609",
+    "company_name": "中粮期货"
+   },
+   {
+    "company_id": "T000035608",
+    "company_name": "第一创业期货"
+   },
+   {
+    "company_id": "T000025782",
+    "company_name": "招商期货"
+   },
+   {
+    "company_id": "T000026992",
+    "company_name": "国金期货"
+   },
+   {
+    "company_id": "00086503",
+    "company_name": "弘业期货"
+   },
+   {
+    "company_id": "03132426",
+    "company_name": "广发期货"
+   },
+   {
+    "company_id": "T000035690",
+    "company_name": "津投期货"
+   },
+   {
+    "company_id": "T000035692",
+    "company_name": "海航期货"
+   },
+   {
+    "company_id": "T000035691",
+    "company_name": "广金期货"
+   },
+   {
+    "company_id": "T000035694",
+    "company_name": "东兴期货"
+   },
+   {
+    "company_id": "T000035693",
+    "company_name": "瑞达期货"
+   },
+   {
+    "company_id": "T000035695",
+    "company_name": "华创期货"
+   },
+   {
+    "company_id": "T000035610",
+    "company_name": "冠通期货"
+   },
+   {
+    "company_id": "T000035698",
+    "company_name": "浙石期货"
+   },
+   {
+    "company_id": "T000035697",
+    "company_name": "建信期货"
+   },
+   {
+    "company_id": "T000035636",
+    "company_name": "大越期货"
+   },
+   {
+    "company_id": "Q11F261934",
+    "company_name": "港信期货"
+   },
+   {
+    "company_id": "T000035638",
+    "company_name": "宝城期货"
+   },
+   {
+    "company_id": "T000035637",
+    "company_name": "大地期货"
+   },
+   {
+    "company_id": "T000032806",
+    "company_name": "五矿期货"
+   },
+   {
+    "company_id": "T000028422",
+    "company_name": "南华期货"
+   },
+   {
+    "company_id": "T000026915",
+    "company_name": "国元期货"
+   },
+   {
+    "company_id": "T000028419",
+    "company_name": "东证期货"
+   },
+   {
+    "company_id": "T000035641",
+    "company_name": "东航期货"
+   },
+   {
+    "company_id": "T000035640",
+    "company_name": "国联期货"
+   },
+   {
+    "company_id": "T000035643",
+    "company_name": "恒泰期货"
+   },
+   {
+    "company_id": "T000035642",
+    "company_name": "国能东方期货(上海)"
+   },
+   {
+    "company_id": "T000035623",
+    "company_name": "恒力期货"
+   },
+   {
+    "company_id": "T000035622",
+    "company_name": "天富期货"
+   },
+   {
+    "company_id": "T000028791",
+    "company_name": "华联期货"
+   },
+   {
+    "company_id": "T000035625",
+    "company_name": "中金财富期货"
+   },
+   {
+    "company_id": "00071993",
+    "company_name": "新湖期货"
+   },
+   {
+    "company_id": "T000035624",
+    "company_name": "晟鑫期货"
+   },
+   {
+    "company_id": "T000035627",
+    "company_name": "华源期货"
+   },
+   {
+    "company_id": "T000035629",
+    "company_name": "中融汇信期货"
+   },
+   {
+    "company_id": "T000035628",
+    "company_name": "国盛期货"
+   },
+   {
+    "company_id": "T000026895",
+    "company_name": "长江期货"
+   },
+   {
+    "company_id": "03148059",
+    "company_name": "三立期货"
+   },
+   {
+    "company_id": "T000028953",
+    "company_name": "方正中期期货"
+   },
+   {
+    "company_id": "T000026896",
+    "company_name": "先锋期货"
+   },
+   {
+    "company_id": "T000026897",
+    "company_name": "中信建投期货"
+   },
+   {
+    "company_id": "03147129",
+    "company_name": "海通期货"
+   },
+   {
+    "company_id": "03146798",
+    "company_name": "创元期货"
+   },
+   {
+    "company_id": "00209937",
+    "company_name": "锦泰期货"
+   },
+   {
+    "company_id": "00040200",
+    "company_name": "物产中大期货"
+   },
+   {
+    "company_id": "T000035631",
+    "company_name": "银河期货"
+   },
+   {
+    "company_id": "T000035656",
+    "company_name": "兴业期货"
+   },
+   {
+    "company_id": "T000028285",
+    "company_name": "光大期货"
+   },
+   {
+    "company_id": "T000035658",
+    "company_name": "昆仑期货"
+   },
+   {
+    "company_id": "T000035657",
+    "company_name": "齐盛期货"
+   },
+   {
+    "company_id": "T000035659",
+    "company_name": "国海良时期货"
+   },
+   {
+    "company_id": "03141735",
+    "company_name": "紫金天风"
+   },
+   {
+    "company_id": "T000028843",
+    "company_name": "国际期货"
+   },
+   {
+    "company_id": "03141734",
+    "company_name": "金鹏期货"
+   },
+   {
+    "company_id": "03141733",
+    "company_name": "西南期货"
+   },
+   {
+    "company_id": "T000027474",
+    "company_name": "浙商期货"
+   },
+   {
+    "company_id": "03141732",
+    "company_name": "一德期货"
+   },
+   {
+    "company_id": "03141731",
+    "company_name": "首创期货"
+   },
+   {
+    "company_id": "Q122379BA4",
+    "company_name": "磐石金融"
+   },
+   {
+    "company_id": "03141739",
+    "company_name": "东方财富期货"
+   },
+   {
+    "company_id": "03141738",
+    "company_name": "永安期货"
+   },
+   {
+    "company_id": "T000035661",
+    "company_name": "中州期货"
+   },
+   {
+    "company_id": "T000035660",
+    "company_name": "摩根大通期货"
+   },
+   {
+    "company_id": "T000035663",
+    "company_name": "安粮期货"
+   },
+   {
+    "company_id": "T000035662",
+    "company_name": "徽商期货"
+   },
+   {
+    "company_id": "T000035645",
+    "company_name": "华鑫期货"
+   },
+   {
+    "company_id": "T000035644",
+    "company_name": "国富期货"
+   },
+   {
+    "company_id": "T000035647",
+    "company_name": "国投期货"
+   },
+   {
+    "company_id": "00207060",
+    "company_name": "中信期货"
+   },
+   {
+    "company_id": "T000035646",
+    "company_name": "铜冠金源期货"
+   },
+   {
+    "company_id": "T000035649",
+    "company_name": "中财期货"
+   },
+   {
+    "company_id": "T000035648",
+    "company_name": "东亚期货"
+   },
+   {
+    "company_id": "T000028294",
+    "company_name": "西部期货"
+   },
+   {
+    "company_id": "00090598",
+    "company_name": "云财富期货"
+   },
+   {
+    "company_id": "T000027001",
+    "company_name": "宏源期货"
+   },
+   {
+    "company_id": "T000028333",
+    "company_name": "华安期货"
+   },
+   {
+    "company_id": "03141729",
+    "company_name": "中航期货"
+   },
+   {
+    "company_id": "T000035650",
+    "company_name": "瑞银期货"
+   },
+   {
+    "company_id": "00062590",
+    "company_name": "成都交子期货"
+   },
+   {
+    "company_id": "T000035654",
+    "company_name": "金信期货"
+   },
+   {
+    "company_id": "T000035653",
+    "company_name": "新世纪期货"
+   }
+  ]
+ }
+}

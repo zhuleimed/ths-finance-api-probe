@@ -1,0 +1,10 @@
+{
+ "path": "/api/a-share/auction/short-term-benchmark",
+ "params": {},
+ "data": {
+  "timestamp": 1791247953441,
+  "item": [],
+  "date": "2026-10-06",
+  "date_ms": 1791216000000
+ }
+}

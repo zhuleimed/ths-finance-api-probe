@@ -1,0 +1,30 @@
+{
+ "sample_n": 47,
+ "mean_returned": 23.04255319148936,
+ "mean_nonnull": 22.106382978723403,
+ "coverage": {
+  "calculate_operating_income_yoy_growth_ratio": 100.0,
+  "calculate_operating_profit_yoy_growth_ratio": 100.0,
+  "total_assets_growth_ratio": 100.0,
+  "calculate_parent_holder_net_profit_yoy_growth_ratio": 100.0,
+  "sale_gross_margin": 95.74468085106383,
+  "sale_net_interest_ratio": 100.0,
+  "total_assets_net_ratio": 100.0,
+  "index_deduct_weighted_avg_roe": 95.74468085106383,
+  "index_weighted_avg_roe": 97.87234042553192,
+  "current_ratio": 95.74468085106383,
+  "quick_ratio": 95.74468085106383,
+  "assets_debt_ratio": 100.0,
+  "cash_ratio": 95.74468085106383,
+  "earned_interest_multiple": 46.808510638297875,
+  "long_term_debt_equity_ratio": 100.0,
+  "total_assets_turnover_ratio": 100.0,
+  "inventory_turnover_ratio": 93.61702127659575,
+  "current_assets_turnover_ratio": 95.74468085106383,
+  "receive_account_turnover_ratio": 95.74468085106383,
+  "cash_operating_index": 100.0,
+  "operating_cash_flow_net_divide_income": 100.0,
+  "net_profit_cash_content": 100.0,
+  "cash_meet_invest_ratio": 97.87234042553192
+ }
+}

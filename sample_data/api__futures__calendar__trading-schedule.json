@@ -1,0 +1,96 @@
+{
+ "path": "/api/futures/calendar/trading-schedule",
+ "params": {
+  "thscode": "A2611.DCE",
+  "start_date": "2025-09-01",
+  "end_date": "2025-09-30"
+ },
+ "data": {
+  "timestamp": 1791248097290,
+  "thscode": "A2611.DCE",
+  "trade_dates": [
+   "2025-09-30",
+   "2025-09-29",
+   "2025-09-26",
+   "2025-09-25",
+   "2025-09-24",
+   "2025-09-23",
+   "2025-09-22",
+   "2025-09-19",
+   "2025-09-18",
+   "2025-09-17",
+   "2025-09-16",
+   "2025-09-15",
+   "2025-09-12",
+   "2025-09-11",
+   "2025-09-10",
+   "2025-09-09",
+   "2025-09-08",
+   "2025-09-05",
+   "2025-09-04",
+   "2025-09-03",
+   "2025-09-02",
+   "2025-09-01"
+  ],
+  "regular_schedules": [
+   {
+    "start_date": "2019-12-26",
+    "end_date": "2999-12-31",
+    "times": [
+     {
+      "start_time": "21:00:00",
+      "end_time": "23:00:00",
+      "offset": -1,
+      "trans_day_type": "1",
+      "type": "continuous"
+     },
+     {
+      "start_time": "09:00:00",
+      "end_time": "10:15:00",
+      "offset": 0,
+      "trans_day_type": null,
+      "type": "continuous"
+     },
+     {
+      "start_time": "10:30:00",
+      "end_time": "11:30:00",
+      "offset": 0,
+      "trans_day_type": null,
+      "type": "continuous"
+     },
+     {
+      "start_time": "13:30:00",
+      "end_time": "15:00:00",
+      "offset": 0,
+      "trans_day_type": null,
+      "type": "continuous"
+     }
+    ]
+   }
+  ],
+  "special_schedules": [
+   {
+    "date": "2025-10-09",
+    "times": [
+     {
+      "start_time": 1759971600000,
+      "end_time": 1759976100000,
+      "type": "continuous"
+     },
+     {
+      "start_time": 1759977000000,
+      "end_time": 1759980600000,
+      "type": "continuous"
+     },
+     {
+      "start_time": 1759987800000,
+      "end_time": 1759993200000,
+      "type": "continuous"
+     }
+    ]
+   }
+  ],
+  "timezone": "UTC+08:00",
+  "daylight_saving_periods": []
+ }
+}

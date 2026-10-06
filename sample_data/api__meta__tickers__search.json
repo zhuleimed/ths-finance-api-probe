@@ -1,0 +1,23 @@
+{
+ "path": "/api/meta/tickers/search",
+ "params": {
+  "q": "茅台"
+ },
+ "data": {
+  "timestamp": 1791244821525,
+  "item": [
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "name": "贵州茅台",
+    "exchange": "SH",
+    "asset_type": "a-share",
+    "currency": "CNY",
+    "list_date": "2001-08-27",
+    "end_date": null,
+    "last_trade_date": null,
+    "last_delivery_date": null
+   }
+  ]
+ }
+}

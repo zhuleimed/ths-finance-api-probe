@@ -1,0 +1,1571 @@
+{
+ "path": "/api/a-share-index/catalog/ths-index-list",
+ "params": {
+  "index_type": "concept"
+ },
+ "data": {
+  "timestamp": 1791247958287,
+  "item": [
+   {
+    "thscode": "885431.TI",
+    "name": "新能源汽车"
+   },
+   {
+    "thscode": "885566.TI",
+    "name": "大飞机"
+   },
+   {
+    "thscode": "885623.TI",
+    "name": "参股保险"
+   },
+   {
+    "thscode": "885603.TI",
+    "name": "网络游戏"
+   },
+   {
+    "thscode": "885406.TI",
+    "name": "食品安全"
+   },
+   {
+    "thscode": "885311.TI",
+    "name": "智能电网"
+   },
+   {
+    "thscode": "885879.TI",
+    "name": "流感"
+   },
+   {
+    "thscode": "885514.TI",
+    "name": "京津冀一体化"
+   },
+   {
+    "thscode": "885939.TI",
+    "name": "海峡两岸"
+   },
+   {
+    "thscode": "885508.TI",
+    "name": "禽流感"
+   },
+   {
+    "thscode": "885700.TI",
+    "name": "军工"
+   },
+   {
+    "thscode": "885398.TI",
+    "name": "煤化工概念"
+   },
+   {
+    "thscode": "885551.TI",
+    "name": "氟化工概念"
+   },
+   {
+    "thscode": "885863.TI",
+    "name": "磷化工"
+   },
+   {
+    "thscode": "885620.TI",
+    "name": "参股券商"
+   },
+   {
+    "thscode": "885426.TI",
+    "name": "海工装备"
+   },
+   {
+    "thscode": "885845.TI",
+    "name": "生物疫苗"
+   },
+   {
+    "thscode": "885537.TI",
+    "name": "3D打印"
+   },
+   {
+    "thscode": "885555.TI",
+    "name": "PM2.5"
+   },
+   {
+    "thscode": "885640.TI",
+    "name": "草甘膦"
+   },
+   {
+    "thscode": "885662.TI",
+    "name": "车联网(车路协同)"
+   },
+   {
+    "thscode": "885413.TI",
+    "name": "创投"
+   },
+   {
+    "thscode": "886036.TI",
+    "name": "时空大数据"
+   },
+   {
+    "thscode": "885333.TI",
+    "name": "移动支付"
+   },
+   {
+    "thscode": "885641.TI",
+    "name": "风电"
+   },
+   {
+    "thscode": "885570.TI",
+    "name": "期货概念"
+   },
+   {
+    "thscode": "885410.TI",
+    "name": "固废处理"
+   },
+   {
+    "thscode": "886011.TI",
+    "name": "光热发电"
+   },
+   {
+    "thscode": "885795.TI",
+    "name": "国产航母"
+   },
+   {
+    "thscode": "885571.TI",
+    "name": "核电"
+   },
+   {
+    "thscode": "885530.TI",
+    "name": "黄金概念"
+   },
+   {
+    "thscode": "885386.TI",
+    "name": "建筑节能"
+   },
+   {
+    "thscode": "885587.TI",
+    "name": "举牌"
+   },
+   {
+    "thscode": "885748.TI",
+    "name": "可燃冰"
+   },
+   {
+    "thscode": "885376.TI",
+    "name": "苹果概念"
+   },
+   {
+    "thscode": "885775.TI",
+    "name": "燃料电池"
+   },
+   {
+    "thscode": "885355.TI",
+    "name": "石墨烯"
+   },
+   {
+    "thscode": "885572.TI",
+    "name": "水利"
+   },
+   {
+    "thscode": "885652.TI",
+    "name": "钛白粉概念"
+   },
+   {
+    "thscode": "885650.TI",
+    "name": "碳纤维"
+   },
+   {
+    "thscode": "885425.TI",
+    "name": "特高压"
+   },
+   {
+    "thscode": "885430.TI",
+    "name": "天然气"
+   },
+   {
+    "thscode": "885412.TI",
+    "name": "污水处理"
+   },
+   {
+    "thscode": "885312.TI",
+    "name": "物联网"
+   },
+   {
+    "thscode": "885343.TI",
+    "name": "稀土永磁"
+   },
+   {
+    "thscode": "885345.TI",
+    "name": "新疆振兴"
+   },
+   {
+    "thscode": "885372.TI",
+    "name": "页岩气"
+   },
+   {
+    "thscode": "885877.TI",
+    "name": "转基因"
+   },
+   {
+    "thscode": "885573.TI",
+    "name": "猪肉"
+   },
+   {
+    "thscode": "885378.TI",
+    "name": "智慧城市"
+   },
+   {
+    "thscode": "885402.TI",
+    "name": "智能医疗"
+   },
+   {
+    "thscode": "885741.TI",
+    "name": "中字头股票"
+   },
+   {
+    "thscode": "885574.TI",
+    "name": "卫星导航"
+   },
+   {
+    "thscode": "885774.TI",
+    "name": "无线充电"
+   },
+   {
+    "thscode": "885710.TI",
+    "name": "锂电池概念"
+   },
+   {
+    "thscode": "885459.TI",
+    "name": "网络安全"
+   },
+   {
+    "thscode": "885461.TI",
+    "name": "充电桩"
+   },
+   {
+    "thscode": "886043.TI",
+    "name": "太赫兹"
+   },
+   {
+    "thscode": "885423.TI",
+    "name": "安防"
+   },
+   {
+    "thscode": "885418.TI",
+    "name": "文化传媒概念"
+   },
+   {
+    "thscode": "885552.TI",
+    "name": "小金属概念"
+   },
+   {
+    "thscode": "885543.TI",
+    "name": "家用电器"
+   },
+   {
+    "thscode": "885517.TI",
+    "name": "机器人概念"
+   },
+   {
+    "thscode": "885730.TI",
+    "name": "量子科技"
+   },
+   {
+    "thscode": "885705.TI",
+    "name": "乡村振兴"
+   },
+   {
+    "thscode": "885991.TI",
+    "name": "新型城镇化"
+   },
+   {
+    "thscode": "885556.TI",
+    "name": "5G"
+   },
+   {
+    "thscode": "885428.TI",
+    "name": "特钢概念"
+   },
+   {
+    "thscode": "885439.TI",
+    "name": "土地流转"
+   },
+   {
+    "thscode": "885699.TI",
+    "name": "ST板块"
+   },
+   {
+    "thscode": "885598.TI",
+    "name": "新股与次新股"
+   },
+   {
+    "thscode": "885564.TI",
+    "name": "无人机"
+   },
+   {
+    "thscode": "885427.TI",
+    "name": "高端装备"
+   },
+   {
+    "thscode": "885540.TI",
+    "name": "三胎概念"
+   },
+   {
+    "thscode": "885338.TI",
+    "name": "融资融券"
+   },
+   {
+    "thscode": "885772.TI",
+    "name": "语音技术"
+   },
+   {
+    "thscode": "885478.TI",
+    "name": "智能家居"
+   },
+   {
+    "thscode": "885505.TI",
+    "name": "生态农业"
+   },
+   {
+    "thscode": "885962.TI",
+    "name": "土壤修复"
+   },
+   {
+    "thscode": "885886.TI",
+    "name": "超级电容"
+   },
+   {
+    "thscode": "885986.TI",
+    "name": "碳交易"
+   },
+   {
+    "thscode": "885930.TI",
+    "name": "工业母机"
+   },
+   {
+    "thscode": "885733.TI",
+    "name": "航运概念"
+   },
+   {
+    "thscode": "885462.TI",
+    "name": "乳业"
+   },
+   {
+    "thscode": "885946.TI",
+    "name": "传感器"
+   },
+   {
+    "thscode": "885961.TI",
+    "name": "净水概念"
+   },
+   {
+    "thscode": "885457.TI",
+    "name": "手机游戏"
+   },
+   {
+    "thscode": "885531.TI",
+    "name": "光伏概念"
+   },
+   {
+    "thscode": "885756.TI",
+    "name": "芯片概念"
+   },
+   {
+    "thscode": "885928.TI",
+    "name": "钠离子电池"
+   },
+   {
+    "thscode": "885580.TI",
+    "name": "足球概念"
+   },
+   {
+    "thscode": "885967.TI",
+    "name": "化肥"
+   },
+   {
+    "thscode": "885972.TI",
+    "name": "金属回收"
+   },
+   {
+    "thscode": "885901.TI",
+    "name": "可降解塑料"
+   },
+   {
+    "thscode": "885467.TI",
+    "name": "特斯拉概念"
+   },
+   {
+    "thscode": "885810.TI",
+    "name": "大豆"
+   },
+   {
+    "thscode": "885472.TI",
+    "name": "上海自贸区"
+   },
+   {
+    "thscode": "885953.TI",
+    "name": "电子纸"
+   },
+   {
+    "thscode": "885578.TI",
+    "name": "基因测序"
+   },
+   {
+    "thscode": "885738.TI",
+    "name": "OLED"
+   },
+   {
+    "thscode": "885759.TI",
+    "name": "人脸识别"
+   },
+   {
+    "thscode": "885697.TI",
+    "name": "深圳国企改革"
+   },
+   {
+    "thscode": "886003.TI",
+    "name": "钒电池"
+   },
+   {
+    "thscode": "885454.TI",
+    "name": "智能穿戴"
+   },
+   {
+    "thscode": "885502.TI",
+    "name": "冷链物流"
+   },
+   {
+    "thscode": "885456.TI",
+    "name": "互联网金融"
+   },
+   {
+    "thscode": "885497.TI",
+    "name": "旅游概念"
+   },
+   {
+    "thscode": "885480.TI",
+    "name": "在线教育"
+   },
+   {
+    "thscode": "885487.TI",
+    "name": "天津自贸区"
+   },
+   {
+    "thscode": "885617.TI",
+    "name": "福建自贸区"
+   },
+   {
+    "thscode": "885974.TI",
+    "name": "两轮车"
+   },
+   {
+    "thscode": "885838.TI",
+    "name": "眼科医疗"
+   },
+   {
+    "thscode": "886002.TI",
+    "name": "机器视觉"
+   },
+   {
+    "thscode": "885797.TI",
+    "name": "百度概念"
+   },
+   {
+    "thscode": "885835.TI",
+    "name": "参股银行"
+   },
+   {
+    "thscode": "885785.TI",
+    "name": "小米概念"
+   },
+   {
+    "thscode": "885912.TI",
+    "name": "有机硅概念"
+   },
+   {
+    "thscode": "885736.TI",
+    "name": "无人驾驶"
+   },
+   {
+    "thscode": "885633.TI",
+    "name": "染料"
+   },
+   {
+    "thscode": "885706.TI",
+    "name": "农机"
+   },
+   {
+    "thscode": "885490.TI",
+    "name": "民营医院"
+   },
+   {
+    "thscode": "885899.TI",
+    "name": "新型烟草(电子烟)"
+   },
+   {
+    "thscode": "885494.TI",
+    "name": "一带一路"
+   },
+   {
+    "thscode": "885814.TI",
+    "name": "信托概念"
+   },
+   {
+    "thscode": "885493.TI",
+    "name": "上海国企改革"
+   },
+   {
+    "thscode": "885742.TI",
+    "name": "摘帽"
+   },
+   {
+    "thscode": "885806.TI",
+    "name": "华为概念"
+   },
+   {
+    "thscode": "885884.TI",
+    "name": "航空发动机"
+   },
+   {
+    "thscode": "885545.TI",
+    "name": "汽车电子"
+   },
+   {
+    "thscode": "885818.TI",
+    "name": "工业大麻"
+   },
+   {
+    "thscode": "885520.TI",
+    "name": "沪股通"
+   },
+   {
+    "thscode": "885521.TI",
+    "name": "粤港澳大湾区"
+   },
+   {
+    "thscode": "885522.TI",
+    "name": "养老概念"
+   },
+   {
+    "thscode": "885525.TI",
+    "name": "白酒概念"
+   },
+   {
+    "thscode": "885780.TI",
+    "name": "啤酒概念"
+   },
+   {
+    "thscode": "885539.TI",
+    "name": "医疗器械概念"
+   },
+   {
+    "thscode": "885969.TI",
+    "name": "金属镍"
+   },
+   {
+    "thscode": "885562.TI",
+    "name": "高铁"
+   },
+   {
+    "thscode": "885586.TI",
+    "name": "职业教育"
+   },
+   {
+    "thscode": "885591.TI",
+    "name": "中韩自贸区"
+   },
+   {
+    "thscode": "885769.TI",
+    "name": "细胞免疫治疗"
+   },
+   {
+    "thscode": "885595.TI",
+    "name": "央企国企改革"
+   },
+   {
+    "thscode": "885611.TI",
+    "name": "阿里巴巴概念"
+   },
+   {
+    "thscode": "885642.TI",
+    "name": "跨境电商"
+   },
+   {
+    "thscode": "885661.TI",
+    "name": "医药电商"
+   },
+   {
+    "thscode": "885811.TI",
+    "name": "玉米"
+   },
+   {
+    "thscode": "885808.TI",
+    "name": "养鸡"
+   },
+   {
+    "thscode": "885973.TI",
+    "name": "金属铜"
+   },
+   {
+    "thscode": "885970.TI",
+    "name": "金属锌"
+   },
+   {
+    "thscode": "885792.TI",
+    "name": "赛马概念"
+   },
+   {
+    "thscode": "885615.TI",
+    "name": "体育产业"
+   },
+   {
+    "thscode": "885692.TI",
+    "name": "地下管网"
+   },
+   {
+    "thscode": "885690.TI",
+    "name": "PPP概念"
+   },
+   {
+    "thscode": "885767.TI",
+    "name": "互联网保险"
+   },
+   {
+    "thscode": "885734.TI",
+    "name": "广东自贸区"
+   },
+   {
+    "thscode": "885629.TI",
+    "name": "农村电商"
+   },
+   {
+    "thscode": "885694.TI",
+    "name": "深股通"
+   },
+   {
+    "thscode": "886016.TI",
+    "name": "供销社"
+   },
+   {
+    "thscode": "885709.TI",
+    "name": "虚拟现实"
+   },
+   {
+    "thscode": "885860.TI",
+    "name": "中船系"
+   },
+   {
+    "thscode": "885663.TI",
+    "name": "证金持股"
+   },
+   {
+    "thscode": "885840.TI",
+    "name": "人民币贬值受益"
+   },
+   {
+    "thscode": "885783.TI",
+    "name": "工业互联网"
+   },
+   {
+    "thscode": "885743.TI",
+    "name": "军民融合"
+   },
+   {
+    "thscode": "885852.TI",
+    "name": "青蒿素"
+   },
+   {
+    "thscode": "885770.TI",
+    "name": "智能物流"
+   },
+   {
+    "thscode": "885866.TI",
+    "name": "数字货币"
+   },
+   {
+    "thscode": "885779.TI",
+    "name": "腾讯概念"
+   },
+   {
+    "thscode": "885737.TI",
+    "name": "电子竞技"
+   },
+   {
+    "thscode": "885758.TI",
+    "name": "租售同权"
+   },
+   {
+    "thscode": "885728.TI",
+    "name": "人工智能"
+   },
+   {
+    "thscode": "885757.TI",
+    "name": "区块链"
+   },
+   {
+    "thscode": "885740.TI",
+    "name": "化债概念(AMC概念)"
+   },
+   {
+    "thscode": "885771.TI",
+    "name": "智能音箱"
+   },
+   {
+    "thscode": "885753.TI",
+    "name": "网约车"
+   },
+   {
+    "thscode": "885749.TI",
+    "name": "蚂蚁集团概念"
+   },
+   {
+    "thscode": "885739.TI",
+    "name": "股权转让(并购重组)"
+   },
+   {
+    "thscode": "885747.TI",
+    "name": "共享单车"
+   },
+   {
+    "thscode": "885865.TI",
+    "name": "金属钴"
+   },
+   {
+    "thscode": "885744.TI",
+    "name": "雄安新区"
+   },
+   {
+    "thscode": "885750.TI",
+    "name": "特色小镇"
+   },
+   {
+    "thscode": "885768.TI",
+    "name": "无人零售"
+   },
+   {
+    "thscode": "885829.TI",
+    "name": "丙烯酸"
+   },
+   {
+    "thscode": "885760.TI",
+    "name": "装配式建筑"
+   },
+   {
+    "thscode": "885921.TI",
+    "name": "储能"
+   },
+   {
+    "thscode": "885764.TI",
+    "name": "自由贸易港"
+   },
+   {
+    "thscode": "885761.TI",
+    "name": "超级品牌"
+   },
+   {
+    "thscode": "885789.TI",
+    "name": "宁德时代概念"
+   },
+   {
+    "thscode": "885781.TI",
+    "name": "石墨电极"
+   },
+   {
+    "thscode": "885825.TI",
+    "name": "冰雪产业"
+   },
+   {
+    "thscode": "885893.TI",
+    "name": "国家大基金持股"
+   },
+   {
+    "thscode": "885944.TI",
+    "name": "动力电池回收"
+   },
+   {
+    "thscode": "885782.TI",
+    "name": "水泥概念"
+   },
+   {
+    "thscode": "885922.TI",
+    "name": "盐湖提锂"
+   },
+   {
+    "thscode": "886042.TI",
+    "name": "存储芯片"
+   },
+   {
+    "thscode": "885786.TI",
+    "name": "富士康概念"
+   },
+   {
+    "thscode": "885787.TI",
+    "name": "独角兽概念"
+   },
+   {
+    "thscode": "886015.TI",
+    "name": "创新药"
+   },
+   {
+    "thscode": "885812.TI",
+    "name": "农业种植"
+   },
+   {
+    "thscode": "885791.TI",
+    "name": "知识产权保护"
+   },
+   {
+    "thscode": "885903.TI",
+    "name": "环氧丙烷"
+   },
+   {
+    "thscode": "886032.TI",
+    "name": "固态电池"
+   },
+   {
+    "thscode": "885925.TI",
+    "name": "MCU芯片"
+   },
+   {
+    "thscode": "885890.TI",
+    "name": "抖音概念(字节概念)"
+   },
+   {
+    "thscode": "885800.TI",
+    "name": "消费电子概念"
+   },
+   {
+    "thscode": "885894.TI",
+    "name": "海南自贸区"
+   },
+   {
+    "thscode": "885832.TI",
+    "name": "长三角一体化"
+   },
+   {
+    "thscode": "885805.TI",
+    "name": "芬太尼"
+   },
+   {
+    "thscode": "885809.TI",
+    "name": "柔性屏(折叠屏)"
+   },
+   {
+    "thscode": "885819.TI",
+    "name": "电力物联网"
+   },
+   {
+    "thscode": "885820.TI",
+    "name": "数字孪生"
+   },
+   {
+    "thscode": "885823.TI",
+    "name": "氢能源"
+   },
+   {
+    "thscode": "885834.TI",
+    "name": "华为汽车"
+   },
+   {
+    "thscode": "885839.TI",
+    "name": "人造肉"
+   },
+   {
+    "thscode": "885842.TI",
+    "name": "数字乡村"
+   },
+   {
+    "thscode": "885843.TI",
+    "name": "华为海思概念股"
+   },
+   {
+    "thscode": "885844.TI",
+    "name": "国产操作系统"
+   },
+   {
+    "thscode": "886047.TI",
+    "name": "脑机接口"
+   },
+   {
+    "thscode": "885846.TI",
+    "name": "动物疫苗"
+   },
+   {
+    "thscode": "885849.TI",
+    "name": "黑龙江自贸区"
+   },
+   {
+    "thscode": "885861.TI",
+    "name": "ETC"
+   },
+   {
+    "thscode": "885851.TI",
+    "name": "烟草"
+   },
+   {
+    "thscode": "885854.TI",
+    "name": "垃圾分类"
+   },
+   {
+    "thscode": "885856.TI",
+    "name": "仿制药一致性评价"
+   },
+   {
+    "thscode": "885864.TI",
+    "name": "光刻胶"
+   },
+   {
+    "thscode": "886012.TI",
+    "name": "宠物经济"
+   },
+   {
+    "thscode": "885956.TI",
+    "name": "智慧政务"
+   },
+   {
+    "thscode": "885868.TI",
+    "name": "无线耳机"
+   },
+   {
+    "thscode": "885874.TI",
+    "name": "云游戏"
+   },
+   {
+    "thscode": "885875.TI",
+    "name": "MiniLED"
+   },
+   {
+    "thscode": "885876.TI",
+    "name": "网红经济"
+   },
+   {
+    "thscode": "885878.TI",
+    "name": "HJT电池"
+   },
+   {
+    "thscode": "885881.TI",
+    "name": "云办公"
+   },
+   {
+    "thscode": "885882.TI",
+    "name": "消毒剂"
+   },
+   {
+    "thscode": "885887.TI",
+    "name": "数据中心(AIDC)"
+   },
+   {
+    "thscode": "885888.TI",
+    "name": "C2M概念"
+   },
+   {
+    "thscode": "885898.TI",
+    "name": "免税店"
+   },
+   {
+    "thscode": "885918.TI",
+    "name": "快手概念"
+   },
+   {
+    "thscode": "885897.TI",
+    "name": "中芯国际概念"
+   },
+   {
+    "thscode": "885900.TI",
+    "name": "NMN概念"
+   },
+   {
+    "thscode": "885902.TI",
+    "name": "汽车拆解概念"
+   },
+   {
+    "thscode": "885904.TI",
+    "name": "代糖概念"
+   },
+   {
+    "thscode": "885905.TI",
+    "name": "注册制次新股"
+   },
+   {
+    "thscode": "885907.TI",
+    "name": "科创次新股"
+   },
+   {
+    "thscode": "885908.TI",
+    "name": "第三代半导体"
+   },
+   {
+    "thscode": "885909.TI",
+    "name": "辅助生殖"
+   },
+   {
+    "thscode": "885910.TI",
+    "name": "拼多多概念"
+   },
+   {
+    "thscode": "885913.TI",
+    "name": "医美概念"
+   },
+   {
+    "thscode": "885914.TI",
+    "name": "煤炭概念"
+   },
+   {
+    "thscode": "885915.TI",
+    "name": "物业管理"
+   },
+   {
+    "thscode": "885916.TI",
+    "name": "同花顺漂亮100"
+   },
+   {
+    "thscode": "885945.TI",
+    "name": "汽车芯片"
+   },
+   {
+    "thscode": "885919.TI",
+    "name": "碳中和"
+   },
+   {
+    "thscode": "885920.TI",
+    "name": "光伏建筑一体化"
+   },
+   {
+    "thscode": "885923.TI",
+    "name": "鸿蒙概念"
+   },
+   {
+    "thscode": "885924.TI",
+    "name": "共同富裕示范区"
+   },
+   {
+    "thscode": "885926.TI",
+    "name": "牙科医疗"
+   },
+   {
+    "thscode": "885927.TI",
+    "name": "CRO概念"
+   },
+   {
+    "thscode": "885929.TI",
+    "name": "专精特新"
+   },
+   {
+    "thscode": "885931.TI",
+    "name": "PVDF概念"
+   },
+   {
+    "thscode": "885933.TI",
+    "name": "NFT概念"
+   },
+   {
+    "thscode": "885934.TI",
+    "name": "元宇宙"
+   },
+   {
+    "thscode": "885935.TI",
+    "name": "抽水蓄能"
+   },
+   {
+    "thscode": "885936.TI",
+    "name": "绿色电力"
+   },
+   {
+    "thscode": "886004.TI",
+    "name": "虚拟电厂"
+   },
+   {
+    "thscode": "885937.TI",
+    "name": "培育钻石"
+   },
+   {
+    "thscode": "885938.TI",
+    "name": "换电概念"
+   },
+   {
+    "thscode": "885940.TI",
+    "name": "WiFi6"
+   },
+   {
+    "thscode": "885950.TI",
+    "name": "虚拟数字人"
+   },
+   {
+    "thscode": "885942.TI",
+    "name": "数据安全"
+   },
+   {
+    "thscode": "885943.TI",
+    "name": "EDR概念"
+   },
+   {
+    "thscode": "885999.TI",
+    "name": "汽车热管理"
+   },
+   {
+    "thscode": "886001.TI",
+    "name": "高压快充"
+   },
+   {
+    "thscode": "885947.TI",
+    "name": "DRG/DIP"
+   },
+   {
+    "thscode": "885948.TI",
+    "name": "柔性直流输电"
+   },
+   {
+    "thscode": "885951.TI",
+    "name": "预制菜"
+   },
+   {
+    "thscode": "885952.TI",
+    "name": "幽门螺杆菌概念"
+   },
+   {
+    "thscode": "885955.TI",
+    "name": "重组蛋白"
+   },
+   {
+    "thscode": "885957.TI",
+    "name": "东数西算(算力)"
+   },
+   {
+    "thscode": "885958.TI",
+    "name": "硅能源"
+   },
+   {
+    "thscode": "885959.TI",
+    "name": "PCB概念"
+   },
+   {
+    "thscode": "885960.TI",
+    "name": "民爆概念"
+   },
+   {
+    "thscode": "885963.TI",
+    "name": "智慧灯杆"
+   },
+   {
+    "thscode": "885964.TI",
+    "name": "俄乌冲突概念"
+   },
+   {
+    "thscode": "885965.TI",
+    "name": "中俄贸易概念"
+   },
+   {
+    "thscode": "885966.TI",
+    "name": "跨境支付(CIPS)"
+   },
+   {
+    "thscode": "885968.TI",
+    "name": "托育服务"
+   },
+   {
+    "thscode": "885971.TI",
+    "name": "金属铅"
+   },
+   {
+    "thscode": "885975.TI",
+    "name": "电子身份证"
+   },
+   {
+    "thscode": "885976.TI",
+    "name": "数字经济"
+   },
+   {
+    "thscode": "885977.TI",
+    "name": "国资云"
+   },
+   {
+    "thscode": "885980.TI",
+    "name": "华为鲲鹏"
+   },
+   {
+    "thscode": "885981.TI",
+    "name": "家庭医生"
+   },
+   {
+    "thscode": "885982.TI",
+    "name": "华为欧拉"
+   },
+   {
+    "thscode": "885985.TI",
+    "name": "毛发医疗"
+   },
+   {
+    "thscode": "885987.TI",
+    "name": "MicroLED概念"
+   },
+   {
+    "thscode": "885988.TI",
+    "name": "统一大市场"
+   },
+   {
+    "thscode": "885989.TI",
+    "name": "肝炎概念"
+   },
+   {
+    "thscode": "885990.TI",
+    "name": "露营经济"
+   },
+   {
+    "thscode": "885994.TI",
+    "name": "猴痘概念"
+   },
+   {
+    "thscode": "885995.TI",
+    "name": "粮食概念"
+   },
+   {
+    "thscode": "885996.TI",
+    "name": "超超临界发电"
+   },
+   {
+    "thscode": "885997.TI",
+    "name": "比亚迪概念"
+   },
+   {
+    "thscode": "885998.TI",
+    "name": "F5G概念"
+   },
+   {
+    "thscode": "886000.TI",
+    "name": "一体化压铸"
+   },
+   {
+    "thscode": "886005.TI",
+    "name": "生物质能发电"
+   },
+   {
+    "thscode": "886006.TI",
+    "name": "钙钛矿电池"
+   },
+   {
+    "thscode": "886007.TI",
+    "name": "TOPCON电池"
+   },
+   {
+    "thscode": "886008.TI",
+    "name": "减速器"
+   },
+   {
+    "thscode": "886009.TI",
+    "name": "先进封装"
+   },
+   {
+    "thscode": "886010.TI",
+    "name": "空气能热泵"
+   },
+   {
+    "thscode": "886013.TI",
+    "name": "信创"
+   },
+   {
+    "thscode": "886017.TI",
+    "name": "Web3.0"
+   },
+   {
+    "thscode": "886018.TI",
+    "name": "高压氧舱"
+   },
+   {
+    "thscode": "886019.TI",
+    "name": "AIGC概念"
+   },
+   {
+    "thscode": "886020.TI",
+    "name": "PET铜箔"
+   },
+   {
+    "thscode": "886021.TI",
+    "name": "国企改革"
+   },
+   {
+    "thscode": "886023.TI",
+    "name": "数据确权"
+   },
+   {
+    "thscode": "886026.TI",
+    "name": "POE胶膜"
+   },
+   {
+    "thscode": "886028.TI",
+    "name": "血氧仪"
+   },
+   {
+    "thscode": "886030.TI",
+    "name": "成飞概念"
+   },
+   {
+    "thscode": "886031.TI",
+    "name": "ChatGPT概念"
+   },
+   {
+    "thscode": "886033.TI",
+    "name": "共封装光学(CPO)"
+   },
+   {
+    "thscode": "886034.TI",
+    "name": "数字水印"
+   },
+   {
+    "thscode": "886035.TI",
+    "name": "毫米波雷达"
+   },
+   {
+    "thscode": "886037.TI",
+    "name": "6G概念"
+   },
+   {
+    "thscode": "886038.TI",
+    "name": "超导概念"
+   },
+   {
+    "thscode": "886039.TI",
+    "name": "ERP概念"
+   },
+   {
+    "thscode": "886040.TI",
+    "name": "MLOps概念"
+   },
+   {
+    "thscode": "886041.TI",
+    "name": "数据要素"
+   },
+   {
+    "thscode": "886044.TI",
+    "name": "液冷服务器"
+   },
+   {
+    "thscode": "886045.TI",
+    "name": "同花顺中特估100"
+   },
+   {
+    "thscode": "886046.TI",
+    "name": "MR(混合现实)"
+   },
+   {
+    "thscode": "886048.TI",
+    "name": "英伟达概念"
+   },
+   {
+    "thscode": "886049.TI",
+    "name": "空间计算"
+   },
+   {
+    "thscode": "886050.TI",
+    "name": "算力租赁"
+   },
+   {
+    "thscode": "886051.TI",
+    "name": "减肥药"
+   },
+   {
+    "thscode": "886052.TI",
+    "name": "核污染防治"
+   },
+   {
+    "thscode": "886053.TI",
+    "name": "BC电池"
+   },
+   {
+    "thscode": "886054.TI",
+    "name": "光刻机"
+   },
+   {
+    "thscode": "886055.TI",
+    "name": "星闪概念"
+   },
+   {
+    "thscode": "886056.TI",
+    "name": "阿尔茨海默概念"
+   },
+   {
+    "thscode": "886057.TI",
+    "name": "新型工业化"
+   },
+   {
+    "thscode": "886058.TI",
+    "name": "华为昇腾"
+   },
+   {
+    "thscode": "886059.TI",
+    "name": "智能座舱"
+   },
+   {
+    "thscode": "886060.TI",
+    "name": "短剧游戏"
+   },
+   {
+    "thscode": "886061.TI",
+    "name": "长安汽车概念"
+   },
+   {
+    "thscode": "886062.TI",
+    "name": "多模态AI"
+   },
+   {
+    "thscode": "886063.TI",
+    "name": "PEEK材料"
+   },
+   {
+    "thscode": "886064.TI",
+    "name": "小米汽车"
+   },
+   {
+    "thscode": "886065.TI",
+    "name": "可控核聚变"
+   },
+   {
+    "thscode": "886066.TI",
+    "name": "飞行汽车(eVTOL)"
+   },
+   {
+    "thscode": "886067.TI",
+    "name": "低空经济"
+   },
+   {
+    "thscode": "886068.TI",
+    "name": "AI视频"
+   },
+   {
+    "thscode": "886069.TI",
+    "name": "人形机器人"
+   },
+   {
+    "thscode": "886070.TI",
+    "name": "AI手机"
+   },
+   {
+    "thscode": "886071.TI",
+    "name": "AIPC"
+   },
+   {
+    "thscode": "886072.TI",
+    "name": "高股息精选"
+   },
+   {
+    "thscode": "886073.TI",
+    "name": "铜缆高速连接"
+   },
+   {
+    "thscode": "886074.TI",
+    "name": "AI语料"
+   },
+   {
+    "thscode": "886075.TI",
+    "name": "同花顺出海50"
+   },
+   {
+    "thscode": "886076.TI",
+    "name": "军工信息化"
+   },
+   {
+    "thscode": "886077.TI",
+    "name": "合成生物"
+   },
+   {
+    "thscode": "886078.TI",
+    "name": "商业航天"
+   },
+   {
+    "thscode": "886080.TI",
+    "name": "财税数字化"
+   },
+   {
+    "thscode": "886081.TI",
+    "name": "维生素"
+   },
+   {
+    "thscode": "886082.TI",
+    "name": "同花顺果指数"
+   },
+   {
+    "thscode": "886084.TI",
+    "name": "光纤概念"
+   },
+   {
+    "thscode": "886085.TI",
+    "name": "AI眼镜"
+   },
+   {
+    "thscode": "886086.TI",
+    "name": "西部大开发"
+   },
+   {
+    "thscode": "886087.TI",
+    "name": "房屋检测"
+   },
+   {
+    "thscode": "886090.TI",
+    "name": "智谱AI"
+   },
+   {
+    "thscode": "886091.TI",
+    "name": "华为手机"
+   },
+   {
+    "thscode": "886093.TI",
+    "name": "华为数字能源"
+   },
+   {
+    "thscode": "886094.TI",
+    "name": "华为盘古"
+   },
+   {
+    "thscode": "885827.TI",
+    "name": "横琴新区"
+   },
+   {
+    "thscode": "886095.TI",
+    "name": "IP经济(谷子经济)"
+   },
+   {
+    "thscode": "886098.TI",
+    "name": "小红书概念"
+   },
+   {
+    "thscode": "886099.TI",
+    "name": "AI智能体"
+   },
+   {
+    "thscode": "886100.TI",
+    "name": "DeepSeek概念"
+   },
+   {
+    "thscode": "886101.TI",
+    "name": "兵装重组概念"
+   },
+   {
+    "thscode": "885362.TI",
+    "name": "云计算"
+   },
+   {
+    "thscode": "886102.TI",
+    "name": "中国AI50"
+   },
+   {
+    "thscode": "886096.TI",
+    "name": "同花顺新质50"
+   },
+   {
+    "thscode": "886105.TI",
+    "name": "雅下水电概念"
+   },
+   {
+    "thscode": "886108.TI",
+    "name": "AI应用"
+   },
+   {
+    "thscode": "886109.TI",
+    "name": "2026一季报预增"
+   },
+   {
+    "thscode": "886110.TI",
+    "name": "2026中报预增"
+   },
+   {
+    "thscode": "886111.TI",
+    "name": "玻璃基板"
+   },
+   {
+    "thscode": "886112.TI",
+    "name": "MLCC概念"
+   }
+  ]
+ }
+}

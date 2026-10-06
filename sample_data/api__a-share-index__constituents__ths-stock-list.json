@@ -1,0 +1,1511 @@
+{
+ "path": "/api/a-share-index/constituents/ths-stock-list",
+ "params": {
+  "thscode": "000300.SH"
+ },
+ "data": {
+  "timestamp": 1791247958692,
+  "item": [
+   {
+    "thscode": "302132.SZ",
+    "ticker": "302132",
+    "name": "中航成飞"
+   },
+   {
+    "thscode": "601018.SH",
+    "ticker": "601018",
+    "name": "宁波港"
+   },
+   {
+    "thscode": "600930.SH",
+    "ticker": "600930",
+    "name": "华电新能"
+   },
+   {
+    "thscode": "600522.SH",
+    "ticker": "600522",
+    "name": "中天科技"
+   },
+   {
+    "thscode": "300866.SZ",
+    "ticker": "300866",
+    "name": "安克创新"
+   },
+   {
+    "thscode": "300803.SZ",
+    "ticker": "300803",
+    "name": "指南针"
+   },
+   {
+    "thscode": "300476.SZ",
+    "ticker": "300476",
+    "name": "胜宏科技"
+   },
+   {
+    "thscode": "300251.SZ",
+    "ticker": "300251",
+    "name": "光线传媒"
+   },
+   {
+    "thscode": "002625.SZ",
+    "ticker": "002625",
+    "name": "光启技术"
+   },
+   {
+    "thscode": "002384.SZ",
+    "ticker": "002384",
+    "name": "东山精密"
+   },
+   {
+    "thscode": "688047.SH",
+    "ticker": "688047",
+    "name": "龙芯中科"
+   },
+   {
+    "thscode": "601825.SH",
+    "ticker": "601825",
+    "name": "沪农商行"
+   },
+   {
+    "thscode": "601077.SH",
+    "ticker": "601077",
+    "name": "渝农商行"
+   },
+   {
+    "thscode": "301236.SZ",
+    "ticker": "301236",
+    "name": "软通动力"
+   },
+   {
+    "thscode": "002600.SZ",
+    "ticker": "002600",
+    "name": "领益智造"
+   },
+   {
+    "thscode": "001391.SZ",
+    "ticker": "001391",
+    "name": "国货航"
+   },
+   {
+    "thscode": "601058.SH",
+    "ticker": "601058",
+    "name": "赛轮轮胎"
+   },
+   {
+    "thscode": "600066.SH",
+    "ticker": "600066",
+    "name": "宇通客车"
+   },
+   {
+    "thscode": "600160.SH",
+    "ticker": "600160",
+    "name": "巨化股份"
+   },
+   {
+    "thscode": "601127.SH",
+    "ticker": "601127",
+    "name": "赛力斯"
+   },
+   {
+    "thscode": "600482.SH",
+    "ticker": "600482",
+    "name": "中国动力"
+   },
+   {
+    "thscode": "002463.SZ",
+    "ticker": "002463",
+    "name": "沪电股份"
+   },
+   {
+    "thscode": "300394.SZ",
+    "ticker": "300394",
+    "name": "天孚通信"
+   },
+   {
+    "thscode": "601136.SH",
+    "ticker": "601136",
+    "name": "首创证券"
+   },
+   {
+    "thscode": "688472.SH",
+    "ticker": "688472",
+    "name": "阿特斯"
+   },
+   {
+    "thscode": "688506.SH",
+    "ticker": "688506",
+    "name": "百利天恒"
+   },
+   {
+    "thscode": "300502.SZ",
+    "ticker": "300502",
+    "name": "新易盛"
+   },
+   {
+    "thscode": "000630.SZ",
+    "ticker": "000630",
+    "name": "铜陵有色"
+   },
+   {
+    "thscode": "000975.SZ",
+    "ticker": "000975",
+    "name": "山金国际"
+   },
+   {
+    "thscode": "002028.SZ",
+    "ticker": "002028",
+    "name": "思源电气"
+   },
+   {
+    "thscode": "002422.SZ",
+    "ticker": "002422",
+    "name": "科伦药业"
+   },
+   {
+    "thscode": "301269.SZ",
+    "ticker": "301269",
+    "name": "华大九天"
+   },
+   {
+    "thscode": "300316.SZ",
+    "ticker": "300316",
+    "name": "晶盛机电"
+   },
+   {
+    "thscode": "300308.SZ",
+    "ticker": "300308",
+    "name": "中际旭创"
+   },
+   {
+    "thscode": "300274.SZ",
+    "ticker": "300274",
+    "name": "阳光电源"
+   },
+   {
+    "thscode": "300014.SZ",
+    "ticker": "300014",
+    "name": "亿纬锂能"
+   },
+   {
+    "thscode": "300122.SZ",
+    "ticker": "300122",
+    "name": "智飞生物"
+   },
+   {
+    "thscode": "300015.SZ",
+    "ticker": "300015",
+    "name": "爱尔眼科"
+   },
+   {
+    "thscode": "300033.SZ",
+    "ticker": "300033",
+    "name": "同花顺"
+   },
+   {
+    "thscode": "000999.SZ",
+    "ticker": "000999",
+    "name": "华润三九"
+   },
+   {
+    "thscode": "002466.SZ",
+    "ticker": "002466",
+    "name": "天齐锂业"
+   },
+   {
+    "thscode": "002371.SZ",
+    "ticker": "002371",
+    "name": "北方华创"
+   },
+   {
+    "thscode": "002311.SZ",
+    "ticker": "002311",
+    "name": "海大集团"
+   },
+   {
+    "thscode": "002460.SZ",
+    "ticker": "002460",
+    "name": "赣锋锂业"
+   },
+   {
+    "thscode": "002352.SZ",
+    "ticker": "002352",
+    "name": "顺丰控股"
+   },
+   {
+    "thscode": "000166.SZ",
+    "ticker": "000166",
+    "name": "申万宏源"
+   },
+   {
+    "thscode": "002415.SZ",
+    "ticker": "002415",
+    "name": "海康威视"
+   },
+   {
+    "thscode": "002304.SZ",
+    "ticker": "002304",
+    "name": "洋河股份"
+   },
+   {
+    "thscode": "688271.SH",
+    "ticker": "688271",
+    "name": "联影医疗"
+   },
+   {
+    "thscode": "002648.SZ",
+    "ticker": "002648",
+    "name": "卫星化学"
+   },
+   {
+    "thscode": "002709.SZ",
+    "ticker": "002709",
+    "name": "天赐材料"
+   },
+   {
+    "thscode": "000301.SZ",
+    "ticker": "000301",
+    "name": "东方盛虹"
+   },
+   {
+    "thscode": "002493.SZ",
+    "ticker": "002493",
+    "name": "荣盛石化"
+   },
+   {
+    "thscode": "002475.SZ",
+    "ticker": "002475",
+    "name": "立讯精密"
+   },
+   {
+    "thscode": "002594.SZ",
+    "ticker": "002594",
+    "name": "比亚迪"
+   },
+   {
+    "thscode": "605117.SH",
+    "ticker": "605117",
+    "name": "德业股份"
+   },
+   {
+    "thscode": "605499.SH",
+    "ticker": "605499",
+    "name": "东鹏饮料"
+   },
+   {
+    "thscode": "300413.SZ",
+    "ticker": "300413",
+    "name": "芒果超媒"
+   },
+   {
+    "thscode": "300433.SZ",
+    "ticker": "300433",
+    "name": "蓝思科技"
+   },
+   {
+    "thscode": "300408.SZ",
+    "ticker": "300408",
+    "name": "三环集团"
+   },
+   {
+    "thscode": "000338.SZ",
+    "ticker": "000338",
+    "name": "潍柴动力"
+   },
+   {
+    "thscode": "002179.SZ",
+    "ticker": "002179",
+    "name": "中航光电"
+   },
+   {
+    "thscode": "002230.SZ",
+    "ticker": "002230",
+    "name": "科大讯飞"
+   },
+   {
+    "thscode": "002236.SZ",
+    "ticker": "002236",
+    "name": "大华股份"
+   },
+   {
+    "thscode": "002241.SZ",
+    "ticker": "002241",
+    "name": "歌尔股份"
+   },
+   {
+    "thscode": "000157.SZ",
+    "ticker": "000157",
+    "name": "中联重科"
+   },
+   {
+    "thscode": "002142.SZ",
+    "ticker": "002142",
+    "name": "宁波银行"
+   },
+   {
+    "thscode": "601872.SH",
+    "ticker": "601872",
+    "name": "招商轮船"
+   },
+   {
+    "thscode": "000792.SZ",
+    "ticker": "000792",
+    "name": "盐湖股份"
+   },
+   {
+    "thscode": "601898.SH",
+    "ticker": "601898",
+    "name": "中煤能源"
+   },
+   {
+    "thscode": "002916.SZ",
+    "ticker": "002916",
+    "name": "深南电路"
+   },
+   {
+    "thscode": "002714.SZ",
+    "ticker": "002714",
+    "name": "牧原股份"
+   },
+   {
+    "thscode": "002736.SZ",
+    "ticker": "002736",
+    "name": "国信证券"
+   },
+   {
+    "thscode": "688981.SH",
+    "ticker": "688981",
+    "name": "中芯国际"
+   },
+   {
+    "thscode": "688396.SH",
+    "ticker": "688396",
+    "name": "华润微"
+   },
+   {
+    "thscode": "000977.SZ",
+    "ticker": "000977",
+    "name": "浪潮信息"
+   },
+   {
+    "thscode": "000938.SZ",
+    "ticker": "000938",
+    "name": "紫光股份"
+   },
+   {
+    "thscode": "000963.SZ",
+    "ticker": "000963",
+    "name": "华东医药"
+   },
+   {
+    "thscode": "000063.SZ",
+    "ticker": "000063",
+    "name": "中兴通讯"
+   },
+   {
+    "thscode": "000895.SZ",
+    "ticker": "000895",
+    "name": "双汇发展"
+   },
+   {
+    "thscode": "601916.SH",
+    "ticker": "601916",
+    "name": "浙商银行"
+   },
+   {
+    "thscode": "601995.SH",
+    "ticker": "601995",
+    "name": "中金公司"
+   },
+   {
+    "thscode": "601985.SH",
+    "ticker": "601985",
+    "name": "中国核电"
+   },
+   {
+    "thscode": "601919.SH",
+    "ticker": "601919",
+    "name": "中远海控"
+   },
+   {
+    "thscode": "601901.SH",
+    "ticker": "601901",
+    "name": "方正证券"
+   },
+   {
+    "thscode": "601939.SH",
+    "ticker": "601939",
+    "name": "建设银行"
+   },
+   {
+    "thscode": "601988.SH",
+    "ticker": "601988",
+    "name": "中国银行"
+   },
+   {
+    "thscode": "688256.SH",
+    "ticker": "688256",
+    "name": "寒武纪"
+   },
+   {
+    "thscode": "688041.SH",
+    "ticker": "688041",
+    "name": "海光信息"
+   },
+   {
+    "thscode": "688223.SH",
+    "ticker": "688223",
+    "name": "晶科能源"
+   },
+   {
+    "thscode": "688303.SH",
+    "ticker": "688303",
+    "name": "大全能源"
+   },
+   {
+    "thscode": "688126.SH",
+    "ticker": "688126",
+    "name": "沪硅产业"
+   },
+   {
+    "thscode": "688111.SH",
+    "ticker": "688111",
+    "name": "金山办公"
+   },
+   {
+    "thscode": "688036.SH",
+    "ticker": "688036",
+    "name": "传音控股"
+   },
+   {
+    "thscode": "601816.SH",
+    "ticker": "601816",
+    "name": "京沪高铁"
+   },
+   {
+    "thscode": "601838.SH",
+    "ticker": "601838",
+    "name": "成都银行"
+   },
+   {
+    "thscode": "601788.SH",
+    "ticker": "601788",
+    "name": "光大证券"
+   },
+   {
+    "thscode": "601800.SH",
+    "ticker": "601800",
+    "name": "中国交建"
+   },
+   {
+    "thscode": "601818.SH",
+    "ticker": "601818",
+    "name": "光大银行"
+   },
+   {
+    "thscode": "601766.SH",
+    "ticker": "601766",
+    "name": "中国中车"
+   },
+   {
+    "thscode": "601857.SH",
+    "ticker": "601857",
+    "name": "中国石油"
+   },
+   {
+    "thscode": "688012.SH",
+    "ticker": "688012",
+    "name": "中微公司"
+   },
+   {
+    "thscode": "688008.SH",
+    "ticker": "688008",
+    "name": "澜起科技"
+   },
+   {
+    "thscode": "603986.SH",
+    "ticker": "603986",
+    "name": "兆易创新"
+   },
+   {
+    "thscode": "603993.SH",
+    "ticker": "603993",
+    "name": "洛阳钼业"
+   },
+   {
+    "thscode": "000858.SZ",
+    "ticker": "000858",
+    "name": "五粮液"
+   },
+   {
+    "thscode": "601689.SH",
+    "ticker": "601689",
+    "name": "拓普集团"
+   },
+   {
+    "thscode": "601728.SH",
+    "ticker": "601728",
+    "name": "中国电信"
+   },
+   {
+    "thscode": "601658.SH",
+    "ticker": "601658",
+    "name": "邮储银行"
+   },
+   {
+    "thscode": "601698.SH",
+    "ticker": "601698",
+    "name": "中国卫通"
+   },
+   {
+    "thscode": "601669.SH",
+    "ticker": "601669",
+    "name": "中国电建"
+   },
+   {
+    "thscode": "601633.SH",
+    "ticker": "601633",
+    "name": "长城汽车"
+   },
+   {
+    "thscode": "000776.SZ",
+    "ticker": "000776",
+    "name": "广发证券"
+   },
+   {
+    "thscode": "601668.SH",
+    "ticker": "601668",
+    "name": "中国建筑"
+   },
+   {
+    "thscode": "601688.SH",
+    "ticker": "601688",
+    "name": "华泰证券"
+   },
+   {
+    "thscode": "601059.SH",
+    "ticker": "601059",
+    "name": "信达证券"
+   },
+   {
+    "thscode": "600989.SH",
+    "ticker": "600989",
+    "name": "宝丰能源"
+   },
+   {
+    "thscode": "601012.SH",
+    "ticker": "601012",
+    "name": "隆基绿能"
+   },
+   {
+    "thscode": "601998.SH",
+    "ticker": "601998",
+    "name": "中信银行"
+   },
+   {
+    "thscode": "601607.SH",
+    "ticker": "601607",
+    "name": "上海医药"
+   },
+   {
+    "thscode": "601360.SH",
+    "ticker": "601360",
+    "name": "三六零"
+   },
+   {
+    "thscode": "601336.SH",
+    "ticker": "601336",
+    "name": "新华保险"
+   },
+   {
+    "thscode": "601377.SH",
+    "ticker": "601377",
+    "name": "兴业证券"
+   },
+   {
+    "thscode": "601600.SH",
+    "ticker": "601600",
+    "name": "中国铝业"
+   },
+   {
+    "thscode": "601390.SH",
+    "ticker": "601390",
+    "name": "中国中铁"
+   },
+   {
+    "thscode": "601398.SH",
+    "ticker": "601398",
+    "name": "工商银行"
+   },
+   {
+    "thscode": "601601.SH",
+    "ticker": "601601",
+    "name": "中国太保"
+   },
+   {
+    "thscode": "600926.SH",
+    "ticker": "600926",
+    "name": "杭州银行"
+   },
+   {
+    "thscode": "600919.SH",
+    "ticker": "600919",
+    "name": "江苏银行"
+   },
+   {
+    "thscode": "600893.SH",
+    "ticker": "600893",
+    "name": "航发动力"
+   },
+   {
+    "thscode": "600887.SH",
+    "ticker": "600887",
+    "name": "伊利股份"
+   },
+   {
+    "thscode": "600900.SH",
+    "ticker": "600900",
+    "name": "长江电力"
+   },
+   {
+    "thscode": "002074.SZ",
+    "ticker": "002074",
+    "name": "国轩高科"
+   },
+   {
+    "thscode": "002049.SZ",
+    "ticker": "002049",
+    "name": "紫光国微"
+   },
+   {
+    "thscode": "002001.SZ",
+    "ticker": "002001",
+    "name": "新和成"
+   },
+   {
+    "thscode": "002050.SZ",
+    "ticker": "002050",
+    "name": "三花智控"
+   },
+   {
+    "thscode": "002027.SZ",
+    "ticker": "002027",
+    "name": "分众传媒"
+   },
+   {
+    "thscode": "001979.SZ",
+    "ticker": "001979",
+    "name": "招商蛇口"
+   },
+   {
+    "thscode": "000100.SZ",
+    "ticker": "000100",
+    "name": "TCL科技"
+   },
+   {
+    "thscode": "603260.SH",
+    "ticker": "603260",
+    "name": "合盛硅业"
+   },
+   {
+    "thscode": "603392.SH",
+    "ticker": "603392",
+    "name": "万泰生物"
+   },
+   {
+    "thscode": "603369.SH",
+    "ticker": "603369",
+    "name": "今世缘"
+   },
+   {
+    "thscode": "603501.SH",
+    "ticker": "603501",
+    "name": "豪威集团"
+   },
+   {
+    "thscode": "603019.SH",
+    "ticker": "603019",
+    "name": "中科曙光"
+   },
+   {
+    "thscode": "603259.SH",
+    "ticker": "603259",
+    "name": "药明康德"
+   },
+   {
+    "thscode": "603288.SH",
+    "ticker": "603288",
+    "name": "海天味业"
+   },
+   {
+    "thscode": "603799.SH",
+    "ticker": "603799",
+    "name": "华友钴业"
+   },
+   {
+    "thscode": "600875.SH",
+    "ticker": "600875",
+    "name": "东方电气"
+   },
+   {
+    "thscode": "600803.SH",
+    "ticker": "600803",
+    "name": "新奥股份"
+   },
+   {
+    "thscode": "600845.SH",
+    "ticker": "600845",
+    "name": "宝信软件"
+   },
+   {
+    "thscode": "601117.SH",
+    "ticker": "601117",
+    "name": "中国化学"
+   },
+   {
+    "thscode": "601100.SH",
+    "ticker": "601100",
+    "name": "恒立液压"
+   },
+   {
+    "thscode": "601138.SH",
+    "ticker": "601138",
+    "name": "工业富联"
+   },
+   {
+    "thscode": "601066.SH",
+    "ticker": "601066",
+    "name": "中信建投"
+   },
+   {
+    "thscode": "601088.SH",
+    "ticker": "601088",
+    "name": "中国神华"
+   },
+   {
+    "thscode": "601111.SH",
+    "ticker": "601111",
+    "name": "中国国航"
+   },
+   {
+    "thscode": "601166.SH",
+    "ticker": "601166",
+    "name": "兴业银行"
+   },
+   {
+    "thscode": "601169.SH",
+    "ticker": "601169",
+    "name": "北京银行"
+   },
+   {
+    "thscode": "601186.SH",
+    "ticker": "601186",
+    "name": "中国铁建"
+   },
+   {
+    "thscode": "600674.SH",
+    "ticker": "600674",
+    "name": "川投能源"
+   },
+   {
+    "thscode": "601868.SH",
+    "ticker": "601868",
+    "name": "中国能建"
+   },
+   {
+    "thscode": "601878.SH",
+    "ticker": "601878",
+    "name": "浙商证券"
+   },
+   {
+    "thscode": "601881.SH",
+    "ticker": "601881",
+    "name": "中国银河"
+   },
+   {
+    "thscode": "601877.SH",
+    "ticker": "601877",
+    "name": "XD正泰电"
+   },
+   {
+    "thscode": "601888.SH",
+    "ticker": "601888",
+    "name": "中国中免"
+   },
+   {
+    "thscode": "601899.SH",
+    "ticker": "601899",
+    "name": "紫金矿业"
+   },
+   {
+    "thscode": "601319.SH",
+    "ticker": "601319",
+    "name": "中国人保"
+   },
+   {
+    "thscode": "601238.SH",
+    "ticker": "601238",
+    "name": "广汽集团"
+   },
+   {
+    "thscode": "601229.SH",
+    "ticker": "601229",
+    "name": "上海银行"
+   },
+   {
+    "thscode": "601211.SH",
+    "ticker": "601211",
+    "name": "国泰海通"
+   },
+   {
+    "thscode": "601225.SH",
+    "ticker": "601225",
+    "name": "陕西煤业"
+   },
+   {
+    "thscode": "601318.SH",
+    "ticker": "601318",
+    "name": "中国平安"
+   },
+   {
+    "thscode": "601288.SH",
+    "ticker": "601288",
+    "name": "农业银行"
+   },
+   {
+    "thscode": "601328.SH",
+    "ticker": "601328",
+    "name": "交通银行"
+   },
+   {
+    "thscode": "000768.SZ",
+    "ticker": "000768",
+    "name": "中航西飞"
+   },
+   {
+    "thscode": "600515.SH",
+    "ticker": "600515",
+    "name": "海南机场"
+   },
+   {
+    "thscode": "600489.SH",
+    "ticker": "600489",
+    "name": "中金黄金"
+   },
+   {
+    "thscode": "600372.SH",
+    "ticker": "600372",
+    "name": "中航机载"
+   },
+   {
+    "thscode": "600460.SH",
+    "ticker": "600460",
+    "name": "士兰微"
+   },
+   {
+    "thscode": "600600.SH",
+    "ticker": "600600",
+    "name": "青岛啤酒"
+   },
+   {
+    "thscode": "600584.SH",
+    "ticker": "600584",
+    "name": "长电科技"
+   },
+   {
+    "thscode": "000708.SZ",
+    "ticker": "000708",
+    "name": "中信特钢"
+   },
+   {
+    "thscode": "600918.SH",
+    "ticker": "600918",
+    "name": "中泰证券"
+   },
+   {
+    "thscode": "600905.SH",
+    "ticker": "600905",
+    "name": "三峡能源"
+   },
+   {
+    "thscode": "600941.SH",
+    "ticker": "600941",
+    "name": "XD中国移"
+   },
+   {
+    "thscode": "600938.SH",
+    "ticker": "600938",
+    "name": "中国海油"
+   },
+   {
+    "thscode": "601628.SH",
+    "ticker": "601628",
+    "name": "中国人寿"
+   },
+   {
+    "thscode": "601618.SH",
+    "ticker": "601618",
+    "name": "中国中冶"
+   },
+   {
+    "thscode": "000807.SZ",
+    "ticker": "000807",
+    "name": "云铝股份"
+   },
+   {
+    "thscode": "300832.SZ",
+    "ticker": "300832",
+    "name": "新产业"
+   },
+   {
+    "thscode": "600027.SH",
+    "ticker": "600027",
+    "name": "华电国际"
+   },
+   {
+    "thscode": "600415.SH",
+    "ticker": "600415",
+    "name": "小商品城"
+   },
+   {
+    "thscode": "300442.SZ",
+    "ticker": "300442",
+    "name": "润泽科技"
+   },
+   {
+    "thscode": "600026.SH",
+    "ticker": "600026",
+    "name": "中远海能"
+   },
+   {
+    "thscode": "603296.SH",
+    "ticker": "603296",
+    "name": "华勤技术"
+   },
+   {
+    "thscode": "688009.SH",
+    "ticker": "688009",
+    "name": "中国通号"
+   },
+   {
+    "thscode": "688082.SH",
+    "ticker": "688082",
+    "name": "盛美上海"
+   },
+   {
+    "thscode": "001965.SZ",
+    "ticker": "001965",
+    "name": "招商公路"
+   },
+   {
+    "thscode": "300418.SZ",
+    "ticker": "300418",
+    "name": "昆仑万维"
+   },
+   {
+    "thscode": "000596.SZ",
+    "ticker": "000596",
+    "name": "古井贡酒"
+   },
+   {
+    "thscode": "600150.SH",
+    "ticker": "600150",
+    "name": "中国船舶"
+   },
+   {
+    "thscode": "600426.SH",
+    "ticker": "600426",
+    "name": "华鲁恒升"
+   },
+   {
+    "thscode": "600196.SH",
+    "ticker": "600196",
+    "name": "复星医药"
+   },
+   {
+    "thscode": "600085.SH",
+    "ticker": "600085",
+    "name": "同仁堂"
+   },
+   {
+    "thscode": "600111.SH",
+    "ticker": "600111",
+    "name": "北方稀土"
+   },
+   {
+    "thscode": "600104.SH",
+    "ticker": "600104",
+    "name": "上汽集团"
+   },
+   {
+    "thscode": "600115.SH",
+    "ticker": "600115",
+    "name": "中国东航"
+   },
+   {
+    "thscode": "600176.SH",
+    "ticker": "600176",
+    "name": "中国巨石"
+   },
+   {
+    "thscode": "600183.SH",
+    "ticker": "600183",
+    "name": "生益科技"
+   },
+   {
+    "thscode": "600089.SH",
+    "ticker": "600089",
+    "name": "特变电工"
+   },
+   {
+    "thscode": "600188.SH",
+    "ticker": "600188",
+    "name": "兖矿能源"
+   },
+   {
+    "thscode": "600219.SH",
+    "ticker": "600219",
+    "name": "南山铝业"
+   },
+   {
+    "thscode": "601009.SH",
+    "ticker": "601009",
+    "name": "南京银行"
+   },
+   {
+    "thscode": "601006.SH",
+    "ticker": "601006",
+    "name": "大秦铁路"
+   },
+   {
+    "thscode": "600999.SH",
+    "ticker": "600999",
+    "name": "招商证券"
+   },
+   {
+    "thscode": "000002.SZ",
+    "ticker": "000002",
+    "name": "万科Ａ"
+   },
+   {
+    "thscode": "000725.SZ",
+    "ticker": "000725",
+    "name": "京东方Ａ"
+   },
+   {
+    "thscode": "600958.SH",
+    "ticker": "600958",
+    "name": "东方证券"
+   },
+   {
+    "thscode": "601021.SH",
+    "ticker": "601021",
+    "name": "春秋航空"
+   },
+   {
+    "thscode": "000333.SZ",
+    "ticker": "000333",
+    "name": "美的集团"
+   },
+   {
+    "thscode": "002938.SZ",
+    "ticker": "002938",
+    "name": "鹏鼎控股"
+   },
+   {
+    "thscode": "688521.SH",
+    "ticker": "688521",
+    "name": "芯原股份"
+   },
+   {
+    "thscode": "003816.SZ",
+    "ticker": "003816",
+    "name": "中国广核"
+   },
+   {
+    "thscode": "002920.SZ",
+    "ticker": "002920",
+    "name": "德赛西威"
+   },
+   {
+    "thscode": "300124.SZ",
+    "ticker": "300124",
+    "name": "汇川技术"
+   },
+   {
+    "thscode": "300059.SZ",
+    "ticker": "300059",
+    "name": "东方财富"
+   },
+   {
+    "thscode": "000001.SZ",
+    "ticker": "000001",
+    "name": "平安银行"
+   },
+   {
+    "thscode": "300498.SZ",
+    "ticker": "300498",
+    "name": "温氏股份"
+   },
+   {
+    "thscode": "300628.SZ",
+    "ticker": "300628",
+    "name": "亿联网络"
+   },
+   {
+    "thscode": "300750.SZ",
+    "ticker": "300750",
+    "name": "宁德时代"
+   },
+   {
+    "thscode": "300760.SZ",
+    "ticker": "300760",
+    "name": "迈瑞医疗"
+   },
+   {
+    "thscode": "000408.SZ",
+    "ticker": "000408",
+    "name": "藏格矿业"
+   },
+   {
+    "thscode": "300661.SZ",
+    "ticker": "300661",
+    "name": "圣邦股份"
+   },
+   {
+    "thscode": "600362.SH",
+    "ticker": "600362",
+    "name": "江西铜业"
+   },
+   {
+    "thscode": "600309.SH",
+    "ticker": "600309",
+    "name": "万华化学"
+   },
+   {
+    "thscode": "600276.SH",
+    "ticker": "600276",
+    "name": "恒瑞医药"
+   },
+   {
+    "thscode": "600346.SH",
+    "ticker": "600346",
+    "name": "恒力石化"
+   },
+   {
+    "thscode": "600233.SH",
+    "ticker": "600233",
+    "name": "圆通速递"
+   },
+   {
+    "thscode": "000617.SZ",
+    "ticker": "000617",
+    "name": "中油资本"
+   },
+   {
+    "thscode": "600000.SH",
+    "ticker": "600000",
+    "name": "浦发银行"
+   },
+   {
+    "thscode": "000425.SZ",
+    "ticker": "000425",
+    "name": "徐工机械"
+   },
+   {
+    "thscode": "300896.SZ",
+    "ticker": "300896",
+    "name": "爱美客"
+   },
+   {
+    "thscode": "300999.SZ",
+    "ticker": "300999",
+    "name": "金龙鱼"
+   },
+   {
+    "thscode": "000625.SZ",
+    "ticker": "000625",
+    "name": "长安汽车"
+   },
+   {
+    "thscode": "600547.SH",
+    "ticker": "600547",
+    "name": "山东黄金"
+   },
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "name": "贵州茅台"
+   },
+   {
+    "thscode": "600406.SH",
+    "ticker": "600406",
+    "name": "国电南瑞"
+   },
+   {
+    "thscode": "600436.SH",
+    "ticker": "600436",
+    "name": "片仔癀"
+   },
+   {
+    "thscode": "600438.SH",
+    "ticker": "600438",
+    "name": "通威股份"
+   },
+   {
+    "thscode": "600016.SH",
+    "ticker": "600016",
+    "name": "民生银行"
+   },
+   {
+    "thscode": "600010.SH",
+    "ticker": "600010",
+    "name": "包钢股份"
+   },
+   {
+    "thscode": "600019.SH",
+    "ticker": "600019",
+    "name": "宝钢股份"
+   },
+   {
+    "thscode": "600015.SH",
+    "ticker": "600015",
+    "name": "华夏银行"
+   },
+   {
+    "thscode": "600009.SH",
+    "ticker": "600009",
+    "name": "上海机场"
+   },
+   {
+    "thscode": "000538.SZ",
+    "ticker": "000538",
+    "name": "云南白药"
+   },
+   {
+    "thscode": "600018.SH",
+    "ticker": "600018",
+    "name": "上港集团"
+   },
+   {
+    "thscode": "600011.SH",
+    "ticker": "600011",
+    "name": "华能国际"
+   },
+   {
+    "thscode": "600025.SH",
+    "ticker": "600025",
+    "name": "华能水电"
+   },
+   {
+    "thscode": "600023.SH",
+    "ticker": "600023",
+    "name": "浙能电力"
+   },
+   {
+    "thscode": "600795.SH",
+    "ticker": "600795",
+    "name": "国电电力"
+   },
+   {
+    "thscode": "600741.SH",
+    "ticker": "600741",
+    "name": "华域汽车"
+   },
+   {
+    "thscode": "600886.SH",
+    "ticker": "600886",
+    "name": "国投电力"
+   },
+   {
+    "thscode": "600809.SH",
+    "ticker": "600809",
+    "name": "山西汾酒"
+   },
+   {
+    "thscode": "600760.SH",
+    "ticker": "600760",
+    "name": "中航沈飞"
+   },
+   {
+    "thscode": "600050.SH",
+    "ticker": "600050",
+    "name": "中国联通"
+   },
+   {
+    "thscode": "600036.SH",
+    "ticker": "600036",
+    "name": "招商银行"
+   },
+   {
+    "thscode": "600031.SH",
+    "ticker": "600031",
+    "name": "三一重工"
+   },
+   {
+    "thscode": "600030.SH",
+    "ticker": "600030",
+    "name": "中信证券"
+   },
+   {
+    "thscode": "600028.SH",
+    "ticker": "600028",
+    "name": "XD中国石"
+   },
+   {
+    "thscode": "000568.SZ",
+    "ticker": "000568",
+    "name": "泸州老窖"
+   },
+   {
+    "thscode": "600048.SH",
+    "ticker": "600048",
+    "name": "保利发展"
+   },
+   {
+    "thscode": "600029.SH",
+    "ticker": "600029",
+    "name": "南方航空"
+   },
+   {
+    "thscode": "600061.SH",
+    "ticker": "600061",
+    "name": "国投资本"
+   },
+   {
+    "thscode": "600039.SH",
+    "ticker": "600039",
+    "name": "四川路桥"
+   },
+   {
+    "thscode": "000651.SZ",
+    "ticker": "000651",
+    "name": "格力电器"
+   },
+   {
+    "thscode": "600690.SH",
+    "ticker": "600690",
+    "name": "海尔智家"
+   },
+   {
+    "thscode": "600660.SH",
+    "ticker": "600660",
+    "name": "福耀玻璃"
+   },
+   {
+    "thscode": "600585.SH",
+    "ticker": "600585",
+    "name": "XD海螺水"
+   },
+   {
+    "thscode": "600588.SH",
+    "ticker": "600588",
+    "name": "用友网络"
+   },
+   {
+    "thscode": "600570.SH",
+    "ticker": "600570",
+    "name": "恒生电子"
+   },
+   {
+    "thscode": "688183.SH",
+    "ticker": "688183",
+    "name": "生益电子"
+   },
+   {
+    "thscode": "688072.SH",
+    "ticker": "688072",
+    "name": "拓荆科技"
+   },
+   {
+    "thscode": "601727.SH",
+    "ticker": "601727",
+    "name": "上海电气"
+   },
+   {
+    "thscode": "600549.SH",
+    "ticker": "600549",
+    "name": "厦门钨业"
+   },
+   {
+    "thscode": "600221.SH",
+    "ticker": "600221",
+    "name": "海航控股"
+   },
+   {
+    "thscode": "600118.SH",
+    "ticker": "600118",
+    "name": "中国卫星"
+   },
+   {
+    "thscode": "301308.SZ",
+    "ticker": "301308",
+    "name": "江波龙"
+   },
+   {
+    "thscode": "301165.SZ",
+    "ticker": "301165",
+    "name": "锐捷网络"
+   },
+   {
+    "thscode": "300450.SZ",
+    "ticker": "300450",
+    "name": "先导智能"
+   },
+   {
+    "thscode": "002837.SZ",
+    "ticker": "002837",
+    "name": "英维克"
+   },
+   {
+    "thscode": "002602.SZ",
+    "ticker": "002602",
+    "name": "世纪华通"
+   },
+   {
+    "thscode": "002558.SZ",
+    "ticker": "002558",
+    "name": "巨人网络"
+   },
+   {
+    "thscode": "002532.SZ",
+    "ticker": "002532",
+    "name": "天山铝业"
+   },
+   {
+    "thscode": "002353.SZ",
+    "ticker": "002353",
+    "name": "杰瑞股份"
+   },
+   {
+    "thscode": "002202.SZ",
+    "ticker": "002202",
+    "name": "金风科技"
+   },
+   {
+    "thscode": "001280.SZ",
+    "ticker": "001280",
+    "name": "中国铀业"
+   },
+   {
+    "thscode": "000988.SZ",
+    "ticker": "000988",
+    "name": "华工科技"
+   },
+   {
+    "thscode": "000657.SZ",
+    "ticker": "000657",
+    "name": "中钨高新"
+   },
+   {
+    "thscode": "603893.SH",
+    "ticker": "603893",
+    "name": "瑞芯微"
+   },
+   {
+    "thscode": "601456.SH",
+    "ticker": "601456",
+    "name": "国联民生"
+   }
+  ]
+ }
+}

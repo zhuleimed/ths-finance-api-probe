@@ -1,0 +1,25 @@
+{
+ "path": "/api/a-share-index/prices/snapshot",
+ "params": {
+  "thscodes": "000300.SH"
+ },
+ "data": {
+  "timestamp": 1791247959000,
+  "total": 1,
+  "item": [
+   {
+    "thscode": "000300.SH",
+    "ticker": "1B0300",
+    "volume": 16294963000,
+    "turnover": 356491550000,
+    "last_price": 4357.62,
+    "price_change": 12.41,
+    "price_change_ratio_pct": 0.285602,
+    "open_price": 4356.8,
+    "high_price": 4368.61,
+    "low_price": 4341.88,
+    "prev_price": 4345.21
+   }
+  ]
+ }
+}

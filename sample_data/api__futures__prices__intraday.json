@@ -1,0 +1,2090 @@
+{
+ "path": "/api/futures/prices/intraday",
+ "params": {
+  "thscode": "A2611.DCE"
+ },
+ "data": {
+  "timestamp": 1791248094677,
+  "thscode": "A2611.DCE",
+  "date": "2026-09-30",
+  "session": "intraday",
+  "item": [
+   {
+    "timestamp": 1790686800000,
+    "price": 5200,
+    "volume": 580,
+    "turnover": 30160000
+   },
+   {
+    "timestamp": 1790686860000,
+    "price": 5199,
+    "volume": 8034,
+    "turnover": 418042070
+   },
+   {
+    "timestamp": 1790686920000,
+    "price": 5205,
+    "volume": 10717,
+    "turnover": 557568490
+   },
+   {
+    "timestamp": 1790686980000,
+    "price": 5211,
+    "volume": 13927,
+    "turnover": 724760030
+   },
+   {
+    "timestamp": 1790687040000,
+    "price": 5207,
+    "volume": 16279,
+    "turnover": 847287400
+   },
+   {
+    "timestamp": 1790687100000,
+    "price": 5207,
+    "volume": 18111,
+    "turnover": 942740660
+   },
+   {
+    "timestamp": 1790687160000,
+    "price": 5200,
+    "volume": 21221,
+    "turnover": 1104535860
+   },
+   {
+    "timestamp": 1790687220000,
+    "price": 5203,
+    "volume": 23175,
+    "turnover": 1206180510
+   },
+   {
+    "timestamp": 1790687280000,
+    "price": 5203,
+    "volume": 24695,
+    "turnover": 1285310710
+   },
+   {
+    "timestamp": 1790687340000,
+    "price": 5206,
+    "volume": 25577,
+    "turnover": 1331206410
+   },
+   {
+    "timestamp": 1790687400000,
+    "price": 5202,
+    "volume": 26861,
+    "turnover": 1398007000
+   },
+   {
+    "timestamp": 1790687460000,
+    "price": 5206,
+    "volume": 27899,
+    "turnover": 1452032400
+   },
+   {
+    "timestamp": 1790687520000,
+    "price": 5204,
+    "volume": 28861,
+    "turnover": 1502098700
+   },
+   {
+    "timestamp": 1790687580000,
+    "price": 5198,
+    "volume": 31557,
+    "turnover": 1642302200
+   },
+   {
+    "timestamp": 1790687640000,
+    "price": 5199,
+    "volume": 33403,
+    "turnover": 1738266300
+   },
+   {
+    "timestamp": 1790687700000,
+    "price": 5197,
+    "volume": 34587,
+    "turnover": 1799837400
+   },
+   {
+    "timestamp": 1790687760000,
+    "price": 5202,
+    "volume": 35428,
+    "turnover": 1843564300
+   },
+   {
+    "timestamp": 1790687820000,
+    "price": 5205,
+    "volume": 36530,
+    "turnover": 1900898900
+   },
+   {
+    "timestamp": 1790687880000,
+    "price": 5204,
+    "volume": 37266,
+    "turnover": 1939201100
+   },
+   {
+    "timestamp": 1790687940000,
+    "price": 5206,
+    "volume": 38004,
+    "turnover": 1977609800
+   },
+   {
+    "timestamp": 1790688000000,
+    "price": 5207,
+    "volume": 38929,
+    "turnover": 2025760800
+   },
+   {
+    "timestamp": 1790688060000,
+    "price": 5210,
+    "volume": 39991,
+    "turnover": 2081072800
+   },
+   {
+    "timestamp": 1790688120000,
+    "price": 5210,
+    "volume": 40693,
+    "turnover": 2117634800
+   },
+   {
+    "timestamp": 1790688180000,
+    "price": 5210,
+    "volume": 41446,
+    "turnover": 2156869200
+   },
+   {
+    "timestamp": 1790688240000,
+    "price": 5210,
+    "volume": 42172,
+    "turnover": 2194686200
+   },
+   {
+    "timestamp": 1790688300000,
+    "price": 5205,
+    "volume": 43295,
+    "turnover": 2253193800
+   },
+   {
+    "timestamp": 1790688360000,
+    "price": 5208,
+    "volume": 43631,
+    "turnover": 2270687200
+   },
+   {
+    "timestamp": 1790688420000,
+    "price": 5213,
+    "volume": 44234,
+    "turnover": 2302106700
+   },
+   {
+    "timestamp": 1790688480000,
+    "price": 5211,
+    "volume": 44987,
+    "turnover": 2341352900
+   },
+   {
+    "timestamp": 1790688540000,
+    "price": 5210,
+    "volume": 45396,
+    "turnover": 2362662500
+   },
+   {
+    "timestamp": 1790688600000,
+    "price": 5207,
+    "volume": 45986,
+    "turnover": 2393396200
+   },
+   {
+    "timestamp": 1790688660000,
+    "price": 5203,
+    "volume": 46703,
+    "turnover": 2430724700
+   },
+   {
+    "timestamp": 1790688720000,
+    "price": 5204,
+    "volume": 47290,
+    "turnover": 2461268400
+   },
+   {
+    "timestamp": 1790688780000,
+    "price": 5202,
+    "volume": 47853,
+    "turnover": 2490554900
+   },
+   {
+    "timestamp": 1790688840000,
+    "price": 5209,
+    "volume": 48466,
+    "turnover": 2522469100
+   },
+   {
+    "timestamp": 1790688900000,
+    "price": 5212,
+    "volume": 49184,
+    "turnover": 2559877800
+   },
+   {
+    "timestamp": 1790688960000,
+    "price": 5211,
+    "volume": 49659,
+    "turnover": 2584634900
+   },
+   {
+    "timestamp": 1790689020000,
+    "price": 5210,
+    "volume": 50019,
+    "turnover": 2603393900
+   },
+   {
+    "timestamp": 1790689080000,
+    "price": 5211,
+    "volume": 50292,
+    "turnover": 2617620500
+   },
+   {
+    "timestamp": 1790689140000,
+    "price": 5211,
+    "volume": 50947,
+    "turnover": 2651739100
+   },
+   {
+    "timestamp": 1790689200000,
+    "price": 5210,
+    "volume": 51230,
+    "turnover": 2666482300
+   },
+   {
+    "timestamp": 1790689260000,
+    "price": 5211,
+    "volume": 51888,
+    "turnover": 2700766900
+   },
+   {
+    "timestamp": 1790689320000,
+    "price": 5212,
+    "volume": 52276,
+    "turnover": 2720983300
+   },
+   {
+    "timestamp": 1790689380000,
+    "price": 5212,
+    "volume": 52977,
+    "turnover": 2757525800
+   },
+   {
+    "timestamp": 1790689440000,
+    "price": 5214,
+    "volume": 53340,
+    "turnover": 2776450200
+   },
+   {
+    "timestamp": 1790689500000,
+    "price": 5214,
+    "volume": 53682,
+    "turnover": 2794280500
+   },
+   {
+    "timestamp": 1790689560000,
+    "price": 5213,
+    "volume": 55194,
+    "turnover": 2873128500
+   },
+   {
+    "timestamp": 1790689620000,
+    "price": 5215,
+    "volume": 55638,
+    "turnover": 2896273400
+   },
+   {
+    "timestamp": 1790689680000,
+    "price": 5213,
+    "volume": 55980,
+    "turnover": 2914106100
+   },
+   {
+    "timestamp": 1790689740000,
+    "price": 5213,
+    "volume": 56101,
+    "turnover": 2920414000
+   },
+   {
+    "timestamp": 1790689800000,
+    "price": 5214,
+    "volume": 56680,
+    "turnover": 2950602800
+   },
+   {
+    "timestamp": 1790689860000,
+    "price": 5216,
+    "volume": 57194,
+    "turnover": 2977407000
+   },
+   {
+    "timestamp": 1790689920000,
+    "price": 5214,
+    "volume": 57561,
+    "turnover": 2996545200
+   },
+   {
+    "timestamp": 1790689980000,
+    "price": 5213,
+    "volume": 57913,
+    "turnover": 3014894600
+   },
+   {
+    "timestamp": 1790690040000,
+    "price": 5212,
+    "volume": 58249,
+    "turnover": 3032414400
+   },
+   {
+    "timestamp": 1790690100000,
+    "price": 5212,
+    "volume": 58821,
+    "turnover": 3062228700
+   },
+   {
+    "timestamp": 1790690160000,
+    "price": 5213,
+    "volume": 59076,
+    "turnover": 3075517200
+   },
+   {
+    "timestamp": 1790690220000,
+    "price": 5211,
+    "volume": 59447,
+    "turnover": 3094850000
+   },
+   {
+    "timestamp": 1790690280000,
+    "price": 5210,
+    "volume": 59676,
+    "turnover": 3106780800
+   },
+   {
+    "timestamp": 1790690340000,
+    "price": 5211,
+    "volume": 59831,
+    "turnover": 3114858000
+   },
+   {
+    "timestamp": 1790690400000,
+    "price": 5216,
+    "volume": 60349,
+    "turnover": 3141864100
+   },
+   {
+    "timestamp": 1790690460000,
+    "price": 5217,
+    "volume": 61324,
+    "turnover": 3192722400
+   },
+   {
+    "timestamp": 1790690520000,
+    "price": 5217,
+    "volume": 61501,
+    "turnover": 3201955800
+   },
+   {
+    "timestamp": 1790690580000,
+    "price": 5218,
+    "volume": 61916,
+    "turnover": 3223604700
+   },
+   {
+    "timestamp": 1790690640000,
+    "price": 5214,
+    "volume": 62242,
+    "turnover": 3240609200
+   },
+   {
+    "timestamp": 1790690700000,
+    "price": 5211,
+    "volume": 63006,
+    "turnover": 3280429500
+   },
+   {
+    "timestamp": 1790690760000,
+    "price": 5214,
+    "volume": 63318,
+    "turnover": 3296689500
+   },
+   {
+    "timestamp": 1790690820000,
+    "price": 5218,
+    "volume": 63756,
+    "turnover": 3319538700
+   },
+   {
+    "timestamp": 1790690880000,
+    "price": 5218,
+    "volume": 64201,
+    "turnover": 3342757800
+   },
+   {
+    "timestamp": 1790690940000,
+    "price": 5219,
+    "volume": 65592,
+    "turnover": 3415367700
+   },
+   {
+    "timestamp": 1790691000000,
+    "price": 5219,
+    "volume": 65894,
+    "turnover": 3431127800
+   },
+   {
+    "timestamp": 1790691060000,
+    "price": 5217,
+    "volume": 66307,
+    "turnover": 3452678300
+   },
+   {
+    "timestamp": 1790691120000,
+    "price": 5218,
+    "volume": 66834,
+    "turnover": 3480166200
+   },
+   {
+    "timestamp": 1790691180000,
+    "price": 5217,
+    "volume": 66992,
+    "turnover": 3488409600
+   },
+   {
+    "timestamp": 1790691240000,
+    "price": 5216,
+    "volume": 67168,
+    "turnover": 3497589700
+   },
+   {
+    "timestamp": 1790691300000,
+    "price": 5217,
+    "volume": 67396,
+    "turnover": 3509481900
+   },
+   {
+    "timestamp": 1790691360000,
+    "price": 5218,
+    "volume": 67653,
+    "turnover": 3522891600
+   },
+   {
+    "timestamp": 1790691420000,
+    "price": 5221,
+    "volume": 69168,
+    "turnover": 3601999200
+   },
+   {
+    "timestamp": 1790691480000,
+    "price": 5220,
+    "volume": 69530,
+    "turnover": 3620900200
+   },
+   {
+    "timestamp": 1790691540000,
+    "price": 5222,
+    "volume": 69964,
+    "turnover": 3643564500
+   },
+   {
+    "timestamp": 1790691600000,
+    "price": 5223,
+    "volume": 70334,
+    "turnover": 3662885500
+   },
+   {
+    "timestamp": 1790691660000,
+    "price": 5218,
+    "volume": 70989,
+    "turnover": 3697069400
+   },
+   {
+    "timestamp": 1790691720000,
+    "price": 5217,
+    "volume": 71270,
+    "turnover": 3711731400
+   },
+   {
+    "timestamp": 1790691780000,
+    "price": 5218,
+    "volume": 71473,
+    "turnover": 3722324200
+   },
+   {
+    "timestamp": 1790691840000,
+    "price": 5219,
+    "volume": 71530,
+    "turnover": 3725298900
+   },
+   {
+    "timestamp": 1790691900000,
+    "price": 5219,
+    "volume": 71808,
+    "turnover": 3739810300
+   },
+   {
+    "timestamp": 1790691960000,
+    "price": 5218,
+    "volume": 71992,
+    "turnover": 3749410600
+   },
+   {
+    "timestamp": 1790692020000,
+    "price": 5218,
+    "volume": 72128,
+    "turnover": 3756507200
+   },
+   {
+    "timestamp": 1790692080000,
+    "price": 5218,
+    "volume": 72393,
+    "turnover": 3770334100
+   },
+   {
+    "timestamp": 1790692140000,
+    "price": 5217,
+    "volume": 72516,
+    "turnover": 3776752200
+   },
+   {
+    "timestamp": 1790692200000,
+    "price": 5216,
+    "volume": 72933,
+    "turnover": 3798505000
+   },
+   {
+    "timestamp": 1790692260000,
+    "price": 5219,
+    "volume": 73408,
+    "turnover": 3823288300
+   },
+   {
+    "timestamp": 1790692320000,
+    "price": 5219,
+    "volume": 73606,
+    "turnover": 3833621800
+   },
+   {
+    "timestamp": 1790692380000,
+    "price": 5212,
+    "volume": 74215,
+    "turnover": 3865381600
+   },
+   {
+    "timestamp": 1790692440000,
+    "price": 5212,
+    "volume": 74553,
+    "turnover": 3883000300
+   },
+   {
+    "timestamp": 1790692500000,
+    "price": 5215,
+    "volume": 74797,
+    "turnover": 3895721800
+   },
+   {
+    "timestamp": 1790692560000,
+    "price": 5217,
+    "volume": 75049,
+    "turnover": 3908867300
+   },
+   {
+    "timestamp": 1790692620000,
+    "price": 5217,
+    "volume": 75320,
+    "turnover": 3923008000
+   },
+   {
+    "timestamp": 1790692680000,
+    "price": 5218,
+    "volume": 75745,
+    "turnover": 3945178600
+   },
+   {
+    "timestamp": 1790692740000,
+    "price": 5219,
+    "volume": 75998,
+    "turnover": 3958381800
+   },
+   {
+    "timestamp": 1790692800000,
+    "price": 5220,
+    "volume": 76542,
+    "turnover": 3986781100
+   },
+   {
+    "timestamp": 1790692860000,
+    "price": 5219,
+    "volume": 76991,
+    "turnover": 4010218200
+   },
+   {
+    "timestamp": 1790692920000,
+    "price": 5220,
+    "volume": 77120,
+    "turnover": 4016951900
+   },
+   {
+    "timestamp": 1790692980000,
+    "price": 5221,
+    "volume": 77432,
+    "turnover": 4033243800
+   },
+   {
+    "timestamp": 1790693040000,
+    "price": 5221,
+    "volume": 77740,
+    "turnover": 4049325900
+   },
+   {
+    "timestamp": 1790693100000,
+    "price": 5221,
+    "volume": 77803,
+    "turnover": 4052614900
+   },
+   {
+    "timestamp": 1790693160000,
+    "price": 5222,
+    "volume": 78089,
+    "turnover": 4067549700
+   },
+   {
+    "timestamp": 1790693220000,
+    "price": 5222,
+    "volume": 78285,
+    "turnover": 4077784200
+   },
+   {
+    "timestamp": 1790693280000,
+    "price": 5221,
+    "volume": 78443,
+    "turnover": 4086035100
+   },
+   {
+    "timestamp": 1790693340000,
+    "price": 5221,
+    "volume": 78858,
+    "turnover": 4107707000
+   },
+   {
+    "timestamp": 1790693400000,
+    "price": 5221,
+    "volume": 79114,
+    "turnover": 4121074500
+   },
+   {
+    "timestamp": 1790693460000,
+    "price": 5223,
+    "volume": 79435,
+    "turnover": 4137834600
+   },
+   {
+    "timestamp": 1790693520000,
+    "price": 5221,
+    "volume": 79582,
+    "turnover": 4145510900
+   },
+   {
+    "timestamp": 1790693580000,
+    "price": 5222,
+    "volume": 79694,
+    "turnover": 4151359700
+   },
+   {
+    "timestamp": 1790693640000,
+    "price": 5222,
+    "volume": 79744,
+    "turnover": 4153970900
+   },
+   {
+    "timestamp": 1790693700000,
+    "price": 5224,
+    "volume": 80291,
+    "turnover": 4182540800
+   },
+   {
+    "timestamp": 1790693760000,
+    "price": 5222,
+    "volume": 80845,
+    "turnover": 4211466100
+   },
+   {
+    "timestamp": 1790693820000,
+    "price": 5221,
+    "volume": 81140,
+    "turnover": 4226872800
+   },
+   {
+    "timestamp": 1790693880000,
+    "price": 5221,
+    "volume": 81387,
+    "turnover": 4239770600
+   },
+   {
+    "timestamp": 1790693940000,
+    "price": 5221,
+    "volume": 82053,
+    "turnover": 4274543800
+   },
+   {
+    "timestamp": 1790694000000,
+    "price": 5221,
+    "volume": 82782,
+    "turnover": 4312612700
+   },
+   {
+    "timestamp": 1790730060000,
+    "price": 5217,
+    "volume": 85175,
+    "turnover": 4437434500
+   },
+   {
+    "timestamp": 1790730120000,
+    "price": 5219,
+    "volume": 85897,
+    "turnover": 4475115000
+   },
+   {
+    "timestamp": 1790730180000,
+    "price": 5225,
+    "volume": 86851,
+    "turnover": 4524954100
+   },
+   {
+    "timestamp": 1790730240000,
+    "price": 5230,
+    "volume": 88081,
+    "turnover": 4589255800
+   },
+   {
+    "timestamp": 1790730300000,
+    "price": 5229,
+    "volume": 88874,
+    "turnover": 4630717300
+   },
+   {
+    "timestamp": 1790730360000,
+    "price": 5229,
+    "volume": 90708,
+    "turnover": 4726576800
+   },
+   {
+    "timestamp": 1790730420000,
+    "price": 5232,
+    "volume": 91670,
+    "turnover": 4776892900
+   },
+   {
+    "timestamp": 1790730480000,
+    "price": 5234,
+    "volume": 93114,
+    "turnover": 4852460200
+   },
+   {
+    "timestamp": 1790730540000,
+    "price": 5235,
+    "volume": 94071,
+    "turnover": 4902549700
+   },
+   {
+    "timestamp": 1790730600000,
+    "price": 5236,
+    "volume": 95222,
+    "turnover": 4962802300
+   },
+   {
+    "timestamp": 1790730660000,
+    "price": 5235,
+    "volume": 96725,
+    "turnover": 5041516000
+   },
+   {
+    "timestamp": 1790730720000,
+    "price": 5233,
+    "volume": 97888,
+    "turnover": 5102350700
+   },
+   {
+    "timestamp": 1790730780000,
+    "price": 5231,
+    "volume": 98525,
+    "turnover": 5135673600
+   },
+   {
+    "timestamp": 1790730840000,
+    "price": 5227,
+    "volume": 99197,
+    "turnover": 5170801900
+   },
+   {
+    "timestamp": 1790730900000,
+    "price": 5230,
+    "volume": 99632,
+    "turnover": 5193555200
+   },
+   {
+    "timestamp": 1790730960000,
+    "price": 5230,
+    "volume": 100359,
+    "turnover": 5231566200
+   },
+   {
+    "timestamp": 1790731020000,
+    "price": 5234,
+    "volume": 100739,
+    "turnover": 5251445600
+   },
+   {
+    "timestamp": 1790731080000,
+    "price": 5234,
+    "volume": 101141,
+    "turnover": 5272485200
+   },
+   {
+    "timestamp": 1790731140000,
+    "price": 5233,
+    "volume": 101607,
+    "turnover": 5296873300
+   },
+   {
+    "timestamp": 1790731200000,
+    "price": 5232,
+    "volume": 101882,
+    "turnover": 5311266100
+   },
+   {
+    "timestamp": 1790731260000,
+    "price": 5230,
+    "volume": 102341,
+    "turnover": 5335278500
+   },
+   {
+    "timestamp": 1790731320000,
+    "price": 5230,
+    "volume": 102967,
+    "turnover": 5368003300
+   },
+   {
+    "timestamp": 1790731380000,
+    "price": 5230,
+    "volume": 103263,
+    "turnover": 5383480700
+   },
+   {
+    "timestamp": 1790731440000,
+    "price": 5228,
+    "volume": 103668,
+    "turnover": 5404663100
+   },
+   {
+    "timestamp": 1790731500000,
+    "price": 5223,
+    "volume": 104275,
+    "turnover": 5436390700
+   },
+   {
+    "timestamp": 1790731560000,
+    "price": 5224,
+    "volume": 105171,
+    "turnover": 5483195400
+   },
+   {
+    "timestamp": 1790731620000,
+    "price": 5231,
+    "volume": 106086,
+    "turnover": 5531036200
+   },
+   {
+    "timestamp": 1790731680000,
+    "price": 5231,
+    "volume": 106447,
+    "turnover": 5549918800
+   },
+   {
+    "timestamp": 1790731740000,
+    "price": 5230,
+    "volume": 106987,
+    "turnover": 5578165500
+   },
+   {
+    "timestamp": 1790731800000,
+    "price": 5230,
+    "volume": 107312,
+    "turnover": 5595165300
+   },
+   {
+    "timestamp": 1790731860000,
+    "price": 5231,
+    "volume": 107787,
+    "turnover": 5620000300
+   },
+   {
+    "timestamp": 1790731920000,
+    "price": 5234,
+    "volume": 108491,
+    "turnover": 5656840900
+   },
+   {
+    "timestamp": 1790731980000,
+    "price": 5232,
+    "volume": 108855,
+    "turnover": 5675890200
+   },
+   {
+    "timestamp": 1790732040000,
+    "price": 5233,
+    "volume": 109238,
+    "turnover": 5695932400
+   },
+   {
+    "timestamp": 1790732100000,
+    "price": 5233,
+    "volume": 109477,
+    "turnover": 5708438900
+   },
+   {
+    "timestamp": 1790732160000,
+    "price": 5235,
+    "volume": 110131,
+    "turnover": 5742678100
+   },
+   {
+    "timestamp": 1790732220000,
+    "price": 5230,
+    "volume": 110570,
+    "turnover": 5765645600
+   },
+   {
+    "timestamp": 1790732280000,
+    "price": 5235,
+    "volume": 110916,
+    "turnover": 5783753000
+   },
+   {
+    "timestamp": 1790732340000,
+    "price": 5240,
+    "volume": 111643,
+    "turnover": 5821828200
+   },
+   {
+    "timestamp": 1790732400000,
+    "price": 5242,
+    "volume": 112541,
+    "turnover": 5868882700
+   },
+   {
+    "timestamp": 1790732460000,
+    "price": 5240,
+    "volume": 113151,
+    "turnover": 5900857100
+   },
+   {
+    "timestamp": 1790732520000,
+    "price": 5240,
+    "volume": 113615,
+    "turnover": 5925171400
+   },
+   {
+    "timestamp": 1790732580000,
+    "price": 5238,
+    "volume": 114067,
+    "turnover": 5948856200
+   },
+   {
+    "timestamp": 1790732640000,
+    "price": 5239,
+    "volume": 114661,
+    "turnover": 5979971500
+   },
+   {
+    "timestamp": 1790732700000,
+    "price": 5239,
+    "volume": 114903,
+    "turnover": 5992650100
+   },
+   {
+    "timestamp": 1790732760000,
+    "price": 5246,
+    "volume": 116289,
+    "turnover": 6065329600
+   },
+   {
+    "timestamp": 1790732820000,
+    "price": 5246,
+    "volume": 116986,
+    "turnover": 6101887500
+   },
+   {
+    "timestamp": 1790732880000,
+    "price": 5247,
+    "volume": 117697,
+    "turnover": 6139192200
+   },
+   {
+    "timestamp": 1790732940000,
+    "price": 5248,
+    "volume": 118402,
+    "turnover": 6176195900
+   },
+   {
+    "timestamp": 1790733000000,
+    "price": 5249,
+    "volume": 119442,
+    "turnover": 6230752000
+   },
+   {
+    "timestamp": 1790733060000,
+    "price": 5247,
+    "volume": 119715,
+    "turnover": 6245077700
+   },
+   {
+    "timestamp": 1790733120000,
+    "price": 5250,
+    "volume": 120633,
+    "turnover": 6293266300
+   },
+   {
+    "timestamp": 1790733180000,
+    "price": 5249,
+    "volume": 121222,
+    "turnover": 6324184000
+   },
+   {
+    "timestamp": 1790733240000,
+    "price": 5250,
+    "volume": 121572,
+    "turnover": 6342558300
+   },
+   {
+    "timestamp": 1790733300000,
+    "price": 5252,
+    "volume": 122067,
+    "turnover": 6368543800
+   },
+   {
+    "timestamp": 1790733360000,
+    "price": 5252,
+    "volume": 122742,
+    "turnover": 6403996600
+   },
+   {
+    "timestamp": 1790733420000,
+    "price": 5258,
+    "volume": 124423,
+    "turnover": 6492358400
+   },
+   {
+    "timestamp": 1790733480000,
+    "price": 5256,
+    "volume": 126122,
+    "turnover": 6581698100
+   },
+   {
+    "timestamp": 1790733540000,
+    "price": 5256,
+    "volume": 126508,
+    "turnover": 6601984200
+   },
+   {
+    "timestamp": 1790733600000,
+    "price": 5259,
+    "volume": 127348,
+    "turnover": 6646137000
+   },
+   {
+    "timestamp": 1790733660000,
+    "price": 5261,
+    "volume": 128223,
+    "turnover": 6692161900
+   },
+   {
+    "timestamp": 1790733720000,
+    "price": 5262,
+    "volume": 129023,
+    "turnover": 6734237900
+   },
+   {
+    "timestamp": 1790733780000,
+    "price": 5267,
+    "volume": 130825,
+    "turnover": 6829095400
+   },
+   {
+    "timestamp": 1790733840000,
+    "price": 5266,
+    "volume": 131695,
+    "turnover": 6874903600
+   },
+   {
+    "timestamp": 1790733900000,
+    "price": 5264,
+    "volume": 132959,
+    "turnover": 6941440200
+   },
+   {
+    "timestamp": 1790733960000,
+    "price": 5262,
+    "volume": 133628,
+    "turnover": 6976652100
+   },
+   {
+    "timestamp": 1790734020000,
+    "price": 5264,
+    "volume": 134057,
+    "turnover": 6999232900
+   },
+   {
+    "timestamp": 1790734080000,
+    "price": 5262,
+    "volume": 134479,
+    "turnover": 7021445700
+   },
+   {
+    "timestamp": 1790734140000,
+    "price": 5265,
+    "volume": 134946,
+    "turnover": 7046030400
+   },
+   {
+    "timestamp": 1790734200000,
+    "price": 5266,
+    "volume": 135579,
+    "turnover": 7079369200
+   },
+   {
+    "timestamp": 1790734260000,
+    "price": 5261,
+    "volume": 136638,
+    "turnover": 7135122100
+   },
+   {
+    "timestamp": 1790734320000,
+    "price": 5267,
+    "volume": 137107,
+    "turnover": 7159812200
+   },
+   {
+    "timestamp": 1790734380000,
+    "price": 5263,
+    "volume": 137726,
+    "turnover": 7192390800
+   },
+   {
+    "timestamp": 1790734440000,
+    "price": 5267,
+    "volume": 138849,
+    "turnover": 7251530300
+   },
+   {
+    "timestamp": 1790734500000,
+    "price": 5258,
+    "volume": 139738,
+    "turnover": 7298320100
+   },
+   {
+    "timestamp": 1790735460000,
+    "price": 5261,
+    "volume": 140898,
+    "turnover": 7359315200
+   },
+   {
+    "timestamp": 1790735520000,
+    "price": 5265,
+    "volume": 141979,
+    "turnover": 7416203500
+   },
+   {
+    "timestamp": 1790735580000,
+    "price": 5261,
+    "volume": 142363,
+    "turnover": 7436409300
+   },
+   {
+    "timestamp": 1790735640000,
+    "price": 5260,
+    "volume": 142822,
+    "turnover": 7460554600
+   },
+   {
+    "timestamp": 1790735700000,
+    "price": 5260,
+    "volume": 143083,
+    "turnover": 7474283900
+   },
+   {
+    "timestamp": 1790735760000,
+    "price": 5261,
+    "volume": 143548,
+    "turnover": 7498743700
+   },
+   {
+    "timestamp": 1790735820000,
+    "price": 5262,
+    "volume": 143949,
+    "turnover": 7519848400
+   },
+   {
+    "timestamp": 1790735880000,
+    "price": 5259,
+    "volume": 144389,
+    "turnover": 7542998300
+   },
+   {
+    "timestamp": 1790735940000,
+    "price": 5256,
+    "volume": 145034,
+    "turnover": 7576910100
+   },
+   {
+    "timestamp": 1790736000000,
+    "price": 5256,
+    "volume": 145635,
+    "turnover": 7608499700
+   },
+   {
+    "timestamp": 1790736060000,
+    "price": 5259,
+    "volume": 146361,
+    "turnover": 7646659400
+   },
+   {
+    "timestamp": 1790736120000,
+    "price": 5260,
+    "volume": 146583,
+    "turnover": 7658336200
+   },
+   {
+    "timestamp": 1790736180000,
+    "price": 5260,
+    "volume": 147001,
+    "turnover": 7680328100
+   },
+   {
+    "timestamp": 1790736240000,
+    "price": 5260,
+    "volume": 147206,
+    "turnover": 7691109800
+   },
+   {
+    "timestamp": 1790736300000,
+    "price": 5258,
+    "volume": 147729,
+    "turnover": 7718616200
+   },
+   {
+    "timestamp": 1790736360000,
+    "price": 5260,
+    "volume": 148196,
+    "turnover": 7743171700
+   },
+   {
+    "timestamp": 1790736420000,
+    "price": 5262,
+    "volume": 148462,
+    "turnover": 7757164700
+   },
+   {
+    "timestamp": 1790736480000,
+    "price": 5263,
+    "volume": 148691,
+    "turnover": 7769216400
+   },
+   {
+    "timestamp": 1790736540000,
+    "price": 5264,
+    "volume": 148892,
+    "turnover": 7779795300
+   },
+   {
+    "timestamp": 1790736600000,
+    "price": 5264,
+    "volume": 149217,
+    "turnover": 7796900500
+   },
+   {
+    "timestamp": 1790736660000,
+    "price": 5269,
+    "volume": 150337,
+    "turnover": 7855889200
+   },
+   {
+    "timestamp": 1790736720000,
+    "price": 5268,
+    "volume": 150687,
+    "turnover": 7874328600
+   },
+   {
+    "timestamp": 1790736780000,
+    "price": 5269,
+    "volume": 150914,
+    "turnover": 7886287600
+   },
+   {
+    "timestamp": 1790736840000,
+    "price": 5268,
+    "volume": 151136,
+    "turnover": 7897983000
+   },
+   {
+    "timestamp": 1790736900000,
+    "price": 5273,
+    "volume": 152132,
+    "turnover": 7950477000
+   },
+   {
+    "timestamp": 1790736960000,
+    "price": 5272,
+    "volume": 152643,
+    "turnover": 7977415400
+   },
+   {
+    "timestamp": 1790737020000,
+    "price": 5271,
+    "volume": 153143,
+    "turnover": 8003778400
+   },
+   {
+    "timestamp": 1790737080000,
+    "price": 5268,
+    "volume": 153753,
+    "turnover": 8035919200
+   },
+   {
+    "timestamp": 1790737140000,
+    "price": 5268,
+    "volume": 154001,
+    "turnover": 8048984500
+   },
+   {
+    "timestamp": 1790737200000,
+    "price": 5267,
+    "volume": 154207,
+    "turnover": 8059836700
+   },
+   {
+    "timestamp": 1790737260000,
+    "price": 5270,
+    "volume": 154563,
+    "turnover": 8078591700
+   },
+   {
+    "timestamp": 1790737320000,
+    "price": 5270,
+    "volume": 155430,
+    "turnover": 8124298300
+   },
+   {
+    "timestamp": 1790737380000,
+    "price": 5271,
+    "volume": 155710,
+    "turnover": 8139056400
+   },
+   {
+    "timestamp": 1790737440000,
+    "price": 5270,
+    "volume": 155941,
+    "turnover": 8151230000
+   },
+   {
+    "timestamp": 1790737500000,
+    "price": 5272,
+    "volume": 156224,
+    "turnover": 8166147100
+   },
+   {
+    "timestamp": 1790737560000,
+    "price": 5272,
+    "volume": 156689,
+    "turnover": 8190663800
+   },
+   {
+    "timestamp": 1790737620000,
+    "price": 5276,
+    "volume": 157347,
+    "turnover": 8225370500
+   },
+   {
+    "timestamp": 1790737680000,
+    "price": 5276,
+    "volume": 158393,
+    "turnover": 8280569400
+   },
+   {
+    "timestamp": 1790737740000,
+    "price": 5272,
+    "volume": 159012,
+    "turnover": 8313220200
+   },
+   {
+    "timestamp": 1790737800000,
+    "price": 5272,
+    "volume": 159304,
+    "turnover": 8328614900
+   },
+   {
+    "timestamp": 1790737860000,
+    "price": 5271,
+    "volume": 159728,
+    "turnover": 8350966000
+   },
+   {
+    "timestamp": 1790737920000,
+    "price": 5262,
+    "volume": 160799,
+    "turnover": 8407372900
+   },
+   {
+    "timestamp": 1790737980000,
+    "price": 5262,
+    "volume": 162203,
+    "turnover": 8481240600
+   },
+   {
+    "timestamp": 1790738040000,
+    "price": 5260,
+    "volume": 162675,
+    "turnover": 8506070700
+   },
+   {
+    "timestamp": 1790738100000,
+    "price": 5262,
+    "volume": 163197,
+    "turnover": 8533529400
+   },
+   {
+    "timestamp": 1790738160000,
+    "price": 5260,
+    "volume": 163634,
+    "turnover": 8556517700
+   },
+   {
+    "timestamp": 1790738220000,
+    "price": 5261,
+    "volume": 164025,
+    "turnover": 8577091400
+   },
+   {
+    "timestamp": 1790738280000,
+    "price": 5259,
+    "volume": 164430,
+    "turnover": 8598392400
+   },
+   {
+    "timestamp": 1790738340000,
+    "price": 5259,
+    "volume": 164785,
+    "turnover": 8617060700
+   },
+   {
+    "timestamp": 1790738400000,
+    "price": 5263,
+    "volume": 165135,
+    "turnover": 8635479700
+   },
+   {
+    "timestamp": 1790738460000,
+    "price": 5265,
+    "volume": 165774,
+    "turnover": 8669125400
+   },
+   {
+    "timestamp": 1790738520000,
+    "price": 5261,
+    "volume": 166265,
+    "turnover": 8694967400
+   },
+   {
+    "timestamp": 1790738580000,
+    "price": 5262,
+    "volume": 166474,
+    "turnover": 8705964300
+   },
+   {
+    "timestamp": 1790738640000,
+    "price": 5261,
+    "volume": 166684,
+    "turnover": 8717012200
+   },
+   {
+    "timestamp": 1790738700000,
+    "price": 5260,
+    "volume": 167323,
+    "turnover": 8750627000
+   },
+   {
+    "timestamp": 1790738760000,
+    "price": 5259,
+    "volume": 167584,
+    "turnover": 8764357300
+   },
+   {
+    "timestamp": 1790738820000,
+    "price": 5260,
+    "volume": 169011,
+    "turnover": 8839407900
+   },
+   {
+    "timestamp": 1790738880000,
+    "price": 5260,
+    "volume": 169571,
+    "turnover": 8868864200
+   },
+   {
+    "timestamp": 1790738940000,
+    "price": 5262,
+    "volume": 169908,
+    "turnover": 8886594600
+   },
+   {
+    "timestamp": 1790739000000,
+    "price": 5269,
+    "volume": 170342,
+    "turnover": 8909448300
+   },
+   {
+    "timestamp": 1790746260000,
+    "price": 5269,
+    "volume": 171303,
+    "turnover": 8960088400
+   },
+   {
+    "timestamp": 1790746320000,
+    "price": 5268,
+    "volume": 172048,
+    "turnover": 8999338900
+   },
+   {
+    "timestamp": 1790746380000,
+    "price": 5270,
+    "volume": 172483,
+    "turnover": 9022261100
+   },
+   {
+    "timestamp": 1790746440000,
+    "price": 5274,
+    "volume": 173299,
+    "turnover": 9065282400
+   },
+   {
+    "timestamp": 1790746500000,
+    "price": 5272,
+    "volume": 173713,
+    "turnover": 9087109700
+   },
+   {
+    "timestamp": 1790746560000,
+    "price": 5271,
+    "volume": 174629,
+    "turnover": 9135385300
+   },
+   {
+    "timestamp": 1790746620000,
+    "price": 5267,
+    "volume": 175118,
+    "turnover": 9161147100
+   },
+   {
+    "timestamp": 1790746680000,
+    "price": 5267,
+    "volume": 175734,
+    "turnover": 9193586500
+   },
+   {
+    "timestamp": 1790746740000,
+    "price": 5267,
+    "volume": 176322,
+    "turnover": 9224553700
+   },
+   {
+    "timestamp": 1790746800000,
+    "price": 5266,
+    "volume": 176649,
+    "turnover": 9241778200
+   },
+   {
+    "timestamp": 1790746860000,
+    "price": 5264,
+    "volume": 176999,
+    "turnover": 9260207200
+   },
+   {
+    "timestamp": 1790746920000,
+    "price": 5267,
+    "volume": 177391,
+    "turnover": 9280851900
+   },
+   {
+    "timestamp": 1790746980000,
+    "price": 5263,
+    "volume": 178090,
+    "turnover": 9317651800
+   },
+   {
+    "timestamp": 1790747040000,
+    "price": 5260,
+    "volume": 178958,
+    "turnover": 9363326700
+   },
+   {
+    "timestamp": 1790747100000,
+    "price": 5265,
+    "volume": 179594,
+    "turnover": 9396795500
+   },
+   {
+    "timestamp": 1790747160000,
+    "price": 5263,
+    "volume": 180006,
+    "turnover": 9418487400
+   },
+   {
+    "timestamp": 1790747220000,
+    "price": 5263,
+    "volume": 180242,
+    "turnover": 9430909200
+   },
+   {
+    "timestamp": 1790747280000,
+    "price": 5261,
+    "volume": 181305,
+    "turnover": 9486851600
+   },
+   {
+    "timestamp": 1790747340000,
+    "price": 5261,
+    "volume": 181792,
+    "turnover": 9512468800
+   },
+   {
+    "timestamp": 1790747400000,
+    "price": 5259,
+    "volume": 182347,
+    "turnover": 9541661100
+   },
+   {
+    "timestamp": 1790747460000,
+    "price": 5260,
+    "volume": 183266,
+    "turnover": 9589995200
+   },
+   {
+    "timestamp": 1790747520000,
+    "price": 5263,
+    "volume": 183955,
+    "turnover": 9626246700
+   },
+   {
+    "timestamp": 1790747580000,
+    "price": 5265,
+    "volume": 184453,
+    "turnover": 9652463800
+   },
+   {
+    "timestamp": 1790747640000,
+    "price": 5261,
+    "volume": 184998,
+    "turnover": 9681147800
+   },
+   {
+    "timestamp": 1790747700000,
+    "price": 5260,
+    "volume": 185573,
+    "turnover": 9711397200
+   },
+   {
+    "timestamp": 1790747760000,
+    "price": 5260,
+    "volume": 186072,
+    "turnover": 9737642200
+   },
+   {
+    "timestamp": 1790747820000,
+    "price": 5263,
+    "volume": 186499,
+    "turnover": 9760112700
+   },
+   {
+    "timestamp": 1790747880000,
+    "price": 5261,
+    "volume": 186688,
+    "turnover": 9770056900
+   },
+   {
+    "timestamp": 1790747940000,
+    "price": 5261,
+    "volume": 187019,
+    "turnover": 9787472900
+   },
+   {
+    "timestamp": 1790748000000,
+    "price": 5262,
+    "volume": 187144,
+    "turnover": 9794050100
+   },
+   {
+    "timestamp": 1790748060000,
+    "price": 5263,
+    "volume": 187454,
+    "turnover": 9810363700
+   },
+   {
+    "timestamp": 1790748120000,
+    "price": 5261,
+    "volume": 188075,
+    "turnover": 9843044700
+   },
+   {
+    "timestamp": 1790748180000,
+    "price": 5256,
+    "volume": 188783,
+    "turnover": 9880275000
+   },
+   {
+    "timestamp": 1790748240000,
+    "price": 5250,
+    "volume": 191484,
+    "turnover": 10022091500
+   },
+   {
+    "timestamp": 1790748300000,
+    "price": 5245,
+    "volume": 192552,
+    "turnover": 10078140600
+   },
+   {
+    "timestamp": 1790748360000,
+    "price": 5247,
+    "volume": 194864,
+    "turnover": 10199382100
+   },
+   {
+    "timestamp": 1790748420000,
+    "price": 5251,
+    "volume": 195961,
+    "turnover": 10256976600
+   },
+   {
+    "timestamp": 1790748480000,
+    "price": 5252,
+    "volume": 196532,
+    "turnover": 10286966000
+   },
+   {
+    "timestamp": 1790748540000,
+    "price": 5254,
+    "volume": 197080,
+    "turnover": 10315747900
+   },
+   {
+    "timestamp": 1790748600000,
+    "price": 5258,
+    "volume": 197564,
+    "turnover": 10341194200
+   },
+   {
+    "timestamp": 1790748660000,
+    "price": 5258,
+    "volume": 198142,
+    "turnover": 10371583800
+   },
+   {
+    "timestamp": 1790748720000,
+    "price": 5249,
+    "volume": 198859,
+    "turnover": 10409253600
+   },
+   {
+    "timestamp": 1790748780000,
+    "price": 5255,
+    "volume": 199699,
+    "turnover": 10453378300
+   },
+   {
+    "timestamp": 1790748840000,
+    "price": 5253,
+    "volume": 200107,
+    "turnover": 10474816900
+   },
+   {
+    "timestamp": 1790748900000,
+    "price": 5258,
+    "volume": 200424,
+    "turnover": 10491480600
+   },
+   {
+    "timestamp": 1790748960000,
+    "price": 5258,
+    "volume": 200845,
+    "turnover": 10513613500
+   },
+   {
+    "timestamp": 1790749020000,
+    "price": 5256,
+    "volume": 201137,
+    "turnover": 10528967400
+   },
+   {
+    "timestamp": 1790749080000,
+    "price": 5257,
+    "volume": 201524,
+    "turnover": 10549309500
+   },
+   {
+    "timestamp": 1790749140000,
+    "price": 5259,
+    "volume": 201787,
+    "turnover": 10563139700
+   },
+   {
+    "timestamp": 1790749200000,
+    "price": 5259,
+    "volume": 201986,
+    "turnover": 10573605100
+   },
+   {
+    "timestamp": 1790749260000,
+    "price": 5259,
+    "volume": 202209,
+    "turnover": 10585333000
+   },
+   {
+    "timestamp": 1790749320000,
+    "price": 5259,
+    "volume": 202393,
+    "turnover": 10595008700
+   },
+   {
+    "timestamp": 1790749380000,
+    "price": 5261,
+    "volume": 202902,
+    "turnover": 10621785600
+   },
+   {
+    "timestamp": 1790749440000,
+    "price": 5263,
+    "volume": 203256,
+    "turnover": 10640410800
+   },
+   {
+    "timestamp": 1790749500000,
+    "price": 5265,
+    "volume": 204377,
+    "turnover": 10699432500
+   },
+   {
+    "timestamp": 1790749560000,
+    "price": 5264,
+    "volume": 204822,
+    "turnover": 10722861700
+   },
+   {
+    "timestamp": 1790749620000,
+    "price": 5263,
+    "volume": 205150,
+    "turnover": 10740125600
+   },
+   {
+    "timestamp": 1790749680000,
+    "price": 5263,
+    "volume": 205420,
+    "turnover": 10754336100
+   },
+   {
+    "timestamp": 1790749740000,
+    "price": 5264,
+    "volume": 205609,
+    "turnover": 10764286000
+   },
+   {
+    "timestamp": 1790749800000,
+    "price": 5264,
+    "volume": 205907,
+    "turnover": 10779969800
+   },
+   {
+    "timestamp": 1790749860000,
+    "price": 5262,
+    "volume": 206206,
+    "turnover": 10795704900
+   },
+   {
+    "timestamp": 1790749920000,
+    "price": 5264,
+    "volume": 207117,
+    "turnover": 10843635700
+   },
+   {
+    "timestamp": 1790749980000,
+    "price": 5258,
+    "volume": 208122,
+    "turnover": 10896507300
+   },
+   {
+    "timestamp": 1790750040000,
+    "price": 5260,
+    "volume": 208557,
+    "turnover": 10919385700
+   },
+   {
+    "timestamp": 1790750100000,
+    "price": 5258,
+    "volume": 208950,
+    "turnover": 10940052400
+   },
+   {
+    "timestamp": 1790750160000,
+    "price": 5258,
+    "volume": 209418,
+    "turnover": 10964653100
+   },
+   {
+    "timestamp": 1790750220000,
+    "price": 5254,
+    "volume": 209976,
+    "turnover": 10993979400
+   },
+   {
+    "timestamp": 1790750280000,
+    "price": 5253,
+    "volume": 210332,
+    "turnover": 11012683700
+   },
+   {
+    "timestamp": 1790750340000,
+    "price": 5251,
+    "volume": 210745,
+    "turnover": 11034373400
+   },
+   {
+    "timestamp": 1790750400000,
+    "price": 5252,
+    "volume": 211527,
+    "turnover": 11075431800
+   },
+   {
+    "timestamp": 1790750460000,
+    "price": 5250,
+    "volume": 212079,
+    "turnover": 11104414100
+   },
+   {
+    "timestamp": 1790750520000,
+    "price": 5253,
+    "volume": 212749,
+    "turnover": 11139602300
+   },
+   {
+    "timestamp": 1790750580000,
+    "price": 5252,
+    "volume": 213198,
+    "turnover": 11163183200
+   },
+   {
+    "timestamp": 1790750640000,
+    "price": 5247,
+    "volume": 214958,
+    "turnover": 11255573000
+   },
+   {
+    "timestamp": 1790750700000,
+    "price": 5247,
+    "volume": 216101,
+    "turnover": 11315538700
+   },
+   {
+    "timestamp": 1790750760000,
+    "price": 5242,
+    "volume": 217121,
+    "turnover": 11369020300
+   },
+   {
+    "timestamp": 1790750820000,
+    "price": 5242,
+    "volume": 219364,
+    "turnover": 11486556800
+   },
+   {
+    "timestamp": 1790750880000,
+    "price": 5243,
+    "volume": 220305,
+    "turnover": 11535878500
+   },
+   {
+    "timestamp": 1790750940000,
+    "price": 5243,
+    "volume": 221401,
+    "turnover": 11593315400
+   },
+   {
+    "timestamp": 1790751000000,
+    "price": 5242,
+    "volume": 222246,
+    "turnover": 11637623700
+   },
+   {
+    "timestamp": 1790751060000,
+    "price": 5241,
+    "volume": 223343,
+    "turnover": 11695125200
+   },
+   {
+    "timestamp": 1790751120000,
+    "price": 5241,
+    "volume": 224263,
+    "turnover": 11743338200
+   },
+   {
+    "timestamp": 1790751180000,
+    "price": 5240,
+    "volume": 224970,
+    "turnover": 11780400500
+   },
+   {
+    "timestamp": 1790751240000,
+    "price": 5242,
+    "volume": 225719,
+    "turnover": 11819665200
+   },
+   {
+    "timestamp": 1790751300000,
+    "price": 5241,
+    "volume": 226395,
+    "turnover": 11855091300
+   },
+   {
+    "timestamp": 1790751360000,
+    "price": 5242,
+    "volume": 226906,
+    "turnover": 11881876200
+   },
+   {
+    "timestamp": 1790751420000,
+    "price": 5247,
+    "volume": 229045,
+    "turnover": 11994084200
+   },
+   {
+    "timestamp": 1790751480000,
+    "price": 5248,
+    "volume": 229651,
+    "turnover": 12025879100
+   },
+   {
+    "timestamp": 1790751540000,
+    "price": 5251,
+    "volume": 230813,
+    "turnover": 12086887700
+   },
+   {
+    "timestamp": 1790751600000,
+    "price": 5253,
+    "volume": 232426,
+    "turnover": 12171610800
+   }
+  ]
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "path": "/api/a-share/corporate-actions/adjustment-factors",
+ "params": {
+  "thscode": "600519.SH"
+ },
+ "data": {
+  "thscode": "600519.SH",
+  "ticker": "600519",
+  "item": [
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1782403200000,
+    "dividend_per_share": 28.02423,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1766073600000,
+    "dividend_per_share": 23.957,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1750867200000,
+    "dividend_per_share": 27.673,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1734624000000,
+    "dividend_per_share": 23.882,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1718726400000,
+    "dividend_per_share": 30.876,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1703001600000,
+    "dividend_per_share": 19.106,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1688054400000,
+    "dividend_per_share": 25.911,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1672070400000,
+    "dividend_per_share": 21.91,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1656518400000,
+    "dividend_per_share": 21.675,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1624550400000,
+    "dividend_per_share": 19.293,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1592928000000,
+    "dividend_per_share": 17.025,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1561651200000,
+    "dividend_per_share": 14.539,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1528992000000,
+    "dividend_per_share": 10.999,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1499356800000,
+    "dividend_per_share": 6.787,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1467302400000,
+    "dividend_per_share": 6.171,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1437062400000,
+    "dividend_per_share": 4.374,
+    "per_share_bonus": 0.1
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1403625600000,
+    "dividend_per_share": 4.374,
+    "per_share_bonus": 0.1
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1370534400000,
+    "dividend_per_share": 6.419,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1341417600000,
+    "dividend_per_share": 3.997,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1309449600000,
+    "dividend_per_share": 2.3,
+    "per_share_bonus": 0.1
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1278259200000,
+    "dividend_per_share": 1.185,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1246377600000,
+    "dividend_per_share": 1.156,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1213545600000,
+    "dividend_per_share": 0.836,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1184256000000,
+    "dividend_per_share": 0.7,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1148486400000,
+    "dividend_per_share": 4.132,
+    "per_share_bonus": 1.24
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1147968000000,
+    "dividend_per_share": 0.3,
+    "per_share_bonus": 0
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1123171200000,
+    "dividend_per_share": 0.5,
+    "per_share_bonus": 0.2
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1088611200000,
+    "dividend_per_share": 0.3,
+    "per_share_bonus": 0.3
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1058112000000,
+    "dividend_per_share": 0.2,
+    "per_share_bonus": 0.1
+   },
+   {
+    "ticker": "600519",
+    "ex_date_ms": 1027526400000,
+    "dividend_per_share": 0.6,
+    "per_share_bonus": 0.1
+   }
+  ]
+ }
+}

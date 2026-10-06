@@ -1,0 +1,3316 @@
+{
+ "path": "/api/options/varieties/list",
+ "params": {},
+ "data": {
+  "timestamp": 1791247984555,
+  "item": [
+   {
+    "variety_code": "RBO",
+    "name": "螺纹钢期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "CUO",
+    "name": "沪铜期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 2.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 5.0,
+    "exercise_fee": 5.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "BRO",
+    "name": "合成橡胶期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "AUO",
+    "name": "沪金期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 1000,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/克",
+    "trade_unit": "克/手",
+    "tick_size": 0.02,
+    "contract_multiplier": 1000.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "023000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "ALO",
+    "name": "沪铝期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "AGO",
+    "name": "沪银期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 15,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/千克",
+    "trade_unit": "千克/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 15.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "023000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "ZNO",
+    "name": "沪锌期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "SCO",
+    "name": "原油期权",
+    "exchange_code": "INE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 1000,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/桶",
+    "trade_unit": "桶/手",
+    "tick_size": 0.05,
+    "contract_multiplier": 1000.0,
+    "transaction_fee": 10.0,
+    "exercise_fee": 10.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "023000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "RUO",
+    "name": "橡胶期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "CO",
+    "name": "玉米期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.6,
+    "exercise_fee": 0.6,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "EBO",
+    "name": "苯乙烯期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "EGO",
+    "name": "乙二醇期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "LO",
+    "name": "塑料期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "IO",
+    "name": "铁矿石期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 100,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.1,
+    "contract_multiplier": 100.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "YO",
+    "name": "豆油期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "VO",
+    "name": "PVC期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "PPO",
+    "name": "聚丙烯期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "PGO",
+    "name": "LPG期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 20,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.2,
+    "contract_multiplier": 20.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "PO",
+    "name": "棕榈油期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "MO",
+    "name": "豆粕期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "AO",
+    "name": "豆一期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "BO",
+    "name": "豆二期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.2,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "SIO",
+    "name": "工业硅期权",
+    "exchange_code": "GFEX",
+    "exchange_name": "广州期货交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "LCO",
+    "name": "碳酸锂期权",
+    "exchange_code": "GFEX",
+    "exchange_name": "广州期货交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 1,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 10.0,
+    "contract_multiplier": 1.0,
+    "transaction_fee": 3.0,
+    "exercise_fee": 3.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "URO",
+    "name": "尿素期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 20,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 20.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "TAO",
+    "name": "PTA期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "SRO",
+    "name": "白糖期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "SMO",
+    "name": "锰硅期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "SHO",
+    "name": "烧碱期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 30,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 30.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "SFO",
+    "name": "硅铁期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "SAO",
+    "name": "纯碱期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 20,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 20.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "RMO",
+    "name": "菜粕期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.8,
+    "exercise_fee": 0.8,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "PXO",
+    "name": "对二甲苯期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "PKO",
+    "name": "花生期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.8,
+    "exercise_fee": 0.8,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "PFO",
+    "name": "短纤期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "OIO",
+    "name": "菜油期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "MAO",
+    "name": "甲醇期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "CFO",
+    "name": "棉花期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "APO",
+    "name": "苹果期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "ZCO",
+    "name": "动力煤期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 100,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.1,
+    "contract_multiplier": 100.0,
+    "transaction_fee": 150.0,
+    "exercise_fee": 150.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "HO",
+    "name": "上证50期权",
+    "exchange_code": "CFFEX",
+    "exchange_name": "中国金融期货交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 100,
+    "price_coefficient": null,
+    "price_unit": "指数点",
+    "trade_unit": null,
+    "tick_size": 0.2,
+    "contract_multiplier": 100,
+    "transaction_fee": 15.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "cash",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "IO",
+    "name": "沪深300期权",
+    "exchange_code": "CFFEX",
+    "exchange_name": "中国金融期货交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 100,
+    "price_coefficient": null,
+    "price_unit": "指数点",
+    "trade_unit": null,
+    "tick_size": 0.2,
+    "contract_multiplier": 100,
+    "transaction_fee": 15.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "cash",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "MO",
+    "name": "中证1000期权",
+    "exchange_code": "CFFEX",
+    "exchange_name": "中国金融期货交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 100,
+    "price_coefficient": null,
+    "price_unit": "指数点",
+    "trade_unit": null,
+    "tick_size": 0.2,
+    "contract_multiplier": 100,
+    "transaction_fee": 15.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "cash",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "CJO",
+    "name": "红枣期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "FGO",
+    "name": "玻璃期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 20,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 20.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "CSO",
+    "name": "玉米淀粉期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.2,
+    "exercise_fee": 0.2,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "JDO",
+    "name": "鸡蛋期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 2.0,
+    "price_unit": "元（人民币）/500千克",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "LHO",
+    "name": "生猪期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 16,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 2.5,
+    "contract_multiplier": 16.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "PBO",
+    "name": "沪铅期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "NIO",
+    "name": "沪镍期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 1,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 2.0,
+    "contract_multiplier": 1.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "SNO",
+    "name": "沪锡期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 1,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 2.0,
+    "contract_multiplier": 1.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "AOO",
+    "name": "氧化铝期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 20,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 20.0,
+    "transaction_fee": 3.5,
+    "exercise_fee": 3.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "LGO",
+    "name": "原木期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 90,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/立方米",
+    "trade_unit": "立方米/手",
+    "tick_size": 0.25,
+    "contract_multiplier": 90.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "PRO",
+    "name": "瓶片期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 15,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 15.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "PSO",
+    "name": "多晶硅期权",
+    "exchange_code": "GFEX",
+    "exchange_name": "广州期货交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 3,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 3.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "SRO",
+    "name": "白糖期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "ADO",
+    "name": "铝合金期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 5.0,
+    "exercise_fee": 5.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "BZO",
+    "name": "纯苯期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 30,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 30.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "510050O",
+    "name": "上证50ETF期权",
+    "exchange_code": "SSE",
+    "exchange_name": "上交所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10000,
+    "price_coefficient": 1,
+    "price_unit": "元/张",
+    "trade_unit": null,
+    "tick_size": 0.0001,
+    "contract_multiplier": 10000,
+    "transaction_fee": 1.3,
+    "exercise_fee": 0.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "159901O",
+    "name": "深证100ETF期权",
+    "exchange_code": "SZSE",
+    "exchange_name": "深交所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10000,
+    "price_coefficient": 1,
+    "price_unit": "元/张",
+    "trade_unit": null,
+    "tick_size": 0.0001,
+    "contract_multiplier": 10000,
+    "transaction_fee": 1.3,
+    "exercise_fee": 0.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "159915O",
+    "name": "创业板ETF期权",
+    "exchange_code": "SZSE",
+    "exchange_name": "深交所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10000,
+    "price_coefficient": 1,
+    "price_unit": "元/张",
+    "trade_unit": null,
+    "tick_size": 0.0001,
+    "contract_multiplier": 10000,
+    "transaction_fee": 1.3,
+    "exercise_fee": 0.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "159919O",
+    "name": "深300ETF期权",
+    "exchange_code": "SZSE",
+    "exchange_name": "深交所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10000,
+    "price_coefficient": 1,
+    "price_unit": "元/张",
+    "trade_unit": null,
+    "tick_size": 0.0001,
+    "contract_multiplier": 10000,
+    "transaction_fee": 1.3,
+    "exercise_fee": 0.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "510300O",
+    "name": "沪300ETF期权",
+    "exchange_code": "SSE",
+    "exchange_name": "上交所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10000,
+    "price_coefficient": 1,
+    "price_unit": "元/张",
+    "trade_unit": null,
+    "tick_size": 0.0001,
+    "contract_multiplier": 10000,
+    "transaction_fee": 1.3,
+    "exercise_fee": 0.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "510500O",
+    "name": "沪中证500ETF期权",
+    "exchange_code": "SSE",
+    "exchange_name": "上交所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10000,
+    "price_coefficient": 1,
+    "price_unit": "元/张",
+    "trade_unit": null,
+    "tick_size": 0.0001,
+    "contract_multiplier": 10000,
+    "transaction_fee": 1.3,
+    "exercise_fee": 0.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "159922O",
+    "name": "深中证500ETF期权",
+    "exchange_code": "SZSE",
+    "exchange_name": "深交所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10000,
+    "price_coefficient": 1,
+    "price_unit": "元/张",
+    "trade_unit": null,
+    "tick_size": 0.0001,
+    "contract_multiplier": 10000,
+    "transaction_fee": 1.3,
+    "exercise_fee": 0.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "588000O",
+    "name": "科创50ETF华夏期权",
+    "exchange_code": "SSE",
+    "exchange_name": "上交所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10000,
+    "price_coefficient": 1,
+    "price_unit": "元/张",
+    "trade_unit": null,
+    "tick_size": 0.0001,
+    "contract_multiplier": 10000,
+    "transaction_fee": 1.3,
+    "exercise_fee": 0.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "588080O",
+    "name": "科创50ETF易方达期权",
+    "exchange_code": "SSE",
+    "exchange_name": "上交所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 10000,
+    "price_coefficient": 1,
+    "price_unit": "元/张",
+    "trade_unit": null,
+    "tick_size": 0.0001,
+    "contract_multiplier": 10000,
+    "transaction_fee": 1.3,
+    "exercise_fee": 0.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "093000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "130000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "PLO",
+    "name": "丙烯期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 20,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 20.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "SPO",
+    "name": "纸浆期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "FUO",
+    "name": "燃油期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "BUO",
+    "name": "沥青期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "OPO",
+    "name": "双胶纸期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 40,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 40.0,
+    "transaction_fee": 5.0,
+    "exercise_fee": 5.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "PDO",
+    "name": "钯期权",
+    "exchange_code": "GFEX",
+    "exchange_name": "广州期货交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 1000,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/克",
+    "trade_unit": "克/手",
+    "tick_size": 0.05,
+    "contract_multiplier": 1000.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "PTO",
+    "name": "铂期权",
+    "exchange_code": "GFEX",
+    "exchange_name": "广州期货交易所",
+    "has_night_session": false,
+    "margin_rate": null,
+    "trade_amount": 1000,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/克",
+    "trade_unit": "克/手",
+    "tick_size": 0.05,
+    "contract_multiplier": 1000.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     }
+    ]
+   },
+   {
+    "variety_code": "CO",
+    "name": "玉米期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.6,
+    "exercise_fee": 0.6,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "MO",
+    "name": "豆粕期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "JMO",
+    "name": "焦煤期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 60,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.1,
+    "contract_multiplier": 60.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "BCO",
+    "name": "国际铜期权",
+    "exchange_code": "INE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 2.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "NRO",
+    "name": "20号胶期权",
+    "exchange_code": "INE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "AO",
+    "name": "豆一期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "YO",
+    "name": "豆油期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "CFO",
+    "name": "棉花期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "OIO",
+    "name": "菜油期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 1.5,
+    "exercise_fee": 1.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "RMO",
+    "name": "菜粕期权",
+    "exchange_code": "CZCE",
+    "exchange_name": "郑州商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.8,
+    "exercise_fee": 0.8,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "JO",
+    "name": "焦炭期权",
+    "exchange_code": "DCE",
+    "exchange_name": "大连商品交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 100,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.1,
+    "contract_multiplier": 100.0,
+    "transaction_fee": 0.5,
+    "exercise_fee": 0.5,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "LUO",
+    "name": "低硫燃油期权",
+    "exchange_code": "INE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 0.2,
+    "exercise_fee": 0.2,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "HCO",
+    "name": "热轧卷板期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 10,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 0.5,
+    "contract_multiplier": 10.0,
+    "transaction_fee": 2.0,
+    "exercise_fee": 2.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "230000",
+      "session_type": "night"
+     }
+    ]
+   },
+   {
+    "variety_code": "SSO",
+    "name": "不锈钢期权",
+    "exchange_code": "SHFE",
+    "exchange_name": "上海期货交易所",
+    "has_night_session": true,
+    "margin_rate": null,
+    "trade_amount": 5,
+    "price_coefficient": 1.0,
+    "price_unit": "元（人民币）/吨",
+    "trade_unit": "吨/手",
+    "tick_size": 1.0,
+    "contract_multiplier": 5.0,
+    "transaction_fee": 1.0,
+    "exercise_fee": 1.0,
+    "settlement_type": "physical",
+    "trade_sessions": [
+     {
+      "start_time": "090000",
+      "end_time": "101500",
+      "session_type": "day"
+     },
+     {
+      "start_time": "103000",
+      "end_time": "113000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "133000",
+      "end_time": "150000",
+      "session_type": "day"
+     },
+     {
+      "start_time": "210000",
+      "end_time": "240000",
+      "session_type": "night"
+     },
+     {
+      "start_time": "000000",
+      "end_time": "010000",
+      "session_type": "night"
+     }
+    ]
+   }
+  ]
+ }
+}

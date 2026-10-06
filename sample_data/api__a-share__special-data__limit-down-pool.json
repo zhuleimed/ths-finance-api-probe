@@ -1,0 +1,16 @@
+{
+ "path": "/api/a-share/special-data/limit-down-pool",
+ "params": {
+  "date": "20250930"
+ },
+ "data": {
+  "timestamp": 1791247954664,
+  "pagination": {
+   "total": 0,
+   "pages": 0,
+   "size": 50,
+   "page": 1
+  },
+  "item": []
+ }
+}

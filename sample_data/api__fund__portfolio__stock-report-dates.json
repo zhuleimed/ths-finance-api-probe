@@ -1,0 +1,347 @@
+{
+ "path": "/api/fund/portfolio/stock-report-dates",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1791247965629,
+  "item": [
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1774972800000,
+    "end_date_ms": 1782748800000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1767196800000,
+    "end_date_ms": 1774886400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1759248000000,
+    "end_date_ms": 1767110400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1751299200000,
+    "end_date_ms": 1759161600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1743436800000,
+    "end_date_ms": 1751212800000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1735660800000,
+    "end_date_ms": 1743350400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1727712000000,
+    "end_date_ms": 1735574400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1719763200000,
+    "end_date_ms": 1727625600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1711900800000,
+    "end_date_ms": 1719676800000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1704038400000,
+    "end_date_ms": 1711814400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1696089600000,
+    "end_date_ms": 1703952000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1688140800000,
+    "end_date_ms": 1696003200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1680278400000,
+    "end_date_ms": 1688054400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1672502400000,
+    "end_date_ms": 1680192000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1664553600000,
+    "end_date_ms": 1672416000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1656604800000,
+    "end_date_ms": 1664467200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1648742400000,
+    "end_date_ms": 1656518400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1640966400000,
+    "end_date_ms": 1648656000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1633017600000,
+    "end_date_ms": 1640880000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1625068800000,
+    "end_date_ms": 1632931200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1617206400000,
+    "end_date_ms": 1624982400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1609430400000,
+    "end_date_ms": 1617120000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1601481600000,
+    "end_date_ms": 1609344000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1593532800000,
+    "end_date_ms": 1601395200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1585670400000,
+    "end_date_ms": 1593446400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1577808000000,
+    "end_date_ms": 1585584000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1569859200000,
+    "end_date_ms": 1577721600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1561910400000,
+    "end_date_ms": 1569772800000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1554048000000,
+    "end_date_ms": 1561824000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1546272000000,
+    "end_date_ms": 1553961600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1538323200000,
+    "end_date_ms": 1546185600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1530374400000,
+    "end_date_ms": 1538236800000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1522512000000,
+    "end_date_ms": 1530288000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1514736000000,
+    "end_date_ms": 1522425600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1506787200000,
+    "end_date_ms": 1514649600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1498838400000,
+    "end_date_ms": 1506700800000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1490976000000,
+    "end_date_ms": 1498752000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1483200000000,
+    "end_date_ms": 1490889600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1475251200000,
+    "end_date_ms": 1483113600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1467302400000,
+    "end_date_ms": 1475164800000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1459440000000,
+    "end_date_ms": 1467216000000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1451577600000,
+    "end_date_ms": 1459353600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1443628800000,
+    "end_date_ms": 1451491200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1435680000000,
+    "end_date_ms": 1443542400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1427817600000,
+    "end_date_ms": 1435593600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1420041600000,
+    "end_date_ms": 1427731200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1412092800000,
+    "end_date_ms": 1419955200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1404144000000,
+    "end_date_ms": 1412006400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1396281600000,
+    "end_date_ms": 1404057600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1388505600000,
+    "end_date_ms": 1396195200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1380556800000,
+    "end_date_ms": 1388419200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1372608000000,
+    "end_date_ms": 1380470400000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1364745600000,
+    "end_date_ms": 1372521600000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1356969600000,
+    "end_date_ms": 1364659200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1349020800000,
+    "end_date_ms": 1356883200000
+   },
+   {
+    "report_type": "quarter",
+    "report_type_name": "季度",
+    "start_date_ms": 1341072000000,
+    "end_date_ms": 1348934400000
+   }
+  ]
+ }
+}

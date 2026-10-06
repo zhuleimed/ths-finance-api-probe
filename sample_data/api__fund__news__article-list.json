@@ -1,0 +1,12 @@
+{
+ "path": "/api/fund/news/article-list",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1791247972721,
+  "item": [],
+  "limit": 20,
+  "has_more": false
+ }
+}

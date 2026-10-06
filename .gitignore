@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# 大文件：Parquet dump（175MB，可重新下载）
+data/dump/*.parquet
+
+# 备份（含 1.8GB 整库副本，绝不入库）
+data/backup/
+
+# 中间产物
+data/probe_progress.json

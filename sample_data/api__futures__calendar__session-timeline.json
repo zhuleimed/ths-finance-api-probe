@@ -1,0 +1,67 @@
+{
+ "path": "/api/futures/calendar/session-timeline",
+ "params": {
+  "thscode": "A2611.DCE"
+ },
+ "data": {
+  "timestamp": 1791248096882,
+  "thscode": "A2611.DCE",
+  "trade_date": "2026-09-30",
+  "timezone": "Asia/Shanghai",
+  "trade_stages": [
+   {
+    "trade_period": "intraday",
+    "trade_ranges": [
+     {
+      "begin_time": 1790686800000,
+      "end_time": 1790694000000
+     },
+     {
+      "begin_time": 1790730000000,
+      "end_time": 1790734500000
+     },
+     {
+      "begin_time": 1790735400000,
+      "end_time": 1790739000000
+     },
+     {
+      "begin_time": 1790746200000,
+      "end_time": 1790751600000
+     }
+    ]
+   }
+  ],
+  "exchange_sessions": [
+   {
+    "trade_phase": "continuous",
+    "phase_range": [
+     {
+      "begin_time": 1790686800000,
+      "end_time": 1790694000000
+     },
+     {
+      "begin_time": 1790730000000,
+      "end_time": 1790734500000
+     },
+     {
+      "begin_time": 1790735400000,
+      "end_time": 1790739000000
+     },
+     {
+      "begin_time": 1790746200000,
+      "end_time": 1790751600000
+     }
+    ]
+   },
+   {
+    "trade_phase": "open_auction",
+    "phase_range": [
+     {
+      "begin_time": 1790686500000,
+      "end_time": 1790686740000
+     }
+    ]
+   }
+  ]
+ }
+}

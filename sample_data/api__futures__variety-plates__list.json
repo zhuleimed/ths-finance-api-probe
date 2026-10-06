@@ -1,0 +1,1173 @@
+{
+ "path": "/api/futures/variety-plates/list",
+ "params": {},
+ "data": {
+  "timestamp": 1791247976562,
+  "item": [
+   {
+    "variety_code": "TL",
+    "name": "三十年国债",
+    "plate_level": 1,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "IH",
+    "name": "上证50",
+    "plate_level": 1,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "IM",
+    "name": "中证1000",
+    "plate_level": 1,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "IC",
+    "name": "中证500",
+    "plate_level": 1,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "TS",
+    "name": "二年国债",
+    "plate_level": 1,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "TF",
+    "name": "五年国债",
+    "plate_level": 1,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "T",
+    "name": "十年国债",
+    "plate_level": 1,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "IF",
+    "name": "沪深300",
+    "plate_level": 1,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "TL",
+    "name": "三十年国债",
+    "plate_level": 2,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "IH",
+    "name": "上证50",
+    "plate_level": 2,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "IM",
+    "name": "中证1000",
+    "plate_level": 2,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "IC",
+    "name": "中证500",
+    "plate_level": 2,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "TS",
+    "name": "二年国债",
+    "plate_level": 2,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "TF",
+    "name": "五年国债",
+    "plate_level": 2,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "T",
+    "name": "十年国债",
+    "plate_level": 2,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "IF",
+    "name": "沪深300",
+    "plate_level": 2,
+    "plate_name": "金融"
+   },
+   {
+    "variety_code": "NR",
+    "name": "20号胶",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "SS",
+    "name": "不锈钢",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "LU",
+    "name": "低硫燃油",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "SC",
+    "name": "原油",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "OP",
+    "name": "双胶纸",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "BR",
+    "name": "合成橡胶",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "BC",
+    "name": "国际铜",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "RU",
+    "name": "橡胶",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "EC",
+    "name": "欧线集运",
+    "plate_level": 1,
+    "plate_name": "其他"
+   },
+   {
+    "variety_code": "AO",
+    "name": "氧化铝",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "BU",
+    "name": "沥青",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "AU",
+    "name": "沪金",
+    "plate_level": 1,
+    "plate_name": "贵金属"
+   },
+   {
+    "variety_code": "PB",
+    "name": "沪铅",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "CU",
+    "name": "沪铜",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "AL",
+    "name": "沪铝",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "AG",
+    "name": "沪银",
+    "plate_level": 1,
+    "plate_name": "贵金属"
+   },
+   {
+    "variety_code": "ZN",
+    "name": "沪锌",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "SN",
+    "name": "沪锡",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "NI",
+    "name": "沪镍",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "HC",
+    "name": "热卷",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "FU",
+    "name": "燃油",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "SP",
+    "name": "纸浆",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "WR",
+    "name": "线材",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "RB",
+    "name": "螺纹钢",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "AD",
+    "name": "铝合金",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "NR",
+    "name": "20号胶",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "SS",
+    "name": "不锈钢",
+    "plate_level": 2,
+    "plate_name": "黑色产业"
+   },
+   {
+    "variety_code": "SS",
+    "name": "不锈钢",
+    "plate_level": 2,
+    "plate_name": "钢铁"
+   },
+   {
+    "variety_code": "LU",
+    "name": "低硫燃油",
+    "plate_level": 2,
+    "plate_name": "能源"
+   },
+   {
+    "variety_code": "SC",
+    "name": "原油",
+    "plate_level": 2,
+    "plate_name": "能源"
+   },
+   {
+    "variety_code": "OP",
+    "name": "双胶纸",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "BR",
+    "name": "合成橡胶",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "BC",
+    "name": "国际铜",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "RU",
+    "name": "橡胶",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "EC",
+    "name": "欧线集运",
+    "plate_level": 2,
+    "plate_name": "航运"
+   },
+   {
+    "variety_code": "AO",
+    "name": "氧化铝",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "BU",
+    "name": "沥青",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "AU",
+    "name": "沪金",
+    "plate_level": 2,
+    "plate_name": "贵金属"
+   },
+   {
+    "variety_code": "PB",
+    "name": "沪铅",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "CU",
+    "name": "沪铜",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "AL",
+    "name": "沪铝",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "AG",
+    "name": "沪银",
+    "plate_level": 2,
+    "plate_name": "贵金属"
+   },
+   {
+    "variety_code": "ZN",
+    "name": "沪锌",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "SN",
+    "name": "沪锡",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "NI",
+    "name": "沪镍",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "HC",
+    "name": "热卷",
+    "plate_level": 2,
+    "plate_name": "钢铁"
+   },
+   {
+    "variety_code": "HC",
+    "name": "热卷",
+    "plate_level": 2,
+    "plate_name": "黑色产业"
+   },
+   {
+    "variety_code": "FU",
+    "name": "燃油",
+    "plate_level": 2,
+    "plate_name": "能源"
+   },
+   {
+    "variety_code": "SP",
+    "name": "纸浆",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "WR",
+    "name": "线材",
+    "plate_level": 2,
+    "plate_name": "钢铁"
+   },
+   {
+    "variety_code": "WR",
+    "name": "线材",
+    "plate_level": 2,
+    "plate_name": "黑色产业"
+   },
+   {
+    "variety_code": "RB",
+    "name": "螺纹钢",
+    "plate_level": 2,
+    "plate_name": "建材"
+   },
+   {
+    "variety_code": "RB",
+    "name": "螺纹钢",
+    "plate_level": 2,
+    "plate_name": "钢铁"
+   },
+   {
+    "variety_code": "RB",
+    "name": "螺纹钢",
+    "plate_level": 2,
+    "plate_name": "黑色产业"
+   },
+   {
+    "variety_code": "AD",
+    "name": "铝合金",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "PG",
+    "name": "LPG",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "V",
+    "name": "PVC",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "EG",
+    "name": "乙二醇",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "LG",
+    "name": "原木",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "L",
+    "name": "塑料",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "P",
+    "name": "棕榈油",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "J",
+    "name": "焦炭",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "JM",
+    "name": "焦煤",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "C",
+    "name": "玉米",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "CS",
+    "name": "玉米淀粉",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "LH",
+    "name": "生猪",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "RR",
+    "name": "粳米",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "FB",
+    "name": "纤维板",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "BZ",
+    "name": "纯苯",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "PP",
+    "name": "聚丙烯",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "BB",
+    "name": "胶合板",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "EB",
+    "name": "苯乙烯",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "A",
+    "name": "豆一",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "B",
+    "name": "豆二",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "Y",
+    "name": "豆油",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "M",
+    "name": "豆粕",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "I",
+    "name": "铁矿石",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "JD",
+    "name": "鸡蛋",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "PG",
+    "name": "LPG",
+    "plate_level": 2,
+    "plate_name": "能源"
+   },
+   {
+    "variety_code": "V",
+    "name": "PVC",
+    "plate_level": 2,
+    "plate_name": "建材"
+   },
+   {
+    "variety_code": "V",
+    "name": "PVC",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "EG",
+    "name": "乙二醇",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "LG",
+    "name": "原木",
+    "plate_level": 2,
+    "plate_name": "建材"
+   },
+   {
+    "variety_code": "LG",
+    "name": "原木",
+    "plate_level": 2,
+    "plate_name": "农副软商"
+   },
+   {
+    "variety_code": "L",
+    "name": "塑料",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "P",
+    "name": "棕榈油",
+    "plate_level": 2,
+    "plate_name": "油脂油料"
+   },
+   {
+    "variety_code": "J",
+    "name": "焦炭",
+    "plate_level": 2,
+    "plate_name": "黑色产业"
+   },
+   {
+    "variety_code": "J",
+    "name": "焦炭",
+    "plate_level": 2,
+    "plate_name": "煤炭"
+   },
+   {
+    "variety_code": "JM",
+    "name": "焦煤",
+    "plate_level": 2,
+    "plate_name": "煤炭"
+   },
+   {
+    "variety_code": "JM",
+    "name": "焦煤",
+    "plate_level": 2,
+    "plate_name": "黑色产业"
+   },
+   {
+    "variety_code": "C",
+    "name": "玉米",
+    "plate_level": 2,
+    "plate_name": "谷物饲料"
+   },
+   {
+    "variety_code": "CS",
+    "name": "玉米淀粉",
+    "plate_level": 2,
+    "plate_name": "农副软商"
+   },
+   {
+    "variety_code": "LH",
+    "name": "生猪",
+    "plate_level": 2,
+    "plate_name": "农副软商"
+   },
+   {
+    "variety_code": "RR",
+    "name": "粳米",
+    "plate_level": 2,
+    "plate_name": "谷物饲料"
+   },
+   {
+    "variety_code": "FB",
+    "name": "纤维板",
+    "plate_level": 2,
+    "plate_name": "建材"
+   },
+   {
+    "variety_code": "BZ",
+    "name": "纯苯",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "PP",
+    "name": "聚丙烯",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "BB",
+    "name": "胶合板",
+    "plate_level": 2,
+    "plate_name": "建材"
+   },
+   {
+    "variety_code": "EB",
+    "name": "苯乙烯",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "A",
+    "name": "豆一",
+    "plate_level": 2,
+    "plate_name": "油脂油料"
+   },
+   {
+    "variety_code": "B",
+    "name": "豆二",
+    "plate_level": 2,
+    "plate_name": "油脂油料"
+   },
+   {
+    "variety_code": "Y",
+    "name": "豆油",
+    "plate_level": 2,
+    "plate_name": "油脂油料"
+   },
+   {
+    "variety_code": "M",
+    "name": "豆粕",
+    "plate_level": 2,
+    "plate_name": "谷物饲料"
+   },
+   {
+    "variety_code": "I",
+    "name": "铁矿石",
+    "plate_level": 2,
+    "plate_name": "黑色产业"
+   },
+   {
+    "variety_code": "I",
+    "name": "铁矿石",
+    "plate_level": 2,
+    "plate_name": "钢铁"
+   },
+   {
+    "variety_code": "JD",
+    "name": "鸡蛋",
+    "plate_level": 2,
+    "plate_name": "农副软商"
+   },
+   {
+    "variety_code": "TA",
+    "name": "PTA",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "PL",
+    "name": "丙烯",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "ZC",
+    "name": "动力煤",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "PX",
+    "name": "对二甲苯",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "UR",
+    "name": "尿素",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "WH",
+    "name": "强麦",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "RI",
+    "name": "早籼稻",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "LR",
+    "name": "晚籼稻",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "PM",
+    "name": "普麦",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "CY",
+    "name": "棉纱",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "CF",
+    "name": "棉花",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "SH",
+    "name": "烧碱",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "FG",
+    "name": "玻璃",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "PR",
+    "name": "瓶片",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "MA",
+    "name": "甲醇",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "SR",
+    "name": "白糖",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "PF",
+    "name": "短纤",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "SF",
+    "name": "硅铁",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "JR",
+    "name": "粳稻",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "CJ",
+    "name": "红枣",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "SA",
+    "name": "纯碱",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "PK",
+    "name": "花生",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "AP",
+    "name": "苹果",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "OI",
+    "name": "菜油",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "RS",
+    "name": "菜籽",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "RM",
+    "name": "菜粕",
+    "plate_level": 1,
+    "plate_name": "农产品"
+   },
+   {
+    "variety_code": "SM",
+    "name": "锰硅",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "TA",
+    "name": "PTA",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "PL",
+    "name": "丙烯",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "ZC",
+    "name": "动力煤",
+    "plate_level": 2,
+    "plate_name": "能源"
+   },
+   {
+    "variety_code": "ZC",
+    "name": "动力煤",
+    "plate_level": 2,
+    "plate_name": "煤炭"
+   },
+   {
+    "variety_code": "PX",
+    "name": "对二甲苯",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "UR",
+    "name": "尿素",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "WH",
+    "name": "强麦",
+    "plate_level": 2,
+    "plate_name": "谷物饲料"
+   },
+   {
+    "variety_code": "RI",
+    "name": "早籼稻",
+    "plate_level": 2,
+    "plate_name": "谷物饲料"
+   },
+   {
+    "variety_code": "LR",
+    "name": "晚籼稻",
+    "plate_level": 2,
+    "plate_name": "谷物饲料"
+   },
+   {
+    "variety_code": "PM",
+    "name": "普麦",
+    "plate_level": 2,
+    "plate_name": "谷物饲料"
+   },
+   {
+    "variety_code": "CY",
+    "name": "棉纱",
+    "plate_level": 2,
+    "plate_name": "农副软商"
+   },
+   {
+    "variety_code": "CF",
+    "name": "棉花",
+    "plate_level": 2,
+    "plate_name": "农副软商"
+   },
+   {
+    "variety_code": "SH",
+    "name": "烧碱",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "FG",
+    "name": "玻璃",
+    "plate_level": 2,
+    "plate_name": "建材"
+   },
+   {
+    "variety_code": "FG",
+    "name": "玻璃",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "PR",
+    "name": "瓶片",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "MA",
+    "name": "甲醇",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "SR",
+    "name": "白糖",
+    "plate_level": 2,
+    "plate_name": "农副软商"
+   },
+   {
+    "variety_code": "PF",
+    "name": "短纤",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "SF",
+    "name": "硅铁",
+    "plate_level": 2,
+    "plate_name": "黑色产业"
+   },
+   {
+    "variety_code": "JR",
+    "name": "粳稻",
+    "plate_level": 2,
+    "plate_name": "谷物饲料"
+   },
+   {
+    "variety_code": "CJ",
+    "name": "红枣",
+    "plate_level": 2,
+    "plate_name": "农副软商"
+   },
+   {
+    "variety_code": "SA",
+    "name": "纯碱",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "PK",
+    "name": "花生",
+    "plate_level": 2,
+    "plate_name": "油脂油料"
+   },
+   {
+    "variety_code": "AP",
+    "name": "苹果",
+    "plate_level": 2,
+    "plate_name": "农副软商"
+   },
+   {
+    "variety_code": "OI",
+    "name": "菜油",
+    "plate_level": 2,
+    "plate_name": "油脂油料"
+   },
+   {
+    "variety_code": "RS",
+    "name": "菜籽",
+    "plate_level": 2,
+    "plate_name": "油脂油料"
+   },
+   {
+    "variety_code": "RM",
+    "name": "菜粕",
+    "plate_level": 2,
+    "plate_name": "谷物饲料"
+   },
+   {
+    "variety_code": "SM",
+    "name": "锰硅",
+    "plate_level": 2,
+    "plate_name": "黑色产业"
+   },
+   {
+    "variety_code": "VMAF",
+    "name": "PVC月均价",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "LMAF",
+    "name": "塑料月均价",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "PPMAF",
+    "name": "聚丙烯月均价",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "VMAF",
+    "name": "PVC月均价",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "LMAF",
+    "name": "塑料月均价",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "PPMAF",
+    "name": "聚丙烯月均价",
+    "plate_level": 2,
+    "plate_name": "化工"
+   },
+   {
+    "variety_code": "PS",
+    "name": "多晶硅",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "SI",
+    "name": "工业硅",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "LC",
+    "name": "碳酸锂",
+    "plate_level": 1,
+    "plate_name": "工业品"
+   },
+   {
+    "variety_code": "PD",
+    "name": "钯",
+    "plate_level": 1,
+    "plate_name": "贵金属"
+   },
+   {
+    "variety_code": "PT",
+    "name": "铂",
+    "plate_level": 1,
+    "plate_name": "贵金属"
+   },
+   {
+    "variety_code": "PS",
+    "name": "多晶硅",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "SI",
+    "name": "工业硅",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "LC",
+    "name": "碳酸锂",
+    "plate_level": 2,
+    "plate_name": "有色金属"
+   },
+   {
+    "variety_code": "PD",
+    "name": "钯",
+    "plate_level": 2,
+    "plate_name": "贵金属"
+   },
+   {
+    "variety_code": "PT",
+    "name": "铂",
+    "plate_level": 2,
+    "plate_name": "贵金属"
+   }
+  ]
+ }
+}

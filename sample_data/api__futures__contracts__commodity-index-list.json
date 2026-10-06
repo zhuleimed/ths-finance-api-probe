@@ -1,0 +1,961 @@
+{
+ "path": "/api/futures/contracts/commodity-index-list",
+ "params": {},
+ "data": {
+  "timestamp": 1791247979045,
+  "item": [
+   {
+    "thscode": "850002.TI",
+    "ticker": "850002",
+    "name": "期货通商品",
+    "list_date": "2025-08-08",
+    "end_date": null
+   },
+   {
+    "thscode": "850101.TI",
+    "ticker": "850101",
+    "name": "能源",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850102.TI",
+    "ticker": "850102",
+    "name": "化工",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850300.TI",
+    "ticker": "850300",
+    "name": "贵金属",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850202.TI",
+    "ticker": "850202",
+    "name": "谷物饲料",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850201.TI",
+    "ticker": "850201",
+    "name": "油脂油料",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850200.TI",
+    "ticker": "850200",
+    "name": "农产品",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850107.TI",
+    "ticker": "850107",
+    "name": "建材",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850106.TI",
+    "ticker": "850106",
+    "name": "钢铁",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850105.TI",
+    "ticker": "850105",
+    "name": "煤炭",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850104.TI",
+    "ticker": "850104",
+    "name": "黑色产业",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850103.TI",
+    "ticker": "850103",
+    "name": "有色金属",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850100.TI",
+    "ticker": "850100",
+    "name": "工业品",
+    "list_date": "2021-04-16",
+    "end_date": null
+   },
+   {
+    "thscode": "850001.TI",
+    "ticker": "850001",
+    "name": "同花顺商品",
+    "list_date": "2019-01-16",
+    "end_date": null
+   },
+   {
+    "thscode": "201314.CCI",
+    "ticker": "201314",
+    "name": "畜禽饲料超额收益",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201313.CCI",
+    "ticker": "201313",
+    "name": "畜禽饲料期货价格",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201306.CCI",
+    "ticker": "201306",
+    "name": "畜禽饲料远期6月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201305.CCI",
+    "ticker": "201305",
+    "name": "畜禽饲料远期5月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201304.CCI",
+    "ticker": "201304",
+    "name": "畜禽饲料远期4月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201303.CCI",
+    "ticker": "201303",
+    "name": "畜禽饲料远期3月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201302.CCI",
+    "ticker": "201302",
+    "name": "畜禽饲料远期2月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201214.CCI",
+    "ticker": "201214",
+    "name": "饲料主原料超额收益",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201206.CCI",
+    "ticker": "201206",
+    "name": "饲料主原料远期6月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201205.CCI",
+    "ticker": "201205",
+    "name": "饲料主原料远期5月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201204.CCI",
+    "ticker": "201204",
+    "name": "饲料主原料远期4月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201203.CCI",
+    "ticker": "201203",
+    "name": "饲料主原料远期3月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201113.CCI",
+    "ticker": "201113",
+    "name": "饲料养殖期货价格",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201112.CCI",
+    "ticker": "201112",
+    "name": "饲料养殖远期12月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201109.CCI",
+    "ticker": "201109",
+    "name": "饲料养殖远期9月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201108.CCI",
+    "ticker": "201108",
+    "name": "饲料养殖远期8月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201107.CCI",
+    "ticker": "201107",
+    "name": "饲料养殖远期7月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201106.CCI",
+    "ticker": "201106",
+    "name": "饲料养殖远期6月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201105.CCI",
+    "ticker": "201105",
+    "name": "饲料养殖远期5月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201102.CCI",
+    "ticker": "201102",
+    "name": "饲料养殖远期2月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201312.CCI",
+    "ticker": "201312",
+    "name": "畜禽饲料远期12月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201311.CCI",
+    "ticker": "201311",
+    "name": "畜禽饲料远期11月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201310.CCI",
+    "ticker": "201310",
+    "name": "畜禽饲料远期10月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201309.CCI",
+    "ticker": "201309",
+    "name": "畜禽饲料远期9月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201308.CCI",
+    "ticker": "201308",
+    "name": "畜禽饲料远期8月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201307.CCI",
+    "ticker": "201307",
+    "name": "畜禽饲料远期7月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201301.CCI",
+    "ticker": "201301",
+    "name": "畜禽饲料远期1月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201213.CCI",
+    "ticker": "201213",
+    "name": "饲料主原料期货价格",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201212.CCI",
+    "ticker": "201212",
+    "name": "饲料主原料远期12月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201211.CCI",
+    "ticker": "201211",
+    "name": "饲料主原料远期11月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201210.CCI",
+    "ticker": "201210",
+    "name": "饲料主原料远期10月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201209.CCI",
+    "ticker": "201209",
+    "name": "饲料主原料远期9月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201208.CCI",
+    "ticker": "201208",
+    "name": "饲料主原料远期8月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201207.CCI",
+    "ticker": "201207",
+    "name": "饲料主原料远期7月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201202.CCI",
+    "ticker": "201202",
+    "name": "饲料主原料远期2月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201201.CCI",
+    "ticker": "201201",
+    "name": "饲料主原料远期1月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201114.CCI",
+    "ticker": "201114",
+    "name": "饲料养殖超额收益",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201111.CCI",
+    "ticker": "201111",
+    "name": "饲料养殖远期11月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201110.CCI",
+    "ticker": "201110",
+    "name": "饲料养殖远期10月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201104.CCI",
+    "ticker": "201104",
+    "name": "饲料养殖远期4月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201103.CCI",
+    "ticker": "201103",
+    "name": "饲料养殖远期3月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "201101.CCI",
+    "ticker": "201101",
+    "name": "饲料养殖远期1月",
+    "list_date": "2026-09-29",
+    "end_date": null
+   },
+   {
+    "thscode": "000117.CCI",
+    "ticker": "000117",
+    "name": "中证聚酯价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000114.CCI",
+    "ticker": "000114",
+    "name": "中证油品价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000120.CCI",
+    "ticker": "000120",
+    "name": "中证黑色成材价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000112.CCI",
+    "ticker": "000112",
+    "name": "中证谷物价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000108.CCI",
+    "ticker": "000108",
+    "name": "中证畜产品价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000107.CCI",
+    "ticker": "000107",
+    "name": "中证农产品价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100117.CCI",
+    "ticker": "100117",
+    "name": "中证聚酯",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000119.CCI",
+    "ticker": "000119",
+    "name": "中证黑色原料价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000111.CCI",
+    "ticker": "000111",
+    "name": "中证油脂油料价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000110.CCI",
+    "ticker": "000110",
+    "name": "中证化工价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100104.CCI",
+    "ticker": "100104",
+    "name": "中证能化",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000102.CCI",
+    "ticker": "000102",
+    "name": "中证农畜价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100101.CCI",
+    "ticker": "100101",
+    "name": "中证工业品",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100116.CCI",
+    "ticker": "100116",
+    "name": "中证芳烃",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100115.CCI",
+    "ticker": "100115",
+    "name": "中证烯烃",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100106.CCI",
+    "ticker": "100106",
+    "name": "中证黑色",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000106.CCI",
+    "ticker": "000106",
+    "name": "中证黑色价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000103.CCI",
+    "ticker": "000103",
+    "name": "中证贵金属价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000101.CCI",
+    "ticker": "000101",
+    "name": "中证工业品价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100113.CCI",
+    "ticker": "100113",
+    "name": "中证软商品",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100110.CCI",
+    "ticker": "100110",
+    "name": "中证化工",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100108.CCI",
+    "ticker": "100108",
+    "name": "中证畜产品",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100107.CCI",
+    "ticker": "100107",
+    "name": "中证农产品",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000104.CCI",
+    "ticker": "000104",
+    "name": "中证能化价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100103.CCI",
+    "ticker": "100103",
+    "name": "中证贵金属",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100102.CCI",
+    "ticker": "100102",
+    "name": "中证农畜",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000118.CCI",
+    "ticker": "000118",
+    "name": "中证橡胶价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100114.CCI",
+    "ticker": "100114",
+    "name": "中证油品",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100119.CCI",
+    "ticker": "100119",
+    "name": "中证黑色原料",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100112.CCI",
+    "ticker": "100112",
+    "name": "中证谷物",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100111.CCI",
+    "ticker": "100111",
+    "name": "中证油脂油料",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100109.CCI",
+    "ticker": "100109",
+    "name": "中证能源",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000109.CCI",
+    "ticker": "000109",
+    "name": "中证能源价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100105.CCI",
+    "ticker": "100105",
+    "name": "中证有色",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000113.CCI",
+    "ticker": "000113",
+    "name": "中证软商品价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100118.CCI",
+    "ticker": "100118",
+    "name": "中证橡胶",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000116.CCI",
+    "ticker": "000116",
+    "name": "中证芳烃价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000115.CCI",
+    "ticker": "000115",
+    "name": "中证烯烃价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "100120.CCI",
+    "ticker": "100120",
+    "name": "中证黑色成材",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "000105.CCI",
+    "ticker": "000105",
+    "name": "中证有色价格",
+    "list_date": "2026-08-26",
+    "end_date": null
+   },
+   {
+    "thscode": "700015.CCI",
+    "ticker": "700015",
+    "name": "宁夏枢纽智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700014.CCI",
+    "ticker": "700014",
+    "name": "甘肃枢纽智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700013.CCI",
+    "ticker": "700013",
+    "name": "贵州枢纽智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700012.CCI",
+    "ticker": "700012",
+    "name": "内蒙古枢纽智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700011.CCI",
+    "ticker": "700011",
+    "name": "成渝枢纽智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700010.CCI",
+    "ticker": "700010",
+    "name": "粤港澳枢纽智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700009.CCI",
+    "ticker": "700009",
+    "name": "长三角枢纽智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700008.CCI",
+    "ticker": "700008",
+    "name": "京津冀枢纽智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700007.CCI",
+    "ticker": "700007",
+    "name": "西北智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700006.CCI",
+    "ticker": "700006",
+    "name": "西南智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700005.CCI",
+    "ticker": "700005",
+    "name": "华南智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700004.CCI",
+    "ticker": "700004",
+    "name": "华中智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700003.CCI",
+    "ticker": "700003",
+    "name": "华东智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700000.CCI",
+    "ticker": "700000",
+    "name": "全国智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700002.CCI",
+    "ticker": "700002",
+    "name": "东北智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "700001.CCI",
+    "ticker": "700001",
+    "name": "华北智能算力供算量",
+    "list_date": "2026-04-01",
+    "end_date": null
+   },
+   {
+    "thscode": "605002.CCI",
+    "ticker": "605002",
+    "name": "中证能化产业",
+    "list_date": "2025-06-30",
+    "end_date": null
+   },
+   {
+    "thscode": "605001.CCI",
+    "ticker": "605001",
+    "name": "中证能化产业价格",
+    "list_date": "2025-06-30",
+    "end_date": null
+   },
+   {
+    "thscode": "605004.CCI",
+    "ticker": "605004",
+    "name": "中证能化产成品",
+    "list_date": "2025-06-30",
+    "end_date": null
+   },
+   {
+    "thscode": "605003.CCI",
+    "ticker": "605003",
+    "name": "中证能化产成品价格",
+    "list_date": "2025-06-30",
+    "end_date": null
+   },
+   {
+    "thscode": "605005.CCI",
+    "ticker": "605005",
+    "name": "中证有机化工品价格",
+    "list_date": "2025-06-30",
+    "end_date": null
+   },
+   {
+    "thscode": "605006.CCI",
+    "ticker": "605006",
+    "name": "中证有机化工品",
+    "list_date": "2025-06-30",
+    "end_date": null
+   },
+   {
+    "thscode": "606012.CCI",
+    "ticker": "606012",
+    "name": "中证监控建材",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606011.CCI",
+    "ticker": "606011",
+    "name": "中证监控钢铁",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606010.CCI",
+    "ticker": "606010",
+    "name": "中证监控能化",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606009.CCI",
+    "ticker": "606009",
+    "name": "中证监控工业品",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606008.CCI",
+    "ticker": "606008",
+    "name": "中证监控软商品",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606007.CCI",
+    "ticker": "606007",
+    "name": "中证监控油脂",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606006.CCI",
+    "ticker": "606006",
+    "name": "中证监控粮食",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606005.CCI",
+    "ticker": "606005",
+    "name": "中证监控油脂油料",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606004.CCI",
+    "ticker": "606004",
+    "name": "中证监控饲料",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606003.CCI",
+    "ticker": "606003",
+    "name": "中证监控谷物",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606002.CCI",
+    "ticker": "606002",
+    "name": "中证监控农产品",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "606001.CCI",
+    "ticker": "606001",
+    "name": "中证监控商品",
+    "list_date": "2024-12-20",
+    "end_date": null
+   },
+   {
+    "thscode": "630101.CCI",
+    "ticker": "630101",
+    "name": "国债期指10年期",
+    "list_date": "2023-04-12",
+    "end_date": null
+   },
+   {
+    "thscode": "630102.CCI",
+    "ticker": "630102",
+    "name": "国债期指5年期",
+    "list_date": "2023-04-12",
+    "end_date": null
+   },
+   {
+    "thscode": "630103.CCI",
+    "ticker": "630103",
+    "name": "国债期指2年期",
+    "list_date": "2023-04-12",
+    "end_date": null
+   },
+   {
+    "thscode": "000001.CCI",
+    "ticker": "000001",
+    "name": "中证商品价格",
+    "list_date": "2022-12-28",
+    "end_date": null
+   },
+   {
+    "thscode": "100001.CCI",
+    "ticker": "100001",
+    "name": "中证商品",
+    "list_date": "2022-12-28",
+    "end_date": null
+   },
+   {
+    "thscode": "900001.CCI",
+    "ticker": "900001",
+    "name": "中证中金商品指数",
+    "list_date": "2023-02-10",
+    "end_date": null
+   }
+  ]
+ }
+}

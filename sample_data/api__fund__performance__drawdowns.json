@@ -1,0 +1,25 @@
+{
+ "path": "/api/fund/performance/drawdowns",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1791247964013,
+  "item": [
+   {
+    "thscode": "510300.SH",
+    "ticker": "510300",
+    "week": 0,
+    "month": 0,
+    "tmonth": 0,
+    "hyear": 0,
+    "year": 0,
+    "twoyear": 0,
+    "tyear": 0,
+    "fyear": 0,
+    "nowyear": 0,
+    "now": 0
+   }
+  ]
+ }
+}

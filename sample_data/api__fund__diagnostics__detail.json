@@ -1,0 +1,120 @@
+{
+ "path": "/api/fund/diagnostics/detail",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1791247972160,
+  "item": [
+   {
+    "thscode": "510300.SH",
+    "ticker": "510300",
+    "fund_type": "282001002",
+    "peer_code": "000300.SH",
+    "dimensions": [
+     {
+      "year": "1",
+      "performance_capability_score": "45",
+      "anti_risk_score": "90",
+      "fundamentals_score": "68",
+      "company_score": "83",
+      "manager_score": "88",
+      "integrate_score": "83"
+     },
+     {
+      "year": "3",
+      "performance_capability_score": "60",
+      "anti_risk_score": "88",
+      "fundamentals_score": "60",
+      "company_score": "84",
+      "manager_score": "92",
+      "integrate_score": "93"
+     },
+     {
+      "year": "5",
+      "performance_capability_score": "47",
+      "anti_risk_score": "83",
+      "fundamentals_score": "48",
+      "company_score": "81",
+      "manager_score": "86",
+      "integrate_score": "79"
+     },
+     {
+      "year": null,
+      "performance_capability_score": null,
+      "anti_risk_score": null,
+      "fundamentals_score": null,
+      "company_score": null,
+      "manager_score": "88",
+      "integrate_score": null
+     }
+    ],
+    "peer_dimensions": [
+     {
+      "year": "1",
+      "performance_capability_score": "50",
+      "anti_risk_score": "50",
+      "fundamentals_score": "46",
+      "company_score": "66",
+      "manager_score": "84",
+      "integrate_score": null
+     },
+     {
+      "year": "3",
+      "performance_capability_score": "50",
+      "anti_risk_score": "50",
+      "fundamentals_score": "44",
+      "company_score": "67",
+      "manager_score": "79",
+      "integrate_score": null
+     },
+     {
+      "year": "5",
+      "performance_capability_score": "50",
+      "anti_risk_score": "50",
+      "fundamentals_score": "42",
+      "company_score": "65",
+      "manager_score": "85",
+      "integrate_score": null
+     }
+    ],
+    "probabilities": null,
+    "ranges": null,
+    "resilience": [
+     {
+      "time_type": "hYear",
+      "max_down": "13.257203509664",
+      "sharpe": "-0.20674545878871"
+     },
+     {
+      "time_type": "oYear",
+      "max_down": "13.257203509664",
+      "sharpe": "-0.27757238369733"
+     },
+     {
+      "time_type": "tYear",
+      "max_down": "15.322432059773",
+      "sharpe": "0.3860107270561"
+     }
+    ],
+    "peer_resilience": [
+     {
+      "time_type": "hYear",
+      "max_down": "14.208532900503",
+      "sharpe": "-0.37142537580596"
+     },
+     {
+      "time_type": "oYear",
+      "max_down": "14.208532900503",
+      "sharpe": "-0.42027534925017"
+     },
+     {
+      "time_type": "tYear",
+      "max_down": "15.663546326796",
+      "sharpe": "0.23319184063801"
+     }
+    ]
+   }
+  ]
+ }
+}

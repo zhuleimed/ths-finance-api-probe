@@ -1,0 +1,192 @@
+{
+ "path": "/api/a-share/special-data/hot-stock-list-history",
+ "params": {
+  "date": "2026-09-30"
+ },
+ "data": {
+  "item": [
+   {
+    "thscode": "000002.SZ",
+    "ticker": "000002",
+    "name": "万科Ａ",
+    "rank": 1
+   },
+   {
+    "thscode": "001246.SZ",
+    "ticker": "001246",
+    "name": "N力勤",
+    "rank": 2
+   },
+   {
+    "thscode": "000560.SZ",
+    "ticker": "000560",
+    "name": "我爱我家",
+    "rank": 3
+   },
+   {
+    "thscode": "600418.SH",
+    "ticker": "600418",
+    "name": "江淮汽车",
+    "rank": 4
+   },
+   {
+    "thscode": "601091.SH",
+    "ticker": "601091",
+    "name": "沈鼓集团",
+    "rank": 5
+   },
+   {
+    "thscode": "600825.SH",
+    "ticker": "600825",
+    "name": "新华传媒",
+    "rank": 6
+   },
+   {
+    "thscode": "000678.SZ",
+    "ticker": "000678",
+    "name": "襄阳轴承",
+    "rank": 7
+   },
+   {
+    "thscode": "600487.SH",
+    "ticker": "600487",
+    "name": "亨通光电",
+    "rank": 8
+   },
+   {
+    "thscode": "600127.SH",
+    "ticker": "600127",
+    "name": "金健米业",
+    "rank": 9
+   },
+   {
+    "thscode": "000011.SZ",
+    "ticker": "000011",
+    "name": "深物业A",
+    "rank": 10
+   },
+   {
+    "thscode": "600664.SH",
+    "ticker": "600664",
+    "name": "哈药股份",
+    "rank": 11
+   },
+   {
+    "thscode": "002487.SZ",
+    "ticker": "002487",
+    "name": "大金重工",
+    "rank": 12
+   },
+   {
+    "thscode": "002074.SZ",
+    "ticker": "002074",
+    "name": "国轩高科",
+    "rank": 13
+   },
+   {
+    "thscode": "601811.SH",
+    "ticker": "601811",
+    "name": "新华文轩",
+    "rank": 14
+   },
+   {
+    "thscode": "000592.SZ",
+    "ticker": "000592",
+    "name": "平潭发展",
+    "rank": 15
+   },
+   {
+    "thscode": "300308.SZ",
+    "ticker": "300308",
+    "name": "中际旭创",
+    "rank": 16
+   },
+   {
+    "thscode": "002242.SZ",
+    "ticker": "002242",
+    "name": "九阳股份",
+    "rank": 17
+   },
+   {
+    "thscode": "688836.SH",
+    "ticker": "688836",
+    "name": "宇树科技-W",
+    "rank": 18
+   },
+   {
+    "thscode": "000993.SZ",
+    "ticker": "000993",
+    "name": "闽东电力",
+    "rank": 19
+   },
+   {
+    "thscode": "688137.SH",
+    "ticker": "688137",
+    "name": "近岸蛋白",
+    "rank": 20
+   },
+   {
+    "thscode": "601579.SH",
+    "ticker": "601579",
+    "name": "会稽山",
+    "rank": 21
+   },
+   {
+    "thscode": "603259.SH",
+    "ticker": "603259",
+    "name": "药明康德",
+    "rank": 22
+   },
+   {
+    "thscode": "688825.SH",
+    "ticker": "688825",
+    "name": "长鑫科技",
+    "rank": 23
+   },
+   {
+    "thscode": "600206.SH",
+    "ticker": "600206",
+    "name": "有研新材",
+    "rank": 24
+   },
+   {
+    "thscode": "600707.SH",
+    "ticker": "600707",
+    "name": "彩虹股份",
+    "rank": 25
+   },
+   {
+    "thscode": "000725.SZ",
+    "ticker": "000725",
+    "name": "京东方Ａ",
+    "rank": 26
+   },
+   {
+    "thscode": "000823.SZ",
+    "ticker": "000823",
+    "name": "超声电子",
+    "rank": 27
+   },
+   {
+    "thscode": "300207.SZ",
+    "ticker": "300207",
+    "name": "欣旺达",
+    "rank": 28
+   },
+   {
+    "thscode": "603986.SH",
+    "ticker": "603986",
+    "name": "兆易创新",
+    "rank": 29
+   },
+   {
+    "thscode": "002119.SZ",
+    "ticker": "002119",
+    "name": "康强电子",
+    "rank": 30
+   }
+  ],
+  "date": "2026-09-30",
+  "date_ms": 1790697600000
+ }
+}

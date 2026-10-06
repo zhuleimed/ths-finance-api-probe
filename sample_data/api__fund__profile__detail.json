@@ -1,0 +1,44 @@
+{
+ "path": "/api/fund/profile/detail",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "timestamp": 1791244821215,
+  "item": [
+   {
+    "thscode": "510300.SH",
+    "ticker": "510300",
+    "fund_name": "沪深300ETF华泰柏瑞",
+    "estab_date": 1336060800000,
+    "company_id": "00089990",
+    "mgmt_name": "华泰柏瑞基金管理有限公司",
+    "manager_name": "柳军",
+    "fund_scale": 106878717016.24,
+    "unit_nav": 4.4312,
+    "manager_info": [
+     {
+      "manager_id": "H000200384",
+      "manager_name": "柳军",
+      "tenure_return_pct": 106.77,
+      "tenure_days": 5268,
+      "start_date_ms": 1336060800000
+     }
+    ],
+    "trade_rule": [],
+    "rate_info": [
+     {
+      "rate_type": "management",
+      "charge_mode": "ongoing",
+      "standard_rate": "0.15%"
+     },
+     {
+      "rate_type": "custody",
+      "charge_mode": "ongoing",
+      "standard_rate": "0.05%"
+     }
+    ]
+   }
+  ]
+ }
+}

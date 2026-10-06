@@ -1,0 +1,9 @@
+{
+ "path": "/api/dump/market-dumps/adjustment-factors/download-url",
+ "params": {},
+ "data": {
+  "presigned_url": "https://o.thsi.cn/fuyao-financial-api.fuyao-a-share-prices-market-dump/market-dump/adjustment_factors/releases/20261005/a_share_adjustment_factors_event_none_all_20261005.parquet?AWSAccessKeyId=ZMBJOFJ6H96WBMTOZM20&Expires=1791248261&Signature=PIMUgOpJVeW2QWv%2BhF6EWC6T4zk%3D",
+  "presigned_url_expires_at": "2026-10-06T08:57:41.495473348+08:00",
+  "expires_in_seconds": 300
+ }
+}

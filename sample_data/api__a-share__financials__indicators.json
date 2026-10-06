@@ -1,0 +1,130 @@
+{
+ "path": "/api/a-share/financials/indicators",
+ "params": {
+  "thscode": "600519.SH",
+  "report": "2025-1"
+ },
+ "data": {
+  "thscode": "600519.SH",
+  "report": "2025-1",
+  "abilities": [
+   {
+    "ability": "growth",
+    "indicators": [
+     {
+      "index_id": "calculate_operating_income_yoy_growth_ratio",
+      "value": "10.54153200"
+     },
+     {
+      "index_id": "calculate_operating_profit_yoy_growth_ratio",
+      "value": "11.69954900"
+     },
+     {
+      "index_id": "total_assets_growth_ratio",
+      "value": "4.4905"
+     },
+     {
+      "index_id": "calculate_parent_holder_net_profit_yoy_growth_ratio",
+      "value": "11.56111200"
+     }
+    ]
+   },
+   {
+    "ability": "profitability",
+    "indicators": [
+     {
+      "index_id": "total_assets_net_ratio",
+      "value": "9.0869"
+     },
+     {
+      "index_id": "index_deduct_weighted_avg_roe",
+      "value": "36.0300"
+     },
+     {
+      "index_id": "sale_gross_margin",
+      "value": "91.9736"
+     },
+     {
+      "index_id": "sale_net_interest_ratio",
+      "value": "54.8895"
+     },
+     {
+      "index_id": "index_weighted_avg_roe",
+      "value": "10.9200"
+     }
+    ]
+   },
+   {
+    "ability": "solvency",
+    "indicators": [
+     {
+      "index_id": "current_ratio",
+      "value": "6.0749"
+     },
+     {
+      "index_id": "cash_ratio",
+      "value": "118.98570600"
+     },
+     {
+      "index_id": "quick_ratio",
+      "value": "4.7846"
+     },
+     {
+      "index_id": "earned_interest_multiple",
+      "value": null
+     },
+     {
+      "index_id": "assets_debt_ratio",
+      "value": "14.1430"
+     }
+    ]
+   },
+   {
+    "ability": "operation",
+    "indicators": [
+     {
+      "index_id": "total_assets_turnover_ratio",
+      "value": "0.1655"
+     },
+     {
+      "index_id": "inventory_turnover_ratio",
+      "value": "0.0744"
+     },
+     {
+      "index_id": "long_term_debt_equity_ratio",
+      "value": "0.11928600"
+     },
+     {
+      "index_id": "current_assets_turnover_ratio",
+      "value": "0.1985"
+     },
+     {
+      "index_id": "receive_account_turnover_ratio",
+      "value": "2961.4146"
+     }
+    ]
+   },
+   {
+    "ability": "cash-flow",
+    "indicators": [
+     {
+      "index_id": "net_profit_cash_content",
+      "value": "32.81200900"
+     },
+     {
+      "index_id": "cash_operating_index",
+      "value": "1.02105453"
+     },
+     {
+      "index_id": "operating_cash_flow_net_divide_income",
+      "value": "17.4091"
+     },
+     {
+      "index_id": "cash_meet_invest_ratio",
+      "value": "9.77599948"
+     }
+    ]
+   }
+  ]
+ }
+}

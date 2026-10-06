@@ -1,0 +1,301 @@
+{
+ "daily_k": {
+  "rows": 10316588,
+  "stocks": 5571,
+  "date_min": "2016-10-09",
+  "date_max": "2026-09-29",
+  "trading_days": 2427,
+  "duplicate_keys": 0,
+  "per_day_median": 4349.0,
+  "per_day_min": 2493,
+  "field_quality": {
+   "open_price": {
+    "null_rate": 0.0,
+    "zero_rate": 0.0,
+    "neg_rate": 0.0,
+    "min": 0.58,
+    "max": 2750.0
+   },
+   "high_price": {
+    "null_rate": 0.0,
+    "zero_rate": 0.0,
+    "neg_rate": 0.0,
+    "min": 0.58,
+    "max": 2777.77
+   },
+   "low_price": {
+    "null_rate": 0.0,
+    "zero_rate": 0.0,
+    "neg_rate": 0.0,
+    "min": 0.58,
+    "max": 2610.0
+   },
+   "close_price": {
+    "null_rate": 0.0,
+    "zero_rate": 0.0,
+    "neg_rate": 0.0,
+    "min": 0.58,
+    "max": 2700.0
+   },
+   "volume": {
+    "null_rate": 0.0,
+    "zero_rate": 0.0,
+    "neg_rate": 0.0,
+    "min": 100.0,
+    "max": 6011059200.0
+   },
+   "turnover": {
+    "null_rate": 0.0,
+    "zero_rate": 0.0,
+    "neg_rate": 0.0,
+    "min": 576.0,
+    "max": 141186633031.56
+   }
+  },
+  "ohlc_violations": 0,
+  "extreme_jumps": 5993,
+  "extreme_jump_stocks": 2703
+ },
+ "cross_check": [
+  {
+   "code": "000001",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000002",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000006",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000007",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000008",
+   "n_ths": 56,
+   "n_db": 55,
+   "n_matched": 44
+  },
+  {
+   "code": "000009",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000010",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000011",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000012",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000014",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000016",
+   "n_ths": 38,
+   "n_db": 39,
+   "n_matched": 30
+  },
+  {
+   "code": "000017",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000019",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000020",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000021",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000025",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000026",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000027",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000028",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000029",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000030",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000031",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000032",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000034",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000035",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000036",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000037",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000039",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000042",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000045",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000048",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000049",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000050",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000055",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000056",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000058",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000059",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000060",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000061",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  },
+  {
+   "code": "000062",
+   "n_ths": 60,
+   "n_db": 60,
+   "n_matched": 48
+  }
+ ]
+}

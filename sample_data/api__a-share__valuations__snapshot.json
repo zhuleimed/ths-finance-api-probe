@@ -1,0 +1,22 @@
+{
+ "path": "/api/a-share/valuations/snapshot",
+ "params": {
+  "thscodes": "600519.SH"
+ },
+ "data": {
+  "timestamp": 1791247948000,
+  "total": 1,
+  "item": [
+   {
+    "thscode": "600519.SH",
+    "ticker": "600519",
+    "name": "贵州茅台",
+    "pe_ttm": 19.320898,
+    "pe_mrq": 17.671698,
+    "pb_mrq": 6.26211,
+    "ps_ttm": 9.082149,
+    "pcf_ttm": 13.211237
+   }
+  ]
+ }
+}

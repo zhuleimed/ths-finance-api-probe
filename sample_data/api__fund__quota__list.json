@@ -1,0 +1,7 @@
+{
+ "path": "/api/fund/quota/list",
+ "params": {
+  "tab": "[\"nazhi100\"]"
+ },
+ "data": []
+}

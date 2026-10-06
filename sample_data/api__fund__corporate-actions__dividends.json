@@ -1,0 +1,181 @@
+{
+ "path": "/api/fund/corporate-actions/dividends",
+ "params": {
+  "thscode": "510300.SH"
+ },
+ "data": {
+  "dividend_count": 14,
+  "dividend_total": 0.8800000000000001,
+  "timestamp": 1791247970517,
+  "item": [
+   {
+    "per_ten_cash_before_tax": 1.23,
+    "per_ten_cash_after_tax": 1.23,
+    "progress": "2",
+    "publish_date_ms": 1768147200000,
+    "registration_date_ms": 1768492800000,
+    "ex_dividend_date_ms": 1768752000000,
+    "payment_date_ms": 1769443200000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1767110400000,
+    "in_dividend_date_ms": 1768752000000
+   },
+   {
+    "per_ten_cash_before_tax": 0.88,
+    "per_ten_cash_after_tax": 0.88,
+    "progress": "2",
+    "publish_date_ms": 1749571200000,
+    "registration_date_ms": 1750089600000,
+    "ex_dividend_date_ms": 1750176000000,
+    "payment_date_ms": 1750953600000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1744041600000,
+    "in_dividend_date_ms": 1750176000000
+   },
+   {
+    "per_ten_cash_before_tax": 0.69,
+    "per_ten_cash_after_tax": 0.69,
+    "progress": "2",
+    "publish_date_ms": 1704902400000,
+    "registration_date_ms": 1705420800000,
+    "ex_dividend_date_ms": 1705507200000,
+    "payment_date_ms": 1705939200000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1703952000000,
+    "in_dividend_date_ms": 1705507200000
+   },
+   {
+    "per_ten_cash_before_tax": 0.64,
+    "per_ten_cash_after_tax": 0.64,
+    "progress": "2",
+    "publish_date_ms": 1673193600000,
+    "registration_date_ms": 1673539200000,
+    "ex_dividend_date_ms": 1673798400000,
+    "payment_date_ms": 1674057600000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1672416000000,
+    "in_dividend_date_ms": 1673798400000
+   },
+   {
+    "per_ten_cash_before_tax": 0.75,
+    "per_ten_cash_after_tax": 0.75,
+    "progress": "2",
+    "publish_date_ms": 1641916800000,
+    "registration_date_ms": 1642435200000,
+    "ex_dividend_date_ms": 1642521600000,
+    "payment_date_ms": 1642953600000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1640880000000,
+    "in_dividend_date_ms": 1642521600000
+   },
+   {
+    "per_ten_cash_before_tax": 0.72,
+    "per_ten_cash_after_tax": 0.72,
+    "progress": "2",
+    "publish_date_ms": 1610294400000,
+    "registration_date_ms": 1610640000000,
+    "ex_dividend_date_ms": 1610899200000,
+    "payment_date_ms": 1611158400000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1609344000000,
+    "in_dividend_date_ms": 1610899200000
+   },
+   {
+    "per_ten_cash_before_tax": 0.62,
+    "per_ten_cash_after_tax": 0.62,
+    "progress": "2",
+    "publish_date_ms": 1575475200000,
+    "registration_date_ms": 1575907200000,
+    "ex_dividend_date_ms": 1575993600000,
+    "payment_date_ms": 1576425600000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1574352000000,
+    "in_dividend_date_ms": 1575993600000
+   },
+   {
+    "per_ten_cash_before_tax": 0.59,
+    "per_ten_cash_after_tax": 0.59,
+    "progress": "2",
+    "publish_date_ms": 1547049600000,
+    "registration_date_ms": 1547481600000,
+    "ex_dividend_date_ms": 1547568000000,
+    "payment_date_ms": 1548000000000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1546185600000,
+    "in_dividend_date_ms": 1547568000000
+   },
+   {
+    "per_ten_cash_before_tax": 0.46,
+    "per_ten_cash_after_tax": 0.46,
+    "progress": "2",
+    "publish_date_ms": 1516118400000,
+    "registration_date_ms": 1516550400000,
+    "ex_dividend_date_ms": 1516636800000,
+    "payment_date_ms": 1516896000000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1514649600000,
+    "in_dividend_date_ms": 1516636800000
+   },
+   {
+    "per_ten_cash_before_tax": 0.55,
+    "per_ten_cash_after_tax": 0.55,
+    "progress": "2",
+    "publish_date_ms": 1484582400000,
+    "registration_date_ms": 1484841600000,
+    "ex_dividend_date_ms": 1485100800000,
+    "payment_date_ms": 1485360000000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1483113600000,
+    "in_dividend_date_ms": 1485100800000
+   },
+   {
+    "per_ten_cash_before_tax": 0.51,
+    "per_ten_cash_after_tax": 0.51,
+    "progress": "2",
+    "publish_date_ms": 1452700800000,
+    "registration_date_ms": 1453132800000,
+    "ex_dividend_date_ms": 1453219200000,
+    "payment_date_ms": 1453651200000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1451491200000,
+    "in_dividend_date_ms": 1453219200000
+   },
+   {
+    "per_ten_cash_before_tax": 0.35,
+    "per_ten_cash_after_tax": 0.35,
+    "progress": "2",
+    "publish_date_ms": 1421164800000,
+    "registration_date_ms": 1421596800000,
+    "ex_dividend_date_ms": 1421683200000,
+    "payment_date_ms": 1421942400000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1419955200000,
+    "in_dividend_date_ms": 1421683200000
+   },
+   {
+    "per_ten_cash_before_tax": 0.48,
+    "per_ten_cash_after_tax": 0.48,
+    "progress": "2",
+    "publish_date_ms": 1389715200000,
+    "registration_date_ms": 1390147200000,
+    "ex_dividend_date_ms": 1390233600000,
+    "payment_date_ms": 1390752000000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1388419200000,
+    "in_dividend_date_ms": 1390233600000
+   },
+   {
+    "per_ten_cash_before_tax": 0.33,
+    "per_ten_cash_after_tax": 0.33,
+    "progress": "2",
+    "publish_date_ms": 1355241600000,
+    "registration_date_ms": 1355673600000,
+    "ex_dividend_date_ms": 1355760000000,
+    "payment_date_ms": 1356278400000,
+    "reinvestment_date_ms": null,
+    "profit_base_date_ms": 1354464000000,
+    "in_dividend_date_ms": 1355760000000
+   }
+  ]
+ }
+}
