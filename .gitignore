@@ -9,8 +9,10 @@ __pycache__/
 # 大文件：Parquet dump（175MB，可重新下载）
 data/dump/*.parquet
 
-# 备份（含 1.8GB 整库副本，绝不入库）
-data/backup/
+# 备份数据（含 1.8GB 整库副本，绝不入库）
+# 但清单要入库——它是「哪个备份对应哪次修复 / 怎么回滚」的唯一记录
+data/backup/*
+!data/backup/MANIFEST.md
 
 # 中间产物
 data/probe_progress.json
