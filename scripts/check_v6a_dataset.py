@@ -25,7 +25,7 @@ ROOT = Path("/public/home/hpc/zhulei/superman/quant/code/017_workbuddy/004_sequo
 CACHE = ROOT / "data/cache/v2_dataset"
 NEW_COLS = ["fin_ths_cash_quality", "fin_ths_cash_sales", "fin_ths_cash_index",
             "fin_ths_cash_invest", "fin_ths_rd_intensity"]
-TODAY = "2026-10-06"
+TODAY = "2026-10-06"   # 本次实验的重建日（缓存 created 须 >= 此日）
 
 
 def hr(t):
@@ -33,7 +33,13 @@ def hr(t):
 
 
 def find_caches():
-    """按 metadata 找出今天新建的 v5 / v6 缓存。"""
+    """找出本次重建的 v5 / v6 缓存。
+
+    ★ 2026-10-07 修正的 bug：初版按 `params.sample_end == "2026-09-30"` 过滤，
+      但 metadata 里实际记的是 **2026-09-21**（那是最后一个【采样日】，
+      不是 cfg 的数据截止日）—— 假设写死导致两臂一个都没匹配上，验收假失败。
+      改为：按 created 在本次实验窗口内（>= TODAY）、每 fv 取**最新**的一个。
+    """
     out = {}
     for d in sorted(CACHE.glob("*/")):
         mf = d / "metadata.json"
@@ -44,12 +50,16 @@ def find_caches():
         except Exception:
             continue
         p = m.get("params", {})
-        if not str(m.get("created", "")).startswith(TODAY):
+        if str(m.get("created", "")) < TODAY:
             continue
         fv = p.get("feature_version")
-        if p.get("sample_end") != "2026-09-30":
+        if fv not in (5, 6):
             continue
-        out.setdefault(fv, []).append((d, m))
+        lst = out.setdefault(fv, [])
+        lst.append((d, m))
+        # 按 created 倒序保留最新
+        lst.sort(key=lambda x: str(x[1].get("created", "")), reverse=True)
+        out[fv] = lst[:1]
     return out
 
 
@@ -93,20 +103,34 @@ def main():
     if not (n_same and st_same):
         fails.append("两臂样本数/股票数不一致 → 不同源，不可比")
 
-    hr("④ 采样日期序列一致")
+    hr("④ 采样日期序列一致（按内容比对，顺序不敏感）")
     da = json.loads((A_dir / "dates.json").read_text())
     db = json.loads((B_dir / "dates.json").read_text())
-    same = (da == db)
-    print(f"   长度 A={len(da)}  B={len(db)}   完全一致={same}  {'✅' if same else '❌'}")
-    print(f"   范围 {da[0]} ~ {da[-1]}")
+    from collections import Counter
+    same = (Counter(da) == Counter(db))
+    print(f"   长度 A={len(da):,}  B={len(db):,}")
+    print(f"   逐位相同={da == db}   内容相同(顺序无关)={same}  {'✅' if same else '❌'}")
+    print(f"   范围 {min(da)} ~ {max(da)}")
+    print("   注：两臂**行顺序不同**（并行 worker 完成次序非确定），但每个采样日的")
+    print("       样本数完全一致 → 是同一批样本的不同排列，不影响按日期取数的训练逻辑。")
     if not same:
-        fails.append("两臂采样日期不一致")
+        fails.append("两臂采样日期内容不一致")
 
-    hr("⑤⑥ 新增 5 列：非退化 + 无 NaN/inf")
-    # 用 mmap 只读需要的列，避免加载 25GB×2
+    # ── 列布局（2026-10-07 实测确认，初版假设"新列在末尾"是错的）──
+    #   76 基础 + N 扩展 + 12 补零 = 总宽
+    #     A: 76 + 41 + 12 = 129
+    #     B: 76 + 46 + 12 = 134   ← 新 5 维接在原有 41 维之后（列 117~121），**不是末尾**
+    BASE_DIM, PAD_DIM = 76, 12
+
+    hr("⑤⑥ 新增 5 列（列 117~121）：非退化 + 无 NaN/inf")
     Xb = np.load(B_dir / "X.npy", mmap_mode="r")
-    sub = np.asarray(Xb[:, :, 129:134])          # 最后 5 列
-    print(f"   取 B 臂最后 5 列，shape={sub.shape}")
+    extra_b = sb[2] - BASE_DIM - PAD_DIM
+    new_start = BASE_DIM + (extra_b - len(NEW_COLS))
+    print(f"   B 扩展维度数={extra_b}（41 原有 + {len(NEW_COLS)} 新增）→ "
+          f"新列位于 [{new_start}, {new_start + len(NEW_COLS)})")
+    print(f"   末 {PAD_DIM} 列 [{sb[2]-PAD_DIM}, {sb[2]}) 为补零区")
+    sub = np.asarray(Xb[:, :, new_start:new_start + len(NEW_COLS)])
+    print(f"   取该区段，shape={sub.shape}")
     for i, name in enumerate(NEW_COLS):
         col = sub[:, :, i]
         nz = float((col != 0).mean())
@@ -119,20 +143,35 @@ def main():
         if not good:
             fails.append(f"{name} 退化或有脏值（非零率={nz:.4f} std={std}）")
 
-    hr("⑦ 前 129 列两臂一致（确保只追加、没动原有特征）")
+    hr("⑦ 原有 117 列两臂一致（基础76+扩展41，确保只增不改）")
+    print("   注：两臂行顺序不同 → 必须在**同一采样日内按行指纹排序后**比对，")
+    print("       否则逐位比较会因错位而大面积假失败（初版即踩此坑）。")
     Xa = np.load(A_dir / "X.npy", mmap_mode="r")
-    n_sample = min(2000, Xa.shape[0])
-    idx = np.linspace(0, Xa.shape[0] - 1, n_sample).astype(int)
-    a_part = np.asarray(Xa[idx, :, :129])
-    b_part = np.asarray(Xb[idx, :, :129])
-    diff = np.abs(a_part - b_part)
-    mx = float(diff.max())
-    n_diff = int((diff > 1e-9).sum())
-    print(f"   抽样 {n_sample} 个样本 × 120 天 × 129 列")
-    print(f"   最大绝对差={mx:.6e}   超过 1e-9 的元素数={n_diff}")
-    print(f"   {'✅ 两臂前 129 列逐位一致（只追加了新列）' if n_diff == 0 else '⚠️ 存在差异，需排查'}")
-    if n_diff:
-        fails.append(f"前 129 列不一致（{n_diff} 个元素）")
+    da_arr, db_arr = np.array(da), np.array(db)
+    dates_common = sorted(set(da_arr) & set(db_arr))
+    n_checked = n_mismatch = 0
+    bad_date = None
+    for dt in dates_common[:12]:                      # 抽 12 个采样日
+        ia = np.where(da_arr == dt)[0]
+        ib = np.where(db_arr == dt)[0]
+        a = np.asarray(Xa[ia][:, :, :117]).astype(np.float32)
+        b = np.asarray(Xb[ib][:, :, :117]).astype(np.float32)
+        fa = np.array([hash(x.tobytes()) for x in a])
+        fb = np.array([hash(x.tobytes()) for x in b])
+        if set(fa.tolist()) != set(fb.tolist()):
+            n_mismatch += 1
+            bad_date = dt
+            continue
+        sa = a[np.argsort(fa)]
+        sb_ = b[np.argsort(fb)]
+        if not np.array_equal(sa, sb_):
+            n_mismatch += 1
+            bad_date = dt
+        n_checked += 1
+    print(f"   抽 {len(dates_common[:12])} 个采样日逐行指纹比对："
+          f"通过 {n_checked}，不符 {n_mismatch}  {'✅' if n_mismatch == 0 else '❌'}")
+    if n_mismatch:
+        fails.append(f"原有 117 列两臂不一致（首个异常采样日 {bad_date}）")
 
     hr("结论")
     if fails:
