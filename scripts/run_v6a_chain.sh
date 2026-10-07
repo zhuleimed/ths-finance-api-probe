@@ -29,7 +29,7 @@ echo "  等待重建进程 PID=$WAIT_PID 结束…"
 #      别的进程，kill -0 仍返回成功 → 接力会**永远等下去** → 整晚白等。
 #   ② 故再核一次进程名（args 含 run_v6a_rebuild）确认身份。
 #   ③ 再加 MAX_WAIT 兜底：无论什么原因，6 小时后一定往下走，绝不无限等。
-MAX_WAIT=$((6 * 3600))
+MAX_WAIT=$((12 * 3600))   # 12h：B 臂实测跑 7h，原 6h 上限太紧
 waited=0
 while [ "$waited" -lt "$MAX_WAIT" ]; do
   if ! kill -0 "$WAIT_PID" 2>/dev/null; then
